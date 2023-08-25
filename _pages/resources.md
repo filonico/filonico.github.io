@@ -6,11 +6,3 @@ author_profile: true
 ---
 
 Work in progress
-sada
-asda
-sd
-as
-a
-ads
-
-asaaaaaaaaa
