@@ -31,7 +31,7 @@ redirect_from:
 
 ## Courses and workshops
 
-* ITA*PHY phylogenetics workshop\
+* ITA\*PHY phylogenetics workshop\
   *6th Jun, 2023 – 9th Jun, 2023*
 
 * Sex chromosome evolution\
