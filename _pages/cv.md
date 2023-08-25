@@ -9,11 +9,11 @@ redirect_from:
 
 ## Education
 
-* **Ph.D in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected)** \
+* **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected) \
 *Subject: Comparative genomics of bivalve sex-determination realted genes*
-* **M.Sc in "Biodiversity and evolution", University of Bologna, 2021** \
+* **M.Sc** in "Biodiversity and evolution", University of Bologna, 2021 \
 *Thesis: Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*
-* **B.Sc in "Biological Sciences", University of Bologna, 2019** \
+* **B.Sc** in "Biological Sciences", University of Bologna, 2019 \
 *Thesis: Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*
 
 ## Publications
@@ -26,14 +26,19 @@ redirect_from:
 
 ## Teaching assistant
 
-* **Zoology course** (Sept 2022 - Jan 2023)
+* Zoology course\
+  *Sept 2022 - Jan 2023*
 
 ## Courses and workshops
 
-* **ITA*PHY phylogenetics workshop** (6th Jun, 2023 – 9th Jun, 2023)
+* ITA*PHY phylogenetics workshop\
+  *6th Jun, 2023 – 9th Jun, 2023*
 
-* **Sex chromosome evolution** (23rd Jan, 2023 – 27th Jan, 2023)
+* Sex chromosome evolution\
+  *23rd Jan, 2023 – 27th Jan, 2023*
 
-* **Identification of butterflies from the Eastern Alps** (12th Mar, 2022 – 2nd Apr, 2022)
+* Identification of butterflies from the Eastern Alps\
+  *12th Mar, 2022 – 2nd Apr, 2022*
 
-* **Science communication** (12th May, 2021 – 3rd Jun, 2021)
+* Science communication\
+  *12th May, 2021 – 3rd Jun, 2021*
