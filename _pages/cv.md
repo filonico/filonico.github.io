@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+*WORK IN PROGRESS*
+
 ## Education
 
 * **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected) \
