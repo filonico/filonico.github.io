@@ -15,6 +15,4 @@ Unfortunatly, the website is currently only in Italian, but if you are intereste
 
 [![biopills](/images/biopills.jpg)](https://www.biopills.net/)
 
-<p>
-<img src="/images/biopills.jpg" alt="biopills", height="10">
-</p>
+<p "<img src="/images/biopills.jpg" alt="biopills", height="10">">
