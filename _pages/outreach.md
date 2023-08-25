@@ -13,6 +13,4 @@ At the moment, I am the leading editor of the "Environment and Nature" section o
 
 Unfortunatly, the website is currently only in Italian, but if you are interested in learning more about it, feel free to get in touch!
 
-[![biopills](/images/biopills.jpg)](https://www.biopills.net/)
-
-<p "<img src="/images/biopills.jpg" alt="biopills", height="10">">
+[![biopills](/images/biopills_resized.jpg)](https://www.biopills.net/)
