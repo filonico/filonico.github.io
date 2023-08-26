@@ -26,10 +26,27 @@ redirect_from:
 
 * Forni, G., Cussigh, A., Brock, P. D., Jones, B. R., <ins>Nicolini, F.</ins>, Martelossi, J., ... & Mantovani, B. (2023). **Taxonomic revision of the Australian stick insect genus *Candovia* (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches**. *Zoological Journal of the Linnean Society*, *197*(1), 189-210. doi: https://doi.org/10.1093/zoolinnean/zlac074
 
+## Outreach activity
+
+> *Have also a look at the [Outreach](/outreach/) section*
+
+* Editor and web writer, BioPills\
+  *Jul 2017 - ongoing*
+
+* BiGeA Day 2023, University of Bologna\
+  *May 27th, 2023*
+
+* University of Bologna opening days\
+  *Nov 18th, 2022*
+
 ## Teaching assistant
 
 * Zoology course\
   *Sept 2022 - Jan 2023*
+
+## Oral presentations at congresses
+
+* <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution. *Evolution 2023* (*Ernst Mayr Award symposium*), online, 2nd-3rd June.
 
 ## Courses and workshops
 
@@ -44,3 +61,17 @@ redirect_from:
 
 * Science communication\
   *12th May, 2021 – 3rd Jun, 2021*
+
+## Awards and scholarships
+
+* Laura Bassi scholarship for editorial assistance to postgraduates and junior academics by Editing
+Press\
+  *Apr 13th, 2023*
+
+## Visiting fellow
+
+* Sergey Nuzhdin's group, University of Southern California (Los Angeles, California, USA)
+  *Aug 20th, 2023 - ongoing*
+
+* Juan Pasantes' group, University of Vigo (Vigo, Spain)\
+  *Jan 12th, 2023 – Jan 22nd, 2023*
