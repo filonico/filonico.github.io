@@ -7,16 +7,19 @@ redirect_from:
   - /resume
 ---
 
-*WORK IN PROGRESS*
+*Last updated: Aug 25th, 2023*
 
 ## Education
 
-* **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected) \
-*Subject: Comparative genomics of bivalve sex-determination realted genes*
-* **M.Sc** in "Biodiversity and evolution", University of Bologna, 2021 \
-*Thesis: Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*
-* **B.Sc** in "Biological Sciences", University of Bologna, 2019 \
-*Thesis: Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*
+* **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected)\
+*Subject: Comparative genomics of bivalve sex-determination realted genes*\
+*Supervisor: prof. Andrea Luchetti*
+* **M.Sc** in "Biodiversity and evolution", University of Bologna, 2021\
+*Thesis: Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*\
+*Supervisor: prof. Andrea Luchetti*
+* **B.Sc** in "Biological Sciences", University of Bologna, 2019\
+*Thesis: Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*\
+*Supervisor: prof. Barbara Mantovani*
 
 ## Publications
 
@@ -71,7 +74,7 @@ Press\
 
 ## Visiting fellow
 
-* **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)
+* **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)\
   *Aug 20th, 2023 - ongoing*
 
 * **Juan Pasantes' group**, University of Vigo (Vigo, Spain)\
