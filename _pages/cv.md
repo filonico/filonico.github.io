@@ -28,8 +28,7 @@ redirect_from:
 
 ## Outreach activity
 
-> *Have also a look at the [Outreach](/outreach/) section*
-
+*Have also a look at the [Outreach](/outreach/) section*
 * Editor and web writer, BioPills\
   *Jul 2017 - ongoing*
 
@@ -44,22 +43,24 @@ redirect_from:
 * Zoology course\
   *Sept 2022 - Jan 2023*
 
-## Oral presentations at congresses
+## Presentations at congresses
 
-* <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution. *Evolution 2023* (*Ernst Mayr Award symposium*), online, 2nd-3rd June.
+*For a collection of poster presentations please visit the [Other resources](/resources/) section*
+
+* <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*), online, 2nd-3rd June.
 
 ## Courses and workshops
 
 * ITA\*PHY phylogenetics workshop\
   *6th Jun, 2023 – 9th Jun, 2023*
 
-* Sex chromosome evolution\
+* Sex chromosome evolution (by Physalia Courses)\
   *23rd Jan, 2023 – 27th Jan, 2023*
 
-* Identification of butterflies from the Eastern Alps\
+* Identification of butterflies from the Eastern Alps (by Dolimiti National Park)\
   *12th Mar, 2022 – 2nd Apr, 2022*
 
-* Science communication\
+* Science communication (by Feltrinelli Education)\
   *12th May, 2021 – 3rd Jun, 2021*
 
 ## Awards and scholarships
@@ -70,8 +71,8 @@ Press\
 
 ## Visiting fellow
 
-* Sergey Nuzhdin's group, University of Southern California (Los Angeles, California, USA)
+* **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)
   *Aug 20th, 2023 - ongoing*
 
-* Juan Pasantes' group, University of Vigo (Vigo, Spain)\
+* **Juan Pasantes' group**, University of Vigo (Vigo, Spain)\
   *Jan 12th, 2023 – Jan 22nd, 2023*
