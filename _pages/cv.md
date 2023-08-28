@@ -79,3 +79,18 @@ Press\
 
 * **Juan Pasantes' group**, University of Vigo (Vigo, Spain)\
   *Jan 12th, 2023 – Jan 22nd, 2023*
+
+
+## Society memberships
+
+* **Italian Society for Evolutionary Biology** (SIBE/ISEB)\
+  *Sept 2022 - ongoing*
+
+* **Society for Molecular Biology and Evolution** (SMBE)\
+  *Jul 2023 - ongoing*
+
+* **Society for the Study of Evolution** (SSE)\
+  *Jan 2023 - ongoing*
+
+* **European Society for Evolutionary Developmental Biology** (EED)\
+  *Apr 2022 - ongoing*
