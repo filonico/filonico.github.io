@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I am Filippo Nicolini, a **PhD student** at the University of Bologna with people from the [EVO · COM research group](https://sites.google.com/view/evo-com-unibo/home).
+Hello everyone! I am Filippo Nicolini, a **PhD student** at the University of Bologna working with people from the [EVO · COM research group](https://sites.google.com/view/evo-com-unibo/home).
 
 My main scientific interest regards evolutionary zoology and, within my PhD, I would really love to improve my ability to study the reciprocal interplay between the **evolution of genomes** and the **evolution of complex traits** in order to undersdtand how the two processes influence each other.
 
