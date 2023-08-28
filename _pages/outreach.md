@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is **reaching out to people** and talk about evolution and biology. The expression people have when they enjoying science is definetely priceless!
+While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is **reaching out to people** and talk about evolution and biology. The expression people have when they are enjoying science is definetely priceless!
 
 That is the reason why in 2017 I engaged with **[BioPills](https://www.biopills.net/)**, an Italian science-communication project that wants to communicate the beauty of life sciences in an effective mannner but without forgetting factual accuracy.
 
