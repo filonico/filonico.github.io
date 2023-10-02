@@ -45,9 +45,6 @@ redirect_from:
 
 ### Bioinformatics
 
-<details>
-  <summary>Read more</summary>
-
 * *Programming and command languages*
   * <code>bash</code>
   * <code>R</code>
@@ -81,19 +78,11 @@ redirect_from:
   * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
   * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
 
-</details>
-
 ### *Wet-lab*
-
-<details>
-  <summary>Read more</summary>
 
 * Metaphase-plate chromosome preparation
 * Total DNA extraction
 * PCR
-
-</details>
-
 
 ## Teaching assistant
 
