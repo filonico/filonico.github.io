@@ -48,38 +48,38 @@ redirect_from:
 <details>
   <summary>Read more</summary>
 
-  * *Programming and command languages*
-    * <code>bash</code>
-    * <code>R</code>
-    * <code>python3</code>
+* *Programming and command languages*
+  * <code>bash</code>
+  * <code>R</code>
+  * <code>python3</code>
 
-  * *Phylogenetics*
-    * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
-    * Bayesian phylogenetic analysis ([<code>MrBayes</code>](https://nbisweden.github.io/MrBayes/), [<code>PhyloBayes</code>](http://www.atgc-montpellier.fr/phylobayes/))
-    * Global alignment tools ([<code>MAFFT</code>](https://mafft.cbrc.jp/alignment/software/), [<code>MUSCLE</code>](https://github.com/rcedgar/muscle), [<code>Clustal Omega</code>](http://www.clustal.org/omega/), [<code>trimAl</code>](http://trimal.cgenomics.org/), [<code>GBlocks</code>](https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html))
-    * Tree calibration ([<code>lsd2</code>](https://github.com/tothuhien/lsd2), [<code>MCMCTree</code>](http://abacus.gene.ucl.ac.uk/software/paml.html))
-    * Tree decomposition ([<code>DISCO</code>](https://github.com/JSdoubleL/DISCO))
+* *Phylogenetics*
+  * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
+  * Bayesian phylogenetic analysis ([<code>MrBayes</code>](https://nbisweden.github.io/MrBayes/), [<code>PhyloBayes</code>](http://www.atgc-montpellier.fr/phylobayes/))
+  * Global alignment tools ([<code>MAFFT</code>](https://mafft.cbrc.jp/alignment/software/), [<code>MUSCLE</code>](https://github.com/rcedgar/muscle), [<code>Clustal Omega</code>](http://www.clustal.org/omega/), [<code>trimAl</code>](http://trimal.cgenomics.org/), [<code>GBlocks</code>](https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html))
+  * Tree calibration ([<code>lsd2</code>](https://github.com/tothuhien/lsd2), [<code>MCMCTree</code>](http://abacus.gene.ucl.ac.uk/software/paml.html))
+  * Tree decomposition ([<code>DISCO</code>](https://github.com/JSdoubleL/DISCO))
 
-  * *Comparative genomics*
-    * Orthology inference ([<code>OrthoFinder</code>](https://github.com/davidemms/OrthoFinder), [<code>Possvm</code>](https://github.com/xgrau/possvm-orthology), [<code>TOGA</code>](https://github.com/hillerlab/TOGA))
-    * Gene annotation ([<code>BLAST</code>](https://github.com/ncbi/blast_plus_docs), [<code>DIAMOND</code>](https://github.com/bbuchfink/diamond), [<code>HMMER</code>](https://github.com/EddyRivasLab/hmmer), [<code>InterProScan</code>](https://github.com/ebi-pf-team/interproscan), [<code>tRNAscan-SE</code>](https://github.com/UCSC-LoweLab/tRNAscan-SE))
-    * Genome quality assessment ([<code>BUSCO</code>](https://busco.ezlab.org/))
-    * Molecular evolution ([<code>PAML</code>](http://abacus.gene.ucl.ac.uk/software/paml.html), [<code>HyPhy</code>](http://hyphy.org/), [<code>BASE</code>](https://github.com/for-giobbe/BASE), [<code>RRTree</code>](https://github.com/mrrlab/RRTree))
-    * Gene macro-synteny ([<code>MCScanX</code>](https://github.com/wyp1125/MCScanX)/[<code>JCVI</code>](https://github.com/tanghaibao/jcvi))
-    * Detection of sex-related loci ([<code>SEX-DETector</code>](https://gitlab.in2p3.fr/sex-det-family/sex-detector), [<code>SDpop</code>](https://gitlab.in2p3.fr/sex-det-family/sdpop))
-    * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT))
+* *Comparative genomics*
+  * Orthology inference ([<code>OrthoFinder</code>](https://github.com/davidemms/OrthoFinder), [<code>Possvm</code>](https://github.com/xgrau/possvm-orthology), [<code>TOGA</code>](https://github.com/hillerlab/TOGA))
+  * Gene annotation ([<code>BLAST</code>](https://github.com/ncbi/blast_plus_docs), [<code>DIAMOND</code>](https://github.com/bbuchfink/diamond), [<code>HMMER</code>](https://github.com/EddyRivasLab/hmmer), [<code>InterProScan</code>](https://github.com/ebi-pf-team/interproscan), [<code>tRNAscan-SE</code>](https://github.com/UCSC-LoweLab/tRNAscan-SE))
+  * Genome quality assessment ([<code>BUSCO</code>](https://busco.ezlab.org/))
+  * Molecular evolution ([<code>PAML</code>](http://abacus.gene.ucl.ac.uk/software/paml.html), [<code>HyPhy</code>](http://hyphy.org/), [<code>BASE</code>](https://github.com/for-giobbe/BASE), [<code>RRTree</code>](https://github.com/mrrlab/RRTree))
+  * Gene macro-synteny ([<code>MCScanX</code>](https://github.com/wyp1125/MCScanX)/[<code>JCVI</code>](https://github.com/tanghaibao/jcvi))
+  * Detection of sex-related loci ([<code>SEX-DETector</code>](https://gitlab.in2p3.fr/sex-det-family/sex-detector), [<code>SDpop</code>](https://gitlab.in2p3.fr/sex-det-family/sdpop))
+  * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT))
 
-  * *Mitogenomics*
-    * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
+* *Mitogenomics*
+  * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
 
-  * *Read manipulation*
-    * Raw reads quality check ([<code>FastQC</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [<code>MultiQC</code>](https://multiqc.info/))
-    * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
-    * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>samtools</code>](https://github.com/samtools/samtools))
+* *Read manipulation*
+  * Raw reads quality check ([<code>FastQC</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [<code>MultiQC</code>](https://multiqc.info/))
+  * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
+  * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>samtools</code>](https://github.com/samtools/samtools))
 
-  * *Transcriptomics*
-    * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
-    * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
+* *Transcriptomics*
+  * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
+  * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
 
 </details>
 
@@ -88,9 +88,9 @@ redirect_from:
 <details>
   <summary>Read more</summary>
 
-  * Metaphase-plate chromosome preparation
-  * Total DNA extraction
-  * PCR
+* Metaphase-plate chromosome preparation
+* Total DNA extraction
+* PCR
 
 </details>
 
