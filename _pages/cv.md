@@ -9,7 +9,7 @@ redirect_from:
 
 *Last updated: Oct 2, 2023*
 
-## Education
+## 1 – Education
 
 * **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected)\
 *Subject: Comparative genomics of bivalve sex-determination realted genes*\
@@ -21,7 +21,7 @@ redirect_from:
 *Thesis: Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*\
 *Supervisor: prof. Barbara Mantovani*
 
-## Publications
+## 2 – Publications
 
 * Martelossi, J., <ins>Nicolini, F.</ins>, Subacchi, S., Pasquale, D., Ghiselli, F., & Luchetti, A. (2023). **Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution**. *BMC Biology*, *21*(1), 1-23. doi: https://doi.org/10.1186/s12915-023-01632-z
 
@@ -29,7 +29,7 @@ redirect_from:
 
 * Forni, G., Cussigh, A., Brock, P. D., Jones, B. R., <ins>Nicolini, F.</ins>, Martelossi, J., ... & Mantovani, B. (2023). **Taxonomic revision of the Australian stick insect genus *Candovia* (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches**. *Zoological Journal of the Linnean Society*, *197*(1), 189-210. doi: https://doi.org/10.1093/zoolinnean/zlac074
 
-## Outreach activity
+## 3 – Outreach activity
 
 *Have also a look at the [Outreach](/outreach/) section*
 * Editor and web writer, BioPills\
@@ -41,9 +41,9 @@ redirect_from:
 * University of Bologna opening days\
   *Nov 18, 2022*
 
-## Professional skills
+## 4 – Professional skills
 
-### Bioinformatics
+### 4.1 – Bioinformatics
 
 * *Programming and command languages*
   * <code>bash</code>
@@ -78,24 +78,24 @@ redirect_from:
   * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
   * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
 
-### *Wet-lab*
+### 4.2 – *Wet-lab*
 
 * Metaphase-plate chromosome preparation
 * Total DNA extraction
 * PCR
 
-## Teaching assistant
+## 5 – Teaching assistant
 
 * Zoology course\
   *Sept 2022 – Jan 2023*
 
-## Presentations at congresses
+## 6 – Presentations at congresses
 
 *For a collection of poster presentations please visit the [Other resources](/resources/) section*
 
 * <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*), online, 2nd-3rd June.
 
-## Courses and workshops
+## 7 – Courses and workshops
 
 * Introduction to Python for biologists (by Physalia Courses)\
   *Sept 25 – 28, 2023*
@@ -112,13 +112,13 @@ redirect_from:
 * Science communication (by Feltrinelli Education)\
   *May 12 – Jun 3, 2021*
 
-## Awards and scholarships
+## 8 – Awards and scholarships
 
 * Laura Bassi scholarship for editorial assistance to postgraduates and junior academics by Editing
 Press\
   *Apr 13, 2023*
 
-## Visiting fellow
+## 9 – Visiting fellow
 
 * **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)\
   *Aug 20, 2023 – ongoing*
@@ -127,7 +127,7 @@ Press\
   *Jan 12 – 22, 2023*
 
 
-## Society memberships
+## 10 – Society memberships
 
 * **Italian Society for Evolutionary Biology** (SIBE/ISEB)\
   *Sept 2022 – ongoing*
