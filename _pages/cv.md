@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Aug 25th, 2023*
+*Last updated: Oct 2, 2023*
 
 ## Education
 
@@ -33,18 +33,18 @@ redirect_from:
 
 *Have also a look at the [Outreach](/outreach/) section*
 * Editor and web writer, BioPills\
-  *Jul 2017 - ongoing*
+  *Jul 2017 – ongoing*
 
 * BiGeA Day 2023, University of Bologna\
-  *May 27th, 2023*
+  *May 27, 2023*
 
 * University of Bologna opening days\
-  *Nov 18th, 2022*
+  *Nov 18, 2022*
 
 ## Teaching assistant
 
 * Zoology course\
-  *Sept 2022 - Jan 2023*
+  *Sept 2022 – Jan 2023*
 
 ## Presentations at congresses
 
@@ -54,43 +54,46 @@ redirect_from:
 
 ## Courses and workshops
 
+* Introduction to Python for biologists
+  *Sept 25 – 28, 2023*
+
 * ITA\*PHY phylogenetics workshop\
-  *6th Jun, 2023 – 9th Jun, 2023*
+  *Jun 6 – 9, 2023*
 
 * Sex chromosome evolution (by Physalia Courses)\
-  *23rd Jan, 2023 – 27th Jan, 2023*
+  *Jan 23 – 27, 2023*
 
 * Identification of butterflies from the Eastern Alps (by Dolimiti National Park)\
-  *12th Mar, 2022 – 2nd Apr, 2022*
+  *Mar 12 – Apr 2, 2022*
 
 * Science communication (by Feltrinelli Education)\
-  *12th May, 2021 – 3rd Jun, 2021*
+  *May 12 – Jun 3, 2021*
 
 ## Awards and scholarships
 
 * Laura Bassi scholarship for editorial assistance to postgraduates and junior academics by Editing
 Press\
-  *Apr 13th, 2023*
+  *Apr 13, 2023*
 
 ## Visiting fellow
 
 * **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)\
-  *Aug 20th, 2023 - ongoing*
+  *Aug 20, 2023 – ongoing*
 
 * **Juan Pasantes' group**, University of Vigo (Vigo, Spain)\
-  *Jan 12th, 2023 – Jan 22nd, 2023*
+  *Jan 12 – 22, 2023*
 
 
 ## Society memberships
 
 * **Italian Society for Evolutionary Biology** (SIBE/ISEB)\
-  *Sept 2022 - ongoing*
+  *Sept 2022 – ongoing*
 
 * **Society for Molecular Biology and Evolution** (SMBE)\
-  *Jul 2023 - ongoing*
+  *Jul 2023 – ongoing*
 
 * **Society for the Study of Evolution** (SSE)\
-  *Jan 2023 - ongoing*
+  *Jan 2023 – ongoing*
 
 * **European Society for Evolutionary Developmental Biology** (EED)\
-  *Apr 2022 - ongoing*
+  *Apr 2022 – ongoing*
