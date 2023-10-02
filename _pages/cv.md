@@ -49,7 +49,7 @@ redirect_from:
   * <code>python</code>
 
 * *Phylogenetics*
-  * ML phylogenetic analysis (<code>[IQTREE](http://www.iqtree.org/)</code>, <code>RAxML</code>, <code>FastTree</code>)
+  * ML phylogenetic analysis (<code>[IQTREE]</code>(https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), <code>FastTree</code>)
   * Bayesian phylogenetic analysis (<code>MrBayes</code>, <code>PhyloBayes</code>)
   * Alignment tools (<code>MAFFT</code>, <code>MUSCLE</code>, <code>Clustal Omega</code>, <code>trimAl</code>, <code>GBlocks</code>)
 
