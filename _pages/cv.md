@@ -46,14 +46,29 @@ redirect_from:
 * *Programming and command languages*
   * <code>bash</code>
   * <code>R</code>
-  * <code>python</code>
+  * <code>python3</code>
 
 * *Phylogenetics*
-  * ML phylogenetic analysis (<code>[IQTREE]</code>(https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), <code>FastTree</code>)
-  * Bayesian phylogenetic analysis (<code>MrBayes</code>, <code>PhyloBayes</code>)
-  * Alignment tools (<code>MAFFT</code>, <code>MUSCLE</code>, <code>Clustal Omega</code>, <code>trimAl</code>, <code>GBlocks</code>)
+  * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
+  * Bayesian phylogenetic analysis ([<code>MrBayes</code>](https://nbisweden.github.io/MrBayes/), [<code>PhyloBayes</code>](http://www.atgc-montpellier.fr/phylobayes/))
+  * Global alignment tools ([<code>MAFFT</code>](https://mafft.cbrc.jp/alignment/software/), [<code>MUSCLE</code>](https://github.com/rcedgar/muscle), [<code>Clustal Omega</code>](http://www.clustal.org/omega/), [<code>trimAl</code>](http://trimal.cgenomics.org/), [<code>GBlocks</code>](https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html))
+  * Tree calibration
+  * Tree decomposition ([<code>DISCO</code>](https://github.com/JSdoubleL/DISCO))
 
 * *Comparative genomics*
+  * Orthology inference ([<code>OrthoFinder</code>](https://github.com/davidemms/OrthoFinder), [<code>Possvm</code>](https://github.com/xgrau/possvm-orthology), [<code>TOGA</code>](https://github.com/hillerlab/TOGA))
+  * Gene annotation ([<code>BLAST</code>](https://github.com/ncbi/blast_plus_docs), [<code>DIAMOND</code>](https://github.com/bbuchfink/diamond), [<code>HMMER</code>](https://github.com/EddyRivasLab/hmmer), [<code>InterProScan</code>](https://github.com/ebi-pf-team/interproscan), [<code>tRNAscan-SE</code>](https://github.com/UCSC-LoweLab/tRNAscan-SE))
+  * Genome quality assessment ([<code>BUSCO</code>](https://busco.ezlab.org/))
+  * Molecular evolution ([<code>PAML</code>](http://abacus.gene.ucl.ac.uk/software/paml.html), [<code>HyPhy</code>](http://hyphy.org/), [<code>BASE</code>](https://github.com/for-giobbe/BASE), [<code>RRTree</code>](https://github.com/mrrlab/RRTree))
+  * Gene synteny ([<code>MCScanX</code>](https://github.com/wyp1125/MCScanX)/[<code>JCVI</code>](https://github.com/tanghaibao/jcvi))
+
+* *Mitogenomics*
+  * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
+
+* *Read assembly*
+  * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
+  * Read mapping ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2))
+
 
 ## Teaching assistant
 
