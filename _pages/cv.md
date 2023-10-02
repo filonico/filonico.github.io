@@ -49,7 +49,7 @@ redirect_from:
   * <code>python</code>
 
 * *Phylogenetics*
-  * ML phylogenetic analysis ([<code>IQTREE</code>](http://www.iqtree.org/), <code>RAxML</code>, <code>FastTree</code>)
+  * ML phylogenetic analysis (<code>[IQTREE](http://www.iqtree.org/)</code>, <code>RAxML</code>, <code>FastTree</code>)
   * Bayesian phylogenetic analysis (<code>MrBayes</code>, <code>PhyloBayes</code>)
   * Alignment tools (<code>MAFFT</code>, <code>MUSCLE</code>, <code>Clustal Omega</code>, <code>trimAl</code>, <code>GBlocks</code>)
 
@@ -68,7 +68,7 @@ redirect_from:
 
 ## Courses and workshops
 
-* Introduction to Python for biologists
+* Introduction to Python for biologists (by Physalia Courses)\
   *Sept 25 – 28, 2023*
 
 * ITA\*PHY phylogenetics workshop\
