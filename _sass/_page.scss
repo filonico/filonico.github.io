@@ -66,6 +66,7 @@
     /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
+        text-align: justify;
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
