@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I am Filippo Nicolini, a **PhD student** at the University of Bologna working with people from the [EVO · COM research group](https://sites.google.com/view/evo-com-unibo/home).
+<div style="text-align: justify">
+Hello everyone! I am Filippo Nicolini, a <b>PhD student</b> at the University of Bologna working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home">EVO · COM research group</a>.
 
-My main scientific interest regards evolutionary zoology and, within my PhD, I would really love to improve my ability to study the reciprocal interplay between the **evolution of genomes** and the **evolution of complex traits** in order to understand how the two processes influence each other.
+My main scientific interest regards evolutionary zoology and, within my PhD, I would really love to improve my ability to study the reciprocal interplay between the <b>evolution of genomes</b> and the <b>evolution of complex traits</b> in order to understand how the two processes influence each other.
 
-Not by chance, my PhD is mainly focused on **bivalve comparative genomics** with a particular interest for genes involved in **sex determination**, in the attempt to understand their patterns of molecular evolution and genome dynamics. Besides bioinformatics, I am also trying to make use of *wet lab* techniques (such as karyology and mRNA *in-situ* hybridization) in order to gain a more comprehensive investigation of bivalves sex determination.
+Not by chance, my PhD is mainly focused on <b>bivalve comparative genomics</b> with a particular interest for genes involved in <b>sex determination</b>, in the attempt to understand their patterns of molecular evolution and genome dynamics. Besides bioinformatics, I am also trying to make use of <i>wet lab</i> techniques (such as karyology and mRNA <i>in-situ</i> hybridization) in order to gain a more comprehensive investigation of bivalves sex determination.
 
-In the meanwhile, I am also engaged in a couple of collaborative research lines, consisting on comparative genomics analyses in **branchiopod crustaceans** and **walking sticks** to unravel the genomic bases of **morphological stasis** and **re-evolution of wings**, respectively.
+In the meanwhile, I am also engaged in a couple of collaborative research lines, consisting on comparative genomics analyses in <b>branchiopod crustaceans</b> and <b>walking sticks</b> to unravel the genomic bases of <b>morphological stasis</b> and <b>re-evolution of wings</b>, respectively.
 
 Enjoy my page and feel free to get in touch!!
+</div>
 
 ![homepic](/images/homepic_reduced.jpg)
