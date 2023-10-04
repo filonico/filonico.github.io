@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify">
 Hello everyone! I am Filippo Nicolini, a **PhD student** at the University of Bologna working with people from the [EVO · COM research group](https://sites.google.com/view/evo-com-unibo/home).
 
 My main scientific interest regards evolutionary zoology and, within my PhD, I would really love to improve my ability to study the reciprocal interplay between the **evolution of genomes** and the **evolution of complex traits** in order to understand how the two processes influence each other.
@@ -16,5 +17,7 @@ Not by chance, my PhD is mainly focused on **bivalve comparative genomics** with
 In the meanwhile, I am also engaged in a couple of collaborative research lines, consisting on comparative genomics analyses in **branchiopod crustaceans** and **walking sticks** to unravel the genomic bases of **morphological stasis** and **re-evolution of wings**, respectively.
 
 Enjoy my page and feel free to get in touch!!
+
+</div>
 
 ![homepic](/images/homepic_reduced.jpg)
