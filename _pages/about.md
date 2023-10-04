@@ -29,6 +29,9 @@ redirect_from:
   <br />
 
   Enjoy my page and feel free to get in touch!!
+
+  <br />
+  <br />
 </div>
 
 ![homepic](/images/homepic_reduced.jpg)
