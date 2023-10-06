@@ -11,11 +11,10 @@ redirect_from:
 evolutionary genomics • phylogenomics • zoology • outreach
 </div>
 
-<br />
 
 ---
+---
 
-<br />
 
 <div style="text-align: justify">
   Hello everyone! I am Filippo Nicolini, a <b>PhD student</b> at the University of Bologna working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home">EVO · COM research group</a>.
