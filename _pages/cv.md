@@ -48,7 +48,8 @@ redirect_from:
 * *Programming and command languages*
   * <code>bash</code> (advanced user)
   * <code>R</code> (intermediate user)
-  * <code>python3</code> (beginner)
+  * <code>python3</code> (beginner user)
+  * <code>html</code> (beginner user)
 
 * *Phylogenetics*
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
