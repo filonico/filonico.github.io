@@ -24,7 +24,7 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 ## Invertebrate zoology slides
 
 <div style="text-align: justify">
-In <b><a ref="https://drive.google.com/drive/folders/1Vz8-VQQ6qxYCR_4ogqrV-s6o9-4FaFsh?usp=sharing">this repository</a></b> you can the slides I settle up and used in the <b>practical invertebrate zoology</b> class in between Sep 2022 and Jan 2023.
+In <b><a ref="https://drive.google.com/drive/folders/1Vz8-VQQ6qxYCR_4ogqrV-s6o9-4FaFsh?usp=sharing">this repository</a></b> you can find the slides I settled up and used in the <b>practical invertebrate zoology</b> class in between Sep 2022 and Jan 2023.
       
 <br />
 <br />
@@ -39,7 +39,7 @@ Students were from the first year of the bachelor degree in "Biological Sciences
 <br />
 <br />
 
-In particular, I wanted to introduce students to <b>evolutionary thinking</b>, by including phylogenetic trees and vocaboulary. But above all, I wanted students to realize how <b>they come into contact</b> with invertebrates on a daily basis, and thus that (invertebrate) zoology is a concrete subject and can help people to better appreciate the world around them.
+In particular, I wanted to introduce students to <b>evolutionary thinking</b>, by including a primer of phylogenetic trees and vocaboulary. But above all, I wanted students to realize how <b>they come into contact</b> with invertebrates on a daily basis, and thus that (invertebrate) zoology is a concrete subject and can help people to better appreciate the world around them.
       
 <br />
 <br />
