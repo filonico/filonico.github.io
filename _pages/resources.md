@@ -10,7 +10,7 @@ author_profile: true
 ## Introduction to bioinformatics
 
 <div style="text-align: justify">
-In my GitHub personal page you can find a <b><a href="https://github.com/filonico/UNIX_and_bash_basics">brief introduction to bioinformatics</a></b>. There, I explain the most common bash commands that bioinformaticians usually deal with.
+In my GitHub personal page you can find a <b><a href="https://github.com/filonico/UNIX_and_bash_basics" target="_blank">brief introduction to bioinformatics</a></b>. There, I explain the most common bash commands that bioinformaticians usually deal with.
       
 <br />
 <br />
@@ -24,7 +24,7 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 ## Invertebrate zoology slides
 
 <div style="text-align: justify">
-In <b><a href="https://drive.google.com/drive/folders/1Vz8-VQQ6qxYCR_4ogqrV-s6o9-4FaFsh?usp=sharing">this repository</a></b> you can find the slides I settled up and used in the <b>practical invertebrate zoology</b> class in between Sep 2022 and Jan 2023.
+In <b><a href="https://drive.google.com/drive/folders/1Vz8-VQQ6qxYCR_4ogqrV-s6o9-4FaFsh?usp=sharing" target="_blank">this repository</a></b> you can find the slides I settled up and used in the <b>practical invertebrate zoology</b> class in between Sep 2022 and Jan 2023.
       
 <br />
 <br />
