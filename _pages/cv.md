@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Oct 2, 2023*
+*Last updated: Oct 13, 2023*
 
 ## 1. Education
 
@@ -33,7 +33,7 @@ redirect_from:
 
 *Have also a look at the [Outreach](/outreach/) section*
 * Editor and web writer, BioPills\
-  *Jul 2017. ongoing*
+  *Jul 2017 – ongoing*
 
 * BiGeA Day 2023, University of Bologna\
   *May 27, 2023*
@@ -46,9 +46,9 @@ redirect_from:
 ### 4.1. Bioinformatics
 
 * *Programming and command languages*
-  * <code>bash</code>
-  * <code>R</code>
-  * <code>python3</code>
+  * <code>bash</code> (advanced user)
+  * <code>R</code> (intermediate user)
+  * <code>python3</code> (beginner)
 
 * *Phylogenetics*
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
@@ -87,7 +87,7 @@ redirect_from:
 ## 5. Teaching assistant
 
 * Zoology course\
-  *Sept 2022. Jan 2023*
+  *Sept 2022 – Jan 2023*
 
 ## 6. Presentations at congresses
 
@@ -98,19 +98,19 @@ redirect_from:
 ## 7. Courses and workshops
 
 * Introduction to Python for biologists (by Physalia Courses)\
-  *Sept 25. 28, 2023*
+  *Sept 25 – 28, 2023*
 
 * ITA\*PHY phylogenetics workshop\
-  *Jun 6. 9, 2023*
+  *Jun 6 – 9, 2023*
 
 * Sex chromosome evolution (by Physalia Courses)\
-  *Jan 23. 27, 2023*
+  *Jan 23 – 27, 2023*
 
 * Identification of butterflies from the Eastern Alps (by Dolimiti National Park)\
-  *Mar 12. Apr 2, 2022*
+  *Mar 12 – Apr 2, 2022*
 
 * Science communication (by Feltrinelli Education)\
-  *May 12. Jun 3, 2021*
+  *May 12 – Jun 3, 2021*
 
 ## 8. Awards and scholarships
 
@@ -121,22 +121,22 @@ Press\
 ## 9. Visiting fellow
 
 * **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)\
-  *Aug 20, 2023. ongoing*
+  *Aug 20, 2023 – ongoing*
 
 * **Juan Pasantes' group**, University of Vigo (Vigo, Spain)\
-  *Jan 12. 22, 2023*
+  *Jan 12 – 22, 2023*
 
 
 ## 10. Society memberships
 
 * **Italian Society for Evolutionary Biology** (SIBE/ISEB)\
-  *Sept 2022. ongoing*
+  *Sept 2022 – ongoing*
 
 * **Society for Molecular Biology and Evolution** (SMBE)\
-  *Jul 2023. ongoing*
+  *Jul 2023 – ongoing*
 
 * **Society for the Study of Evolution** (SSE)\
-  *Jan 2023. ongoing*
+  *Jan 2023 – ongoing*
 
 * **European Society for Evolutionary Developmental Biology** (EED)\
-  *Apr 2022. ongoing*
+  *Apr 2022 – ongoing*

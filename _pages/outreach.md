@@ -12,9 +12,15 @@ While I'm not a very chatty person in my everyday life, one of the activity that
 <br />
 <br />
 
-That is the reason why in 2017 I engaged with <b>[BioPills](https://www.biopills.net/)</b>, an Italian science-communication project that wants to communicate the beauty of life sciences in an effective mannner but without forgetting factual accuracy.
+That is the reason why in 2017 I engaged with <b><a ref="https://www.biopills.net/">BioPills</a></b>, an Italian science-communication project that wants to communicate the beauty of life sciences in an effective mannner but without forgetting factual accuracy.
+      
+<br />
+<br />
 
 At the moment, I am the chief editor of the "Environment and Nature" section of the website. I am also in charge of organizing hikings in different Italian natural settings, in order to let people escape from the urban routine while directly immersing themselves in field-based learning of biology.
+      
+<br />
+<br />
 
 Unfortunatly, the website is currently only in Italian, but if you are interested in learning more about it, don't esistate to get in touch!
 
