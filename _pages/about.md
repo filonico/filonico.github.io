@@ -26,12 +26,12 @@ redirect_from:
   <br />
   <br />
   
-  Not by chance, my PhD is mainly focused on <b>bivalve comparative genomics</b> with a particular interest for genes involved in <b>sex determination</b>, in the attempt to understand their patterns of molecular evolution and genome dynamics. Besides bioinformatics, I am also trying to make use of <i>wet lab</i> techniques (such as karyology and mRNA <i>in-situ</i> hybridization) in order to gain a more comprehensive investigation of bivalves sex determination.
+  My PhD is mainly focused on <b>bivalve comparative genomics</b> with a particular interest for genes involved in <b>sex determination</b>, in the attempt to understand their patterns of molecular evolution and genome dynamics. Besides bioinformatics, I am also trying to make use of <i>wet lab</i> techniques (such as karyology and mRNA <i>in-situ</i> hybridization) in order to gain a more comprehensive investigation of bivalves sex determination.
   
   <br />
   <br />
   
-  In the meanwhile, I am also engaged in a couple of collaborative research lines, consisting on comparative genomics analyses in <b>branchiopod crustaceans</b> and <b>walking sticks</b> to unravel the genomic bases of <b>morphological stasis</b> and <b>re-evolution of wings</b>, respectively.
+  In the meanwhile, I am also engaged in other research lines, consisting on comparative genomics analyses in <b>branchiopod crustaceans</b> and <b>walking sticks</b> to unravel the genomic bases of <b>morphological stasis</b> and <b>re-evolution of wings</b>, respectively.
   
   <br />
   <br />
