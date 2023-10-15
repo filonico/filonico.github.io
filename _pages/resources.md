@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-*Last updated: Oct 2, 2023*
+*Last updated: Oct 15, 2023*
 
 ## Introduction to bioinformatics
 
@@ -21,32 +21,7 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 [![bash github tutorial](/images/bashTutorial_preview.png)](https://github.com/filonico/UNIX_and_bash_basics)
 
 
-## Invertebrate zoology slides
 
-<div style="text-align: justify">
-In <b><a href="https://drive.google.com/drive/folders/1Vz8-VQQ6qxYCR_4ogqrV-s6o9-4FaFsh?usp=sharing" target="_blank">this repository</a></b> you can find the slides I settled up and used in the <b>practical invertebrate zoology</b> class in between Sep 2022 and Jan 2023.
-      
-<br />
-<br />
-
-🪸🐙🕷️🦑🦪🦂🐌🐜🪱🪰
-      
-<br />
-<br />
-
-Students were from the first year of the bachelor degree in "Biological Sciences" at the University of Bologna (Italy). The class was intended to let students meet the <b>captivating biodiversity</b> of non-vertebrate animals, by directly putting them in (real) contact with <b>museum samples</b>, both macro- and microscopic. Sessions with (non-hazardous) <b>living organisms</b> were also organized, for example by microscopic observations of soil and moss environments (i.e., nematodes, rotifers, mites, etc.) or plankton feeding for aquarium (i.e., rotifers, copepods, etc.), or by showing insect breeding systems.
-      
-<br />
-<br />
-
-In particular, I wanted to introduce students to <b>evolutionary thinking</b>, by including a primer of phylogenetic trees and vocaboulary. But above all, I wanted students to realize how <b>they come into contact</b> with invertebrates on a daily basis, and thus that (invertebrate) zoology is a concrete subject and can help people to better appreciate the world around them.
-      
-<br />
-<br />
-
-The frontal lesson (thus also slides) was just restricted to the very first part of each class, while the rest of time was dedicated to the above-mentioned <b>practical activities</b>.
-
-</div>
 
 ## Poster collection
 

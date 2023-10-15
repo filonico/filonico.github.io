@@ -87,7 +87,7 @@ redirect_from:
 
 ## 5. Teaching assistant
 
-* Zoology course\
+* Practical invertebrate zoology class\
   *Sept 2022 – Jan 2023*
 
 ## 6. Presentations at congresses
