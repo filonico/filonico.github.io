@@ -65,7 +65,7 @@ redirect_from:
   * Molecular evolution ([<code>PAML</code>](http://abacus.gene.ucl.ac.uk/software/paml.html), [<code>HyPhy</code>](http://hyphy.org/), [<code>BASE</code>](https://github.com/for-giobbe/BASE), [<code>RRTree</code>](https://github.com/mrrlab/RRTree))
   * Gene macro-synteny ([<code>MCScanX</code>](https://github.com/wyp1125/MCScanX)/[<code>JCVI</code>](https://github.com/tanghaibao/jcvi))
   * Detection of sex-related loci ([<code>SEX-DETector</code>](https://gitlab.in2p3.fr/sex-det-family/sex-detector), [<code>SDpop</code>](https://gitlab.in2p3.fr/sex-det-family/sdpop))
-  * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT))
+  * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT), [<code>GffRead</code>](https://github.com/gpertea/gffread))
 
 * *Mitogenomics*
   * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
