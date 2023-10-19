@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Oct 13, 2023*
+*Last updated: Oct 19, 2023*
 
 ## 1. Education
 
