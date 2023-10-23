@@ -49,11 +49,11 @@ redirect_from:
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
 
-  * <code>bash</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●●●●∘ 
-  * <code>R</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●●●∘∘
+  * <code>bash</code> &nbsp; &nbsp; &nbsp; &nbsp; ●●●●∘ 
+  * <code>R</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●●●∘∘
   * <code>python3</code> &nbsp; &nbsp; ●●∘∘∘
-  * <code>LaTeX</code> &nbsp; &nbsp; &nbsp; &nbsp; ●∘∘∘∘
-  * <code>html</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●∘∘∘∘
+  * <code>LaTeX</code> &nbsp; &nbsp; &nbsp; ●∘∘∘∘
+  * <code>html</code> &nbsp; &nbsp; &nbsp; ●∘∘∘∘
 
 * *Phylogenetics*
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
