@@ -47,11 +47,13 @@ redirect_from:
 
 ### 4.1. Bioinformatics
 
-* *Programming and command languages*
-  * <code>bash</code> (advanced user)
-  * <code>R</code> (intermediate user)
-  * <code>python3</code> (beginner user)
-  * <code>html</code> (beginner user)
+* *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
+
+  * <code>bash</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●●●●∘ 
+  * <code>R</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●●●∘∘
+  * <code>python3</code> &nbsp; &nbsp; ●●∘∘∘
+  * <code>LaTeX</code> &nbsp; &nbsp; &nbsp; &nbsp; ●∘∘∘∘
+  * <code>html</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●∘∘∘∘
 
 * *Phylogenetics*
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
