@@ -47,6 +47,14 @@ redirect_from:
 
 ### 4.1. Bioinformatics
 
+| Programming and command languages | Level |
+| --- | --- |
+| <code>bash</code> | ●●●●∘ |
+| <code>R</code> | ●●●∘∘ |
+| <code>python</code> | ●●∘∘∘ |
+| $LaTeX$ | ●∘∘∘∘ |
+| <code>html</code> | ●∘∘∘∘ |
+
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
   <table cellspacing="0" cellpadding="0">
     <tr>
