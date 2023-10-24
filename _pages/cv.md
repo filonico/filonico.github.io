@@ -48,7 +48,7 @@ redirect_from:
 ### 4.1. Bioinformatics
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  <table>
+  <table cellspacing="0" cellpadding="0">
     <tr>
       <td><code>bash</code></td>
       <td>●●●●∘</td>
