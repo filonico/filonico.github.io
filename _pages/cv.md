@@ -48,7 +48,6 @@ redirect_from:
 ### 4.1. Bioinformatics
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-
   <table>
     <tr>
       <td><code>bash</code></td>
@@ -63,7 +62,7 @@ redirect_from:
       <td>●●●∘∘</td>
     </tr>
     <tr>
-      <td> $\LaTex$ </td>
+      <td> $\LaTeX$ </td>
       <td>●∘∘∘∘</td>
     </tr>
     <tr>
