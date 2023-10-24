@@ -52,6 +52,7 @@ redirect_from:
   * <code>bash</code> &nbsp; &nbsp; &nbsp; &nbsp; ●●●●∘ 
   * <code>R</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ●●●∘∘
   * <code>python3</code> &nbsp; &nbsp; ●●∘∘∘
+  * $\LaTeX$ &nbsp; &nbsp; &nbsp; ●∘∘∘∘
   * <code>LaTeX</code> &nbsp; &nbsp; &nbsp; ●∘∘∘∘
   * <code>html</code> &nbsp; &nbsp; &nbsp; ●∘∘∘∘
 
