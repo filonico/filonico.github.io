@@ -50,19 +50,24 @@ redirect_from:
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
   <table cellspacing="0" cellpadding="0">
     <tr>
-      <td style="width:auto"><code>bash</code></td style="width:auto"><td>●●●●∘</td>
+      <td style="width:auto"><code>bash</code></td>
+      <td style="width:auto">●●●●∘</td>
     </tr>
     <tr>
-      <td style="width:auto"><code>R</code></td><td style="width:auto">●●●∘∘</td>
+      <td style="width:auto"><code>R</code></td>
+      <td style="width:auto">●●●∘∘</td>
     </tr>
     <tr>
-      <td style="width:auto"><code>python</code></td><td style="width:auto">●●●∘∘</td>
+      <td style="width:auto"><code>python</code></td>
+      <td style="width:auto">●●●∘∘</td>
     </tr>
     <tr>
-      <td style="width:auto"> $\LaTeX$ </td><td style="width:auto">●∘∘∘∘</td>
+      <td style="width:auto"> $\LaTeX$ </td>
+      <td style="width:auto">●∘∘∘∘</td>
     </tr>
     <tr>
-      <td style="width:auto"><code>html</code></td><td style="width:auto">●∘∘∘∘</td>
+      <td style="width:auto"><code>html</code></td>
+      <td style="width:auto">●∘∘∘∘</td>
     </tr>
   </table>
 
