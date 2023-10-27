@@ -84,7 +84,7 @@ redirect_from:
   * <code>R</code>         ●●●∘∘
   * <code>python</code>&emsp;&emsp;●●∘∘∘
   * $LaTeX$&emsp;●∘∘∘∘
-  * <code>html</code>&emsp;●∘∘∘∘
+  * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
 
 
 * *Phylogenetics*
