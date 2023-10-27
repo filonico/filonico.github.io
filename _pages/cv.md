@@ -81,10 +81,10 @@ redirect_from:
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
   * <code>bash</code>    ●●●●∘
-  * <code>R</code>        ●●●∘∘
-  * <code>python</code>    ●●∘∘∘
-  * $LaTeX$    ●∘∘∘∘
-  * <code>html</code>    ●∘∘∘∘
+  * <code>R</code>         ●●●∘∘
+  * <code>python</code>&emsp;&emsp;●●∘∘∘
+  * $LaTeX$&emsp;●∘∘∘∘
+  * <code>html</code>&emsp;●∘∘∘∘
 
 
 * *Phylogenetics*
