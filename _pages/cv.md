@@ -79,6 +79,14 @@ redirect_from:
     </tr>
   </table>
 
+* *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
+  * <code>bash</code>    ●●●●∘
+  * <code>R</code>    ●●●∘∘
+  * <code>python</code>    ●●∘∘∘
+  * $LaTeX$    ●∘∘∘∘
+  * <code>html</code>    ●∘∘∘∘
+
+
 * *Phylogenetics*
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
   * Bayesian phylogenetic analysis ([<code>MrBayes</code>](https://nbisweden.github.io/MrBayes/), [<code>PhyloBayes</code>](http://www.atgc-montpellier.fr/phylobayes/))
