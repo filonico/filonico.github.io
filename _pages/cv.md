@@ -52,7 +52,7 @@ redirect_from:
 | <code>bash</code> | ●●●●∘ |
 | <code>R</code> | ●●●∘∘ |
 | <code>python</code> | ●●∘∘∘ |
-| $LaTeX$ | ●∘∘∘∘ |
+| $\LaTeX$ | ●∘∘∘∘ |
 | <code>html</code> | ●∘∘∘∘ |
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
@@ -80,10 +80,10 @@ redirect_from:
   </table>
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  * <code>bash</code>&emsp;&emsp;&emsp;●●●●∘
+  * <code>bash</code>&emsp;&emsp;&nbsp;●●●●∘
   * <code>R</code>&emsp;&emsp;&emsp;&emsp;●●●∘∘
   * <code>python</code>&emsp;&emsp;●●∘∘∘
-  * $\LaTeX$&emsp;&nbsp;●∘∘∘∘
+  * $\LaTeX$&emsp;&emsp;&nbsp;●∘∘∘∘
   * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
 
 
