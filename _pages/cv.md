@@ -47,45 +47,7 @@ redirect_from:
 
 ### 4.1. Bioinformatics
 
-| Programming and command languages | Level |
-| --- | --- |
-| <code>bash</code> | ●●●●∘ |
-| <code>R</code> | ●●●∘∘ |
-| <code>python</code> | ●●∘∘∘ |
-| $\LaTeX$ | ●∘∘∘∘ |
-| <code>html</code> | ●∘∘∘∘ |
-
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="width:auto"><code>bash</code></td>
-      <td style="width:auto">●●●●∘</td>
-    </tr>
-    <tr>
-      <td style="width:auto"><code>R</code></td>
-      <td style="width:auto">●●●∘∘</td>
-    </tr>
-    <tr>
-      <td style="width:auto"><code>python</code></td>
-      <td style="width:auto">●●●∘∘</td>
-    </tr>
-    <tr>
-      <td style="width:auto"> $\LaTeX$ </td>
-      <td style="width:auto">●∘∘∘∘</td>
-    </tr>
-    <tr>
-      <td style="width:auto"><code>html</code></td>
-      <td style="width:auto">●∘∘∘∘</td>
-    </tr>
-  </table>
-
-* *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  * <code>bash</code>&emsp;&emsp;&ensp;●●●●∘
-  * <code>R</code>&emsp;&emsp;&emsp;&emsp;●●●∘∘
-  * <code>python</code>&emsp;&emsp;●●∘∘∘
-  * $\LaTeX$&emsp;&emsp;&nbsp;●∘∘∘∘
-  * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
-
   * <code>bash</code>\
     ●●●●∘
   * <code>R</code>\
