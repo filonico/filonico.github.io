@@ -80,10 +80,10 @@ redirect_from:
   </table>
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  * <code>bash</code>    ●●●●∘
-  * <code>R</code>         ●●●∘∘
+  * <code>bash</code>&emsp;&emsp;&emsp;●●●●∘
+  * <code>R</code>&emsp;&emsp;&emsp;●●●∘∘
   * <code>python</code>&emsp;&emsp;●●∘∘∘
-  * $LaTeX$&emsp;●∘∘∘∘
+  * $LaTeX$&emsp;&emsp;●∘∘∘∘
   * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
 
 
