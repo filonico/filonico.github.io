@@ -83,7 +83,7 @@ redirect_from:
   * <code>bash</code>&emsp;&emsp;&emsp;●●●●∘
   * <code>R</code>&emsp;&emsp;&emsp;&emsp;●●●∘∘
   * <code>python</code>&emsp;&emsp;●●∘∘∘
-  * $LaTeX$&emsp;&nbsp;●∘∘∘∘
+  * $\LaTeX$&emsp;&nbsp;●∘∘∘∘
   * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
 
 
