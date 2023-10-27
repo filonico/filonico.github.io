@@ -81,9 +81,9 @@ redirect_from:
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
   * <code>bash</code>&emsp;&emsp;&emsp;●●●●∘
-  * <code>R</code>&emsp;&emsp;&emsp;●●●∘∘
+  * <code>R</code>&emsp;&emsp;&emsp;&emsp;●●●∘∘
   * <code>python</code>&emsp;&emsp;●●∘∘∘
-  * $LaTeX$&emsp;&emsp;●∘∘∘∘
+  * $LaTeX$&emsp;&nbsp;●∘∘∘∘
   * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
 
 
