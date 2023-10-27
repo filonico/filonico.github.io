@@ -80,11 +80,22 @@ redirect_from:
   </table>
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  * <code>bash</code>&emsp;&emsp;&nbsp;●●●●∘
+  * <code>bash</code>&emsp;&emsp;&ensp;●●●●∘
   * <code>R</code>&emsp;&emsp;&emsp;&emsp;●●●∘∘
   * <code>python</code>&emsp;&emsp;●●∘∘∘
   * $\LaTeX$&emsp;&emsp;&nbsp;●∘∘∘∘
   * <code>html</code>&emsp;&emsp;&emsp;●∘∘∘∘
+
+  * <code>bash</code>\
+    ●●●●∘
+  * <code>R</code>\
+    ●●●∘∘
+  * <code>python</code>\
+    ●●∘∘∘
+  * $\LaTeX$\
+    ●∘∘∘∘
+  * <code>html</code>\
+    ●∘∘∘∘
 
 
 * *Phylogenetics*
