@@ -109,34 +109,40 @@ redirect_from:
 
 ## 7. Courses and workshops
 
-* Introduction to Python for biologists (by Physalia Courses)\
-  *Sep 25 – 28, 2023*
+* **Introduction to Python for biologists**.\
+  Physalia Courses.\
+  *Online. Sep 25 – 28, 2023*
 
-* ITA\*PHY phylogenetics workshop\
-  *Jun 6 – 9, 2023*
+* **ITA\*PHY phylogenetics workshop**.\
+  *Trento, Italy. Jun 6 – 9, 2023*
 
-* Sex chromosome evolution (by Physalia Courses)\
-  *Jan 23 – 27, 2023*
+* **Sex chromosome evolution**.\
+  Physalia Courses.\
+  *Online. Jan 23 – 27, 2023*
 
-* Identification of butterflies from the Eastern Alps (by Dolimiti National Park)\
-  *Mar 12 – Apr 2, 2022*
+* **Identification of butterflies from the Eastern Alps**.\
+  Dolimiti National Park.\
+  *Online. Mar 12 – Apr 2, 2022*
 
-* Science communication (by Feltrinelli Education)\
-  *May 12 – Jun 3, 2021*
+* **Science communication**.\
+  Feltrinelli Education.\
+  *Online. May 12 – Jun 3, 2021*
 
 ## 8. Awards and scholarships
 
-* Laura Bassi scholarship for editorial assistance to postgraduates and junior academics by Editing
-Press\
+* **Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.**\
+  Editing Press.\
   *Apr 13, 2023*
 
 ## 9. Visiting fellow
 
-* **Sergey Nuzhdin's group**, University of Southern California (Los Angeles, California, USA)\
-  *Aug 20, 2023 – ongoing*
+* **Sergey Nuzhdin's group**.\
+University of Southern California. Los Angeles, California, USA.\
+*Aug 20, 2023 – ongoing*
 
-* **Juan Pasantes' group**, University of Vigo (Vigo, Spain)\
-  *Jan 12 – 22, 2023*
+* **Juan Pasantes' group**.\
+University of Vigo. Vigo, Spain.\
+*Jan 12 – 22, 2023*
 
 
 ## 10. Society memberships
