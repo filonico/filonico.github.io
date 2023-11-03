@@ -29,12 +29,12 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 Here you can find the pdfs of posters where I was involved. Posters that I personally presented are indicated by a DNA symbol. Click on the titles to see the full posters and download them!
 
 <ul>
-<li><b><a href="https://www.dropbox.com/scl/fi/ow656z01n0angxgva9mi6/poster_genomeStasis_branchiopoda.png?rlkey=h8ft56bko507ifu4onv5zvzgy&dl=0" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23 – 27, 2023.</li>
+<li><b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23 – 27, 2023.</li>
 
-<li><b><a href="https://www.dropbox.com/scl/fi/prgmeklrss49mmag6ektg/poster_MCMCtree_branchiopoda.png?rlkey=pagr87kmh4wnnaajiuerd19y6&dl=0" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23 – 27, 2023.</li>
+<li><b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23 – 27, 2023.</li>
 
-<li>🧬<b><a href="https://www.dropbox.com/s/mnnv02fmke5gzum/poster_SRG_bivalvia.png?dl=0" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>. <i>SIBE/ISEB 2022</i>. Ancona, Italy. Sep 4 – 7, 2023.
+<li>🧬<b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>. <i>SIBE/ISEB 2022</i>. Ancona, Italy. Sep 4 – 7, 2023.
 
-<li>🧬 <b><a href="https://www.dropbox.com/s/801icyhy6pjq7l6/poster_HPHG_branchiopoda.png?dl=0" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>. <i>EuroEvoDevo 2022</i>. Naples (Italy). May 31 – Jun 3, 2023.
+<li>🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>. <i>EuroEvoDevo 2022</i>. Naples (Italy). May 31 – Jun 3, 2023.
 </ul>
 </div>
