@@ -9,7 +9,7 @@ redirect_from:
 
 *Last updated: Nov 11, 2023*
 
-*Please find an extended version of this CV by clicking this **[link](https://drive.google.com/file/d/1e2bsp4sTa-pi7TeGBGKfEYRMSBEX6SFw/view?usp=drive_link)**.*
+*Please find an extended version of this CV by clicking this **[link](https://drive.google.com/file/d/1e2bsp4sTa-pi7TeGBGKfEYRMSBEX6SFw/view?usp=sharing)**.*
 
 ## 1. Education
 
