@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Oct 19, 2023*
+*Last updated: Nov 11, 2023*
+
+*Please find an extended version of this CV by clicking this **[link](https://drive.google.com/file/d/1e2bsp4sTa-pi7TeGBGKfEYRMSBEX6SFw/view?usp=drive_link)**.*
 
 ## 1. Education
 
@@ -97,18 +99,18 @@ redirect_from:
 ## 5. Teaching assistant
 
 * Practical invertebrate zoology class\
-  *Sept 2022 – Jan 2023*
+  *Sep 2022 – Jan 2023*
 
 ## 6. Presentations at congresses
 
 *For a collection of poster presentations please visit the [Other resources](/resources/) section*
 
-* <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*), online, 2nd-3rd June.
+* <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*). Online. Jun 2 – 3, 2023.
 
 ## 7. Courses and workshops
 
 * Introduction to Python for biologists (by Physalia Courses)\
-  *Sept 25 – 28, 2023*
+  *Sep 25 – 28, 2023*
 
 * ITA\*PHY phylogenetics workshop\
   *Jun 6 – 9, 2023*
@@ -140,7 +142,7 @@ Press\
 ## 10. Society memberships
 
 * **Italian Society for Evolutionary Biology** (SIBE/ISEB)\
-  *Sept 2022 – ongoing*
+  *Sep 2022 – ongoing*
 
 * **Society for Molecular Biology and Evolution** (SMBE)\
   *Jul 2023 – ongoing*
