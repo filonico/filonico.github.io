@@ -128,6 +128,10 @@ redirect_from:
   Feltrinelli Education.\
   *Online. May 12 – Jun 3, 2021*
 
+* **Nature illustration**.\
+  Associazione ARDEA.\
+  *Online. Feb 6 - Mar 20, 2021*
+
 ## 8. Awards and scholarships
 
 * **Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.**\
