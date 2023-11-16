@@ -61,7 +61,7 @@ Feel free to get in touch if you may need something on this kind ✏️🖍️
 </ul>
 </div>
 
-![animal silhouettes](/images/silhouettes_animals.png)
+![animal silhouettes](images/silhouettes_animals.png)
 
 <div style="text-align: justify">
 <ul>
@@ -70,4 +70,4 @@ Feel free to get in touch if you may need something on this kind ✏️🖍️
 </ul>
 </div>
 
-![animal silhouettes](/images/insect_development.png)
+![insect development](images\insect_development.png)
