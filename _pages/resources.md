@@ -38,7 +38,7 @@ Here you can find the pdfs of posters where I was involved. Posters that I perso
 
 <li>🧬<b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>. <i>SIBE/ISEB 2022</i>. Ancona, Italy. Sep 4 – 7, 2023.</li>
 
-<li>🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>. <i>EuroEvoDevo 2022</i>. Naples (Italy). May 31 – Jun 3, 2023.</il>
+<li>🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>. <i>EuroEvoDevo 2022</i>. Naples (Italy). May 31 – Jun 3, 2023.</li>
 </ul>
 
 </div>
