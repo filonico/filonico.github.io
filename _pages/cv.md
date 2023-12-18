@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Nov 11, 2023*
+*Last updated: Dec 18, 2023*
 
 *Please find an extended version of this CV by clicking this **<a href="https://drive.google.com/file/d/1e2bsp4sTa-pi7TeGBGKfEYRMSBEX6SFw/view?usp=sharing" target="_blank">link</a>**.*
 
@@ -92,9 +92,25 @@ redirect_from:
 
 ### 4.2. *Wet-lab*
 
-* Metaphase-plate chromosome preparation
-* Total DNA extraction
-* PCR
+* *Metaphase-plate chromosome preparation*
+  * Experience with bivalves and ants
+* *Total DNA extraction*
+  * Experience with insects
+* *Polymerase Chain Reaction (PCR)*
+  * Experience with insect mitochondrial and nuclear markers
+* *Mediterranean mussel (*Mytilus galloprovincialis*) embryology*
+  * Spawning induction by thermal shock
+  * Gamete collection and concentration
+  * Sperm mitochondria staining with [MitoTracker](https://www.thermofisher.com/order/catalog/product/M7512)
+  * *In-vitro* fertilization of eggs
+  * Embryo rearing in flasks or multi-well plates
+  * Estimation of survival rates
+* *Hybridization Chain Reaction with RNA fluorescence in-situ hybridization (HCR RNA-FISH)*
+  * Experience with whole-mount embryos of the Mediterranean mussel (*Mytilus galloprovincialis*)
+  * Probe design
+  * Multiplex experiments, paired with DAPI and MitoTracker stainings
+* Confocal imaging
+  * Experience with Leica DMi8 paired with Stellaris 5 systems
 
 ## 5. Teaching assistant
 
@@ -105,7 +121,9 @@ redirect_from:
 
 *For a collection of poster presentations please visit the [Other resources](/resources/) section*
 
-* <ins>Nicolini, F.</ins>, Ghiselli, F., Milani, L., Luchetti, A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*). Online. Jun 2 – 3, 2023.
+* <ins>Nicolini F,</ins> Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
+and shared ancestry between putative sex-determining genes in bivalve molluscs**. *EVOLMAR 2023*. Online. Nov 14 – 17, 2023.
+* <ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*). Online. Jun 2 – 3, 2023.
 
 ## 7. Courses and workshops
 
