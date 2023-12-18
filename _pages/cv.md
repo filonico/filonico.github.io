@@ -108,7 +108,7 @@ redirect_from:
 * *Hybridization Chain Reaction with RNA Fluorescence In-Situ Hybridization (HCR RNA-FISH)*
   * Experience with whole-mount embryos of the Mediterranean mussel (*Mytilus galloprovincialis*)
   * Probe design
-  * Multiplex experiments, paired with DAPI and MitoTracker stainings
+  * Multiplex experiments (up to four target genes), paired with DAPI and MitoTracker stainings
   * Confocal imaging
   * Experience with Leica DMi8 paired with Stellaris 5 systems
 
