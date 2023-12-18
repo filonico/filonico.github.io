@@ -109,7 +109,7 @@ redirect_from:
   * Experience with whole-mount embryos of the Mediterranean mussel (*Mytilus galloprovincialis*)
   * Probe design
   * Multiplex experiments, paired with DAPI and MitoTracker stainings
-* Confocal imaging
+  * Confocal imaging
   * Experience with Leica DMi8 paired with Stellaris 5 systems
 
 ## 5. Teaching assistant
