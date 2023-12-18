@@ -105,7 +105,7 @@ redirect_from:
   * *In-vitro* fertilization of eggs
   * Embryo rearing in flasks or multi-well plates
   * Estimation of survival rates
-* *Hybridization Chain Reaction with RNA fluorescence in-situ hybridization (HCR RNA-FISH)*
+* *Hybridization Chain Reaction with RNA Fluorescence In-Situ Hybridization (HCR RNA-FISH)*
   * Experience with whole-mount embryos of the Mediterranean mussel (*Mytilus galloprovincialis*)
   * Probe design
   * Multiplex experiments, paired with DAPI and MitoTracker stainings
