@@ -35,7 +35,7 @@ Supervisor: *prof. Barbara Mantovani*
 
 ## 3. Outreach activity
 
-*For a more detailed description of my outreach commitment, please have a look also at the [Outreach](/outreach/) section in this website*
+*For a more detailed description of my outreach commitment, please have a look also at the [Outreach](/outreach/) section in this website.*
 
 * Editor and web writer, BioPills\
   *Jul 2017 – ongoing*
@@ -120,7 +120,7 @@ Supervisor: *prof. Barbara Mantovani*
 
 ## 6. Presentations at congresses
 
-*For a collection of poster presentations please visit the [Other resources](/resources/) section*
+*For a detailed report of poster presentations, please have a look also at the [Other resources](/resources/) section in this website.*
 
 * <ins>Nicolini F,</ins> Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
 and shared ancestry between putative sex-determining genes in bivalve molluscs**. *EVOLMAR 2023*. Online. Nov 14 – 17, 2023.
