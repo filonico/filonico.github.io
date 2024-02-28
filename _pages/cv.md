@@ -27,15 +27,16 @@ Supervisor: *prof. Barbara Mantovani*
 
 * <ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). **Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view**. *Genome Biology and Evolution*, *15*(10), evad181. doi: [10.1093/gbe/evad181](https://doi.org/10.1093/gbe/evad181)
 
-* Martelossi J, <ins>Nicolini F</ins>, Subacchi S, Pasquale D, Ghiselli F, & Luchetti A. (2023). **Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution**. *BMC Biology*, *21*(1), 1-23. doi: https://doi.org/10.1186/s12915-023-01632-z
+* Martelossi J, <ins>Nicolini F</ins>, Subacchi S, Pasquale D, Ghiselli F, & Luchetti A. (2023). **Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution**. *BMC Biology*, *21*(1), 1-23. doi: [10.1186/s12915-023-01632-z](https://doi.org/10.1186/s12915-023-01632-z)
 
-* <ins>Nicolini F</ins>, Martelossi J, Forni G, Savojardo C, Mantovani B, & Luchetti A. (2023). **Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps**. *Frontiers in Ecology and Evolution*, 11, 23. doi: https://doi.org/10.3389/fevo.2023.1046960
+* <ins>Nicolini F</ins>, Martelossi J, Forni G, Savojardo C, Mantovani B, & Luchetti A. (2023). **Comparative genomics of *Hox* and *ParaHox* genes among major lineages of Branchiopoda with emphasis on tadpole shrimps**. *Frontiers in Ecology and Evolution*, 11, 23. doi: [10.3389/fevo.2023.1046960](https://doi.org/10.3389/fevo.2023.1046960)
 
-* Forni G, Cussigh A, Brock PD, Jones BR, <ins>Nicolini F</ins>, Martelossi J, ... & Mantovani B. (2023). **Taxonomic revision of the Australian stick insect genus *Candovia* (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches**. *Zoological Journal of the Linnean Society*, *197*(1), 189-210. doi: https://doi.org/10.1093/zoolinnean/zlac074
+* Forni G, Cussigh A, Brock PD, Jones BR, <ins>Nicolini F</ins>, Martelossi J, ... & Mantovani B. (2023). **Taxonomic revision of the Australian stick insect genus *Candovia* (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches**. *Zoological Journal of the Linnean Society*, *197*(1), 189-210. doi: [10.1093/zoolinnean/zlac074](https://doi.org/10.1093/zoolinnean/zlac074)
 
 ## 3. Outreach activity
 
-*Have also a look at the [Outreach](/outreach/) section*
+*For a more detailed description of my outreach commitment, please have a look also at the [Outreach](/outreach/) section in this website*
+
 * Editor and web writer, BioPills\
   *Jul 2017 – ongoing*
 
