@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Dec 18, 2023*
+*Last updated: Feb 28, 2024*
 
 *Please find an extended version of this CV by clicking this **<a href="https://drive.google.com/file/d/1e2bsp4sTa-pi7TeGBGKfEYRMSBEX6SFw/view?usp=sharing" target="_blank">link</a>**.*
 
@@ -127,6 +127,10 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 ## 7. Courses and workshops
 
+* **Establishing state-of-the-art mollusc genomics**.\
+  EMBO Workshop. Awarded with a travel grant.\
+  *Namur, Belgium. May 28 - 31, 2024*
+
 * **Introduction to Python for biologists**.\
   Physalia Courses.\
   *Online. Sep 25 – 28, 2023*
@@ -158,11 +162,11 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 ## 9. Visiting fellow
 
-* **Sergey Nuzhdin's group**.\
+* **Nuzhdin Lab**.\
 University of Southern California. Los Angeles, California, USA.\
-*Aug 20, 2023 – ongoing*
+*Aug 20, 2023 – Feb 20, 2024*
 
-* **Juan Pasantes' group**.\
+* **Pasantes Lab**.\
 University of Vigo. Vigo, Spain.\
 *Jan 12 – 22, 2023*
 
