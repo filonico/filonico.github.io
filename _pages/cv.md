@@ -120,7 +120,7 @@ Supervisor: *prof. Barbara Mantovani*
 
 ## 6. Presentations at congresses
 
-*For a detailed report of poster presentations, please have a look also at the [Other resources](/resources/) section in this website.*
+*For a detailed report of poster presentations, please have a look also at the [Resources](/resources/) section in this website.*
 
 * <ins>Nicolini F,</ins> Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
 and shared ancestry between putative sex-determining genes in bivalve molluscs**. *EVOLMAR 2023*. Online. Nov 14 – 17, 2023.
