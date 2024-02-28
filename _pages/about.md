@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center">
-<code>evolutionary genomics - phylogenomics - zoology - outreach</code>
+<code>evolutionary genomics - phylogenomics - zoology - (newbie) evo-devo - outreach</code>
 </div>
 
 
@@ -16,7 +16,7 @@ redirect_from:
 
 
 <div style="text-align: justify">
-  Hello everyone! I am Filippo Nicolini, a <b>PhD student</b> at the University of Bologna working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home" target="_blank">EVO · COM research group</a>.
+  Hello everyone and welcome to my page! I am Filippo Nicolini, a <b>PhD student</b> at the University of Bologna working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home" target="_blank">EVO · COM research group</a>.
   
   <br />
   <br />
