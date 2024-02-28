@@ -14,18 +14,18 @@ redirect_from:
 ## 1. Education
 
 * **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected)\
-*Subject: Comparative genomics of bivalve sex-determination realted genes*\
-*Supervisor: prof. Andrea Luchetti*
+Subject: *Comparative genomics of bivalve sex-determination related genes*\
+Supervisor: *prof. Andrea Luchetti*
 * **M.Sc** in "Biodiversity and evolution", University of Bologna, 2021\
-*Thesis: Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*\
-*Supervisor: prof. Andrea Luchetti*
+Thesis: *Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*\
+Supervisor: *prof. Andrea Luchetti*
 * **B.Sc** in "Biological Sciences", University of Bologna, 2019\
-*Thesis: Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*\
-*Supervisor: prof. Barbara Mantovani*
+Thesis: *Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*\
+Supervisor: *prof. Barbara Mantovani*
 
 ## 2. Publications
 
-* <ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). **Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view**. *Genome Biology and Evolution*, *15*(10), evad181. doi: https://doi.org/10.1093/gbe/evad181
+* <ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). **Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view**. *Genome Biology and Evolution*, *15*(10), evad181. doi: [10.1093/gbe/evad181](https://doi.org/10.1093/gbe/evad181)
 
 * Martelossi J, <ins>Nicolini F</ins>, Subacchi S, Pasquale D, Ghiselli F, & Luchetti A. (2023). **Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution**. *BMC Biology*, *21*(1), 1-23. doi: https://doi.org/10.1186/s12915-023-01632-z
 
