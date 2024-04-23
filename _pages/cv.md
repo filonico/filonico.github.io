@@ -169,7 +169,7 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
   Editing Press.\
   *Apr 13, 2023*
 
-## 9. Visiting fellow
+## 9. Visiting scholar
 
 * **Nuzhdin Lab**.\
 University of Southern California. Los Angeles, California, USA.\
