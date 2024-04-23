@@ -162,7 +162,7 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 ## 8. Awards and scholarships
 
-* **Travel grant to attend the EMBO workshop "Establishing state-of-the-art mollusc genomics" in namur (Belgium).**\
+* **Travel grant to attend the EMBO workshop "Establishing state-of-the-art mollusc genomics" in Namur (Belgium).**\
   EMBO.\
   *May 28 - 31, 2024*
 * **Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.**\
