@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Feb 28, 2024*
+*Last updated: Apr 23, 2024*
 
 *Please find an extended version of this CV by clicking this **<a href="https://drive.google.com/file/d/1e2bsp4sTa-pi7TeGBGKfEYRMSBEX6SFw/view?usp=sharing" target="_blank">link</a>**.*
 
@@ -75,6 +75,7 @@ Supervisor: *prof. Barbara Mantovani*
   * Gene annotation ([<code>BLAST</code>](https://github.com/ncbi/blast_plus_docs), [<code>DIAMOND</code>](https://github.com/bbuchfink/diamond), [<code>HMMER</code>](https://github.com/EddyRivasLab/hmmer), [<code>InterProScan</code>](https://github.com/ebi-pf-team/interproscan), [<code>tRNAscan-SE</code>](https://github.com/UCSC-LoweLab/tRNAscan-SE))
   * Genome quality assessment ([<code>BUSCO</code>](https://busco.ezlab.org/))
   * Molecular evolution ([<code>PAML</code>](http://abacus.gene.ucl.ac.uk/software/paml.html), [<code>HyPhy</code>](http://hyphy.org/), [<code>BASE</code>](https://github.com/for-giobbe/BASE), [<code>RRTree</code>](https://github.com/mrrlab/RRTree))
+  * Gene family evolution ([<code>CAFE5</code>](https://github.com/hahnlab/CAFE5), [<code>GeneRax</code>](https://github.com/BenoitMorel/GeneRax))
   * Gene macro-synteny ([<code>MCScanX</code>](https://github.com/wyp1125/MCScanX)/[<code>JCVI</code>](https://github.com/tanghaibao/jcvi))
   * Detection of sex-related loci ([<code>SEX-DETector</code>](https://gitlab.in2p3.fr/sex-det-family/sex-detector), [<code>SDpop</code>](https://gitlab.in2p3.fr/sex-det-family/sdpop))
   * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT), [<code>GffRead</code>](https://github.com/gpertea/gffread))
@@ -85,7 +86,7 @@ Supervisor: *prof. Barbara Mantovani*
 * *Read manipulation*
   * Raw reads quality check ([<code>FastQC</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [<code>MultiQC</code>](https://multiqc.info/))
   * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
-  * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>samtools</code>](https://github.com/samtools/samtools))
+  * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>stringtie</code>](https://github.com/gpertea/stringtie), [<code>samtools</code>](https://github.com/samtools/samtools))
 
 * *Transcriptomics*
   * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
@@ -113,14 +114,18 @@ Supervisor: *prof. Barbara Mantovani*
   * Confocal imaging
   * Experience with Leica DMi8 paired with Stellaris 5 systems
 
-## 5. Teaching assistant
+## 5. Teaching experience
 
-* Practical invertebrate zoology class\
+* **Practical class "CAFE: estimating gene family turover across a phylogenetic tree"**\
+  *Master degree in Bioinformatics*\
+  *Apr 23, 2024*
+* **Practical invertebrate zoology class**\
+  *Bachelor degree in Biological Sciences*\
   *Sep 2022 – Jan 2023*
 
-## 6. Presentations at congresses
+## 6. Oral presentations at congresses
 
-*For a detailed report of poster presentations, please have a look also at the [Resources](/resources/) section in this website.*
+*For a report of poster presentations, please have a look also at the [Resources](/resources/) section in this website.*
 
 * <ins>Nicolini F,</ins> Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
 and shared ancestry between putative sex-determining genes in bivalve molluscs**. *EVOLMAR 2023*. Online. Nov 14 – 17, 2023.
@@ -157,6 +162,9 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 ## 8. Awards and scholarships
 
+* **Travel grant to attend the EMBO workshop "Establishing state-of-the-art mollusc genomics" in namur (Belgium).**\
+  EMBO.\
+  *May 28 - 31, 2024*
 * **Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.**\
   Editing Press.\
   *Apr 13, 2023*
