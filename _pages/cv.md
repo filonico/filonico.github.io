@@ -115,10 +115,10 @@ Supervisor: *prof. Barbara Mantovani*
   * Experience with Leica DMi8 paired with Stellaris 5 systems
 
 ### 4.3. *Others*
-* *Scientific field sampling*
+* *Field scientific sampling*
   * Experience with termites, ants, and freshwater crustaceans
   * Experience with mussels and oysters
-  * Sample field storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)
+  * Field sample storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)
 * *Scientific illustration*
 
 ## 5. Teaching experience
