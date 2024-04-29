@@ -114,6 +114,13 @@ Supervisor: *prof. Barbara Mantovani*
   * Confocal imaging
   * Experience with Leica DMi8 paired with Stellaris 5 systems
 
+### 4.3. *Others*
+* *Scientific field sampling*
+  * Experience with termites, ants, and freshwater crustaceans
+  * Experience with mussels and oysters
+  * Sample field storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)
+* *Scientific illustration*
+
 ## 5. Teaching experience
 
 * **Practical class "CAFE: estimating gene family turover across a phylogenetic tree"**\
@@ -159,6 +166,10 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 * **Nature illustration**.\
   Associazione ARDEA.\
   *Online. Feb 6 - Mar 20, 2021*
+
+* **Advanced Open Water Diver (PADI Education)**.\
+  Scientific Diving School (SDS).\
+  *Bologna, Italy. Oct 18, 2020*
 
 ## 8. Awards and scholarships
 
