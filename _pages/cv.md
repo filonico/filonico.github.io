@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Apr 23, 2024*
+*Last updated: Apr 29, 2024*
 
-*Please find an extended version of this CV by clicking this **<a href="https://drive.google.com/file/d/1BerEy1Sc7DVeifh4Hp7TuZHsvsPPTQ-z/view?usp=sharing" target="_blank">link</a>**.*
+*Please find an extended version of this CV by clicking this **<a href="https://drive.google.com/file/d/1PmfFChKTrvk1VwaM9xN5FWWNEhJNp2Eo/view?usp=sharing" target="_blank">link</a>**.*
 
 ## 1. Education
 
