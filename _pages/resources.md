@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-*Last updated: Feb 28, 2024*
+*Last updated: May 26, 2024*
 
 ## Introduction to bioinformatics
 
