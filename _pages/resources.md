@@ -20,9 +20,13 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 
 </div>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)
+
+
 [![bash github tutorial](/images/bashTutorial_preview.png)](https://github.com/filonico/UNIX_and_bash_basics)
 
 
+## phySCO: phylogenomics from Single-Copy Orthologs
 
 
 ## Poster collection
@@ -55,12 +59,6 @@ In my free-time I also like drawing. And sometimes I try to merge this hobby wit
 <br />
 <br />
 
-At the moment I am mostly <b>self-trained</b>, as I just attended a virtual course in nature illustration in 2021.
-But I hope one day to be able to get some more professional trainig.
-
-<br />
-<br />
-
 Feel free to get in touch if you may need something of this kind ✏️🖍️
 
 <ul>
@@ -71,6 +69,15 @@ Feel free to get in touch if you may need something of this kind ✏️🖍️
 
 ![animal silhouettes](/images/silhouettes_animals.png)
 
+<div style="text-align: justify">
+
+<ul>
+<li><b>Sex determination</b>. These are random images I drew to put in my presentations about the (confusing) sex determination of bivalves.</li>
+</ul>
+
+</div>
+
+![sex determination](/images/sexDet_coverImage.png)
 <div style="text-align: justify">
 
 <ul>
