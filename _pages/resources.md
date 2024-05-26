@@ -20,13 +20,22 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 
 </div>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)
-
-
-[![bash github tutorial](/images/bashTutorial_preview.png)](https://github.com/filonico/UNIX_and_bash_basics)
+[![bash github tutorial](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)](https://github.com/filonico/UNIX_and_bash_basics)
 
 
 ## phySCO: phylogenomics from Single-Copy Orthologs
+
+<div style="text-align: justify">
+
+Tired of the tedious phylogenetic pipeline to generate a species tree after a successful BUSCO analysis? Fed up with wasting time copying and pasting commands to align, trim sequences, and infer the tree?
+
+Here's the solution! Let phySCO transform your workflow today!
+
+phySCO is an all-in-one python tool that (i) takes the output of a series of BUSCO analysis, (ii) retrieve ubiquitous single-copy BUSCO orthologs, (iii) align and trim them, and then (iv) infer the corresponding ML phylogenetic tree using a partitioned analysis. Enjoy it!
+
+[![phySCO](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
+
+</div>
 
 
 ## Poster collection
