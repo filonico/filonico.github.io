@@ -33,9 +33,10 @@ Here's the solution! Let phySCO transform your workflow today!
 
 phySCO is an all-in-one python tool that (i) takes the output of a series of BUSCO analysis, (ii) retrieve ubiquitous single-copy BUSCO orthologs, (iii) align and trim them, and then (iv) infer the corresponding ML phylogenetic tree using a partitioned analysis. Enjoy it!
 
+</div>
+
 [![phySCO](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
 
-</div>
 
 
 ## Poster collection
