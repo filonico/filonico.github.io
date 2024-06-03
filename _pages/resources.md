@@ -32,7 +32,7 @@ Tired of tedious phylogenetic pipelines to generate species trees after a succes
 <br />
 <br />
 
-**Here's the solution! Let phySCO transform your workflow today!**
+<b>Here's the solution! Let phySCO transform your workflow today!</b>
 
 <br />
 <br />
