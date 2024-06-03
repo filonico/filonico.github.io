@@ -16,7 +16,7 @@ redirect_from:
 
 <br />
 
-<div style="text-align: center" style="color: red">
+<div style="text-align: center; color: #ae2012">
 ⚠️ <b>LOOKING FOR A POST-DOC HERE!</b> ⚠️
 </div>
 
