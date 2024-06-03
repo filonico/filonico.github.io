@@ -27,7 +27,7 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 
 <div style="text-align: justify">
 
-Tired of the tedious phylogenetic pipeline to generate a species tree after a successful BUSCO analysis? Fed up with wasting time copying and pasting commands to align, trim sequences, and infer the tree?
+Tired of tedious phylogenetic pipelines to generate species trees after a successful BUSCO analysis? Fed up with wasting time copying and pasting commands to align, trim sequences, and infer trees?
 
 Here's the solution! Let phySCO transform your workflow today!
 

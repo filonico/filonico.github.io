@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: center">
-<code>evolutionary genomics - phylogenomics - zoology - (newbie) evo-devo - outreach</code>
+<code>evolutionary genomics – phylogenomics – zoology – (newbie) evo-devo – non-model organisms – outreach</code>
 </div>
 
 

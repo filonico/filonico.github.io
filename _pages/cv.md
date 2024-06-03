@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-*Last updated: Apr 29, 2024*
+*Last updated: Jun 3, 2024*
 
-*Please find an extended version of this CV by clicking this **<a href="https://drive.google.com/file/d/1PmfFChKTrvk1VwaM9xN5FWWNEhJNp2Eo/view?usp=sharing" target="_blank">link</a>**.*
+*Please find an extended version of my CV in this **<a href="https://drive.google.com/file/d/1PmfFChKTrvk1VwaM9xN5FWWNEhJNp2Eo/view?usp=sharing" target="_blank">link</a>**.*
 
 ## 1. Education
 
@@ -119,7 +119,7 @@ Supervisor: *prof. Barbara Mantovani*
   * Experience with termites, ants, and freshwater crustaceans
   * Experience with mussels and oysters
   * Field sample storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)
-* *Scientific illustration*
+* *Scientific illustration* (see the [*Resources*](/resources/) section of this website)
 
 ## 5. Teaching experience
 
@@ -134,7 +134,12 @@ Supervisor: *prof. Barbara Mantovani*
 
 *For a report of poster presentations, please have a look also at the [Resources](/resources/) section in this website.*
 
-* <ins>Nicolini F,</ins> Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
+* <ins>Nicolini F</ins>, Iannello M, Piccinini G, Ghiselli F, Luchetti A, Milani L. (2024). **Advancing the study of
+bivalve sex determination in the light of comparative genomics**. *Establishing state-of-the-art mollusc genomics
+(EMBO workshop)*. Namur (Belgium). May 27 – 30, 2024.
+4
+
+* <ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
 and shared ancestry between putative sex-determining genes in bivalve molluscs**. *EVOLMAR 2023*. Online. Nov 14 – 17, 2023.
 * <ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). **Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution**. *Evolution 2023* (*Ernst Mayr Award symposium*). Online. Jun 2 – 3, 2023.
 
@@ -142,7 +147,11 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 * **Establishing state-of-the-art mollusc genomics**.\
   EMBO Workshop. Awarded with a travel grant.\
-  *Namur, Belgium. May 28 - 31, 2024*
+  *Namur, Belgium. May 28 – 31, 2024.*
+
+* **Art (Science) Attack**.\
+  Physalia Courses.\
+  *Online. May 20 – 23, 2024.*
 
 * **Introduction to Python for biologists**.\
   Physalia Courses.\
@@ -182,11 +191,11 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 ## 9. Visiting scholar
 
-* **Nuzhdin Lab**.\
+* **Nuzhdin's Lab**.\
 University of Southern California. Los Angeles, California, USA.\
 *Aug 20, 2023 – Feb 20, 2024*
 
-* **Pasantes Lab**.\
+* **Pasantes' Lab**.\
 University of Vigo. Vigo, Spain.\
 *Jan 12 – 22, 2023*
 
