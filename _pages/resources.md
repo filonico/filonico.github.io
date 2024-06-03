@@ -29,7 +29,13 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 
 Tired of tedious phylogenetic pipelines to generate species trees after a successful BUSCO analysis? Fed up with wasting time copying and pasting commands to align, trim sequences, and infer trees?
 
+<br />
+<br />
+
 Here's the solution! Let phySCO transform your workflow today!
+
+<br />
+<br />
 
 phySCO is an all-in-one python tool that (i) takes the output of a series of BUSCO analysis, (ii) retrieve ubiquitous single-copy BUSCO orthologs, (iii) align and trim them, and then (iv) infer the corresponding ML phylogenetic tree using a partitioned analysis. Enjoy it!
 
