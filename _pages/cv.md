@@ -9,7 +9,7 @@ redirect_from:
 
 *Last updated: Jun 3, 2024*
 
-*Please find an extended version of my CV in this **<a href="https://drive.google.com/file/d/1PmfFChKTrvk1VwaM9xN5FWWNEhJNp2Eo/view?usp=sharing" target="_blank">link</a>**.*
+*Please find an extended version of my CV in this **<a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a>**.*
 
 ## 1. Education
 
