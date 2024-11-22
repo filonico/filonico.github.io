@@ -32,8 +32,10 @@ One of the main activity I've been carrying out with BioPills is the **writing a
 
 <summary>Here is a collection of some of them</summary>
 
-* [**Miriade. La microscopica moltitudine – Marco Colombo**](https://www.biopills.net/miriade-la-microscopica-moltitudine-marco-colombo/).\
-    *2024, book review*
+<ul>
+<li> <a href="https://www.biopills.net/miriade-la-microscopica-moltitudine-marco-colombo/" target="_blank"><b>Miriade. La microscopica moltitudine – Marco Colombo</b></a>.\
+    <i>2024, book review</i>
+</li>
 
 * [**Mycosium: il simposio divulgativo di micologia**](https://www.biopills.net/mycosium-simposio-divulgativo-di-micologia/).\
     *2024, interview*
