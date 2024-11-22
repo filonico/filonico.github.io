@@ -97,6 +97,11 @@ With BioPills I also collaborated in **organizing live webinars** dealing with v
 
 <li><a href="https://www.youtube.com/watch?v=3B8t2syAmWY&list=PLUMnZXJ4kUWiKl263McC9XGJJbFHz1ARe&index=3&t=3s&pp=iAQB" target="_blank"><b>Un mare di microplastiche: combattere una minaccia invisbile tra immersioni e ricerche scietifiche</b></a>.<br><i>2020. Speaker: Martina Capriotti</i></li>
 
+<li><a href="https://www.youtube.com/watch?v=3B8t2syAmWY&list=PLUMnZXJ4kUWiKl263McC9XGJJbFHz1ARe&index=3&t=3s&pp=iAQB" target="_blank"><b>Un mare di microplastiche: combattere una minaccia invisbile tra immersioni e ricerche scietifiche</b></a>.<br><i>2020. Speaker: Martina Capriotti</i></li>
+
+</ul>
+</details>
+
 ## 3. Other activities
 Every now and then I also partecipate in side activities which involve the collaboration between BioPills and other scientific initiatives.
 
