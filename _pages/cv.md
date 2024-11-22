@@ -58,8 +58,38 @@ Supervisor: *prof. Barbara Mantovani*
   * <code>python</code>&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
 
   * $\LaTeX$&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
-  
+
   * <code>html</code>&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
+
+  <style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-dvpl"><code>bash</code></th>
+    <th class="tg-0pky">▯▯▯▯▯▮</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-dvpl"><code>bash</code></td>
+    <td class="tg-0pky">▯▯▯▯▯▮</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl"><code>bash</code></td>
+    <td class="tg-0pky">▯▯▯▯▯▮</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl"><code>bash</code></td>
+    <td class="tg-0pky">▯▯▯▯▯▮</td>
+  </tr>
+</tbody>
+</table>
 
 
 * *Phylogenetics*
