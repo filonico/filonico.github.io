@@ -69,6 +69,8 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
+
+
   <li><b>Phylogenetics</b>
   <details>
     <summary><i>More</i></summary>
@@ -81,6 +83,8 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
+
+
   <li><b>Comparative genomics</b>
   <details>
     <summary><i>More</i></summary>
@@ -89,13 +93,15 @@ Supervisor: *prof. Barbara Mantovani*
       <li>Gene annotation (<a href="https://github.com/ncbi/blast_plus_docs" target="_blank"><code>BLAST</code></a>, <a href="https://github.com/bbuchfink/diamond" target="_blank"><code>DIAMOND</code></a>, <a href="https://github.com/EddyRivasLab/hmmer" target="_blank"><code>HMMER</code></a>, <a href="https://github.com/ebi-pf-team/interproscan" target="_blank"><code>InterProScan</code></a>, <a href="https://github.com/UCSC-LoweLab/tRNAscan-SE" target="_blank"><code>tRNAscan-SE</code></a>)</li>
       <li>Genome quality assessment (<a href="https://busco.ezlab.org/" target="_blank"><code>BUSCO</code></a>)</li>
       <li>Molecular evolution (<a href="http://abacus.gene.ucl.ac.uk/software/paml.html" target="_blank"><code>PAML</code></a>, <a href="http://hyphy.org/" target="_blank"><code>HyPhy</code></a>, <a href="https://github.com/for-giobbe/BASE" target="_blank"><code>BASE</code></a>, <a href="https://github.com/mrrlab/RRTree" target="_blank"><code>RRTree</code></a>)</li>
-      <li>Gene family evolution (<a href="https://github.com/hahnlab/CAFE5" target="_blank"><code>CAFE5</code></a>, <a href="https://github.com/BenoitMorel/GeneRax" target="_blank"><code>GeneRax</code></a>)
+      <li>Gene family evolution (<a href="https://github.com/hahnlab/CAFE5" target="_blank"><code>CAFE5</code></a>, <a href="https://github.com/BenoitMorel/GeneRax" target="_blank"><code>GeneRax</code></a>)</li>
       <li>Gene macro-synteny (<a href="https://github.com/wyp1125/MCScanX" target="_blank"><code>MCScanX</code></a>/<a href="https://github.com/tanghaibao/jcvi" target="_blank"><code>JCVI</code></a>)</li>
       <li>Detection of sex-related loci (<a href="https://gitlab.in2p3.fr/sex-det-family/sex-detector" target="_blank"><code>SEX-DETector</code></a>, <a href="https://gitlab.in2p3.fr/sex-det-family/sdpop" target="_blank"><code>SDpop</code></a>)</li>
       <li>Other (<a href="https://github.com/NBISweden/AGAT" target="_blank"><code>AGAT</code></a>, <a href="https://github.com/gpertea/gffread" target="_blank"><code>GffRead</code></a>)</li>
     </ul>
   </details></li>
   <br>
+
+
   <li><b>Mitogenomics</b>
   <details>
     <summary><i>More</i></summary>
@@ -104,6 +110,8 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
+
+
   <li><b>Read manipulation</b>
   <details>
     <summary><i>More</i></summary>
@@ -114,6 +122,8 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
+
+  
   <li><b>Transcriptomics</b>
   <details>
     <summary><i>More</i></summary>
