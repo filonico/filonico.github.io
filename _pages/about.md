@@ -16,7 +16,7 @@ redirect_from:
 
 
 <div style="text-align: justify">
-  Hello everyone and welcome to my page! I am Filippo Nicolini, a <b>PhD student</b> at the University of Bologna working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home" target="_blank">EVO · COM research group</a>.
+  Hello everyone and welcome to my page! I am Filippo Nicolini, a <b>Research Associate</b> at the University of Leicester (UK) in the <a href="https://sites.google.com/view/feudalab/home" target="blank">Feuda Lab</a>. Previously, I was a PhD student at the University of Bologna (Italy) working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home" target="_blank">EVO · COM research group</a>.
   
   <br />
   <br />
@@ -26,7 +26,7 @@ redirect_from:
   <br />
   <br />
   
-  My PhD is mainly focused on <b>bivalve comparative genomics</b> with a particular interest for genes involved in <b>sex determination</b>, in the attempt to understand their patterns of molecular evolution and genome dynamics. Alongside bioinformatics, I am also leveraging several <i>wet lab</i> techniques (such as HCR mRNA-FISH and karyology) to gain a more comprehensive investigation of bivalves sex determination.
+  My current postdoc revolves around a project focused on the <b>evolution of vision in early metazoans</b>, leveraging both bioinformatics and wet-lab. My PhD was instead mainly focused on <b>bivalve comparative genomics</b> with a particular interest for genes involved in <b>sex determination</b>, in the attempt to understand their patterns of molecular evolution and genome dynamics, as well as their transcription and/or expression during early developmental stages.
   
   <br />
   <br />
