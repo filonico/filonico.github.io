@@ -28,7 +28,10 @@ Unfortunatly, the website is currently only in Italian, but if you are intereste
 ## 1. Web articles
 One of the main activity I've been carrying out with BioPills is the **writing and publication** of outreach articles on our website. Over the years, I dealt with many subjects, ranging from zoology to ecology, and from book reviews to interviews. You can find all the articles I published by visiting my **[account page on BioPills](https://www.biopills.net/author/filippo-nicolini/)**.
 
-Here is a collection of some of them:
+<details>
+
+<summary>Here is a collection of some of them</summary>
+
 * [**Miriade. La microscopica moltitudine – Marco Colombo**](https://www.biopills.net/miriade-la-microscopica-moltitudine-marco-colombo/).\
     *2024, book review*
 
@@ -70,6 +73,8 @@ Here is a collection of some of them:
 
 * [**Lo strano caso delle rane deformi**](https://www.biopills.net/lo-strano-caso-delle-rane-deformi/).\
     *2018, dissemination article*
+
+</details>
 
 ## 2. Webinars
 With BioPills I also collaborated in **organizing live webinars** dealing with various biological topics. My main role was to moderate the webinar, by introducing the speaker and the topic, and by reading questions from the audience. You can find all the webinars hosted by BioPills on the **[YouTube channel](https://www.youtube.com/playlist?list=PLUMnZXJ4kUWiKl263McC9XGJJbFHz1ARe)**.
