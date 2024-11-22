@@ -33,18 +33,16 @@ One of the main activity I've been carrying out with BioPills is the **writing a
 <summary>Here is a collection of some of them</summary>
 
 <ul>
-<li> <a href="https://www.biopills.net/miriade-la-microscopica-moltitudine-marco-colombo/" target="_blank"><b>Miriade. La microscopica moltitudine – Marco Colombo</b></a>.\
-    <i>2024, book review</i>
-</li>
+<li><a href="https://www.biopills.net/miriade-la-microscopica-moltitudine-marco-colombo/" target="_blank"><b>Miriade. La microscopica moltitudine – Marco Colombo</b></a>.<br><i>2024, book review</i></li>
 
-* [**Mycosium: il simposio divulgativo di micologia**](https://www.biopills.net/mycosium-simposio-divulgativo-di-micologia/).\
-    *2024, interview*
+<li><a href="https://www.biopills.net/mycosium-simposio-divulgativo-di-micologia/" target="_blank"><b>Mycosium: il simposio divulgativo di micologia</b></a>.<br><i>2024, interview</i></li>
 
-* [**The tale of Tal – Gianpaolo di Silvestro e Luca Vergerio**](https://www.biopills.net/the-tale-of-tal-di-silvestro-vergerio/).\
-    *2023, book review*
+<li><a href="https://www.biopills.net/the-tale-of-tal-di-silvestro-vergerio/" target="_blank"><b>The tale of Tal – Gianpaolo di Silvestro e Luca Vergerio</b></a>.<br><i>2023, book review</i></li>
 
-* [**Correre tutti i rischi. Lettere sull’avventura della ricerca – Charles Darwin**](https://www.biopills.net/correre-tutti-i-rischi-lettere-avventura-della-ricerca-charles-darwin/).\
-    *2021, book review*
+<li><a href="https://www.biopills.net/correre-tutti-i-rischi-lettere-avventura-della-ricerca-charles-darwin/" target="_blank"><b>Correre tutti i rischi. Lettere sull’avventura della ricerca – Charles Darwin</b></a>.<br><i>2021, book review</i></li>
+
+
+</ul>
   
 * [**Sbiancamento dei coralli: cause e conseguenze**](https://www.biopills.net/sbiancamento-dei-coralli-cause-e-conseguenze/).\
     *2020, dissemination article*
