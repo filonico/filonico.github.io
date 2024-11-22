@@ -9,9 +9,9 @@
 locale                 : "en-US"
 title                  : filonico's webpage
 # logo                 : "/images/logo.png"
-email                  : filippo.nicolini6@unibo.it
+email                  : fn76@le.ac.uk
 description            : >- # this means to ignore newlines until "baseurl:"
-  This is the personal website of Filippo Nicolini, a PhD student in comparative genomics at the University of Bologna.
+  This is the personal website of Filippo Nicolini, a Research Associate in evolutionary genomics at the University of Leicester (UK).
 twitter_username       : filo_nicoo
 github_username        : filonico
 
@@ -23,9 +23,9 @@ atom_feed:
 author:
   name             : "Filippo Nicolini"
   avatar           : "propic2.jpg"
-  bio              : "PhD student dealing (struggling) with bivalve and arthropod comparative genomics 🧬🦪🦗"
-  location         : "University of Bologna, Italy"
-  email            : "filippo.nicolini6@unibo.it"
+  bio              : "Reasearch Associatre dealing (struggling) with invertebrate evolutionary genomics 🧬🦗🦪🧽🧬"
+  location         : "University of Leicester (UK)"
+  email            : "fn76@le.ac.uk"
   github           : "filonico"
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=p1HArXIAAAAJ"
   twitter          : "filo_nicoo"
