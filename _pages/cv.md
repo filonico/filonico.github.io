@@ -25,7 +25,7 @@ details[open] > summary::before {
 }
 </style>
 
-*Last updated: Jun 3, 2024*
+*Last updated: Nov 22, 2024*
 
 *Please find an extended version of my CV in this **<a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a>**.*
 
@@ -118,7 +118,7 @@ Supervisor: *prof. Barbara Mantovani*
   <details>
     <summary><i><small>More</small></i></summary>
     <ul>
-    * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
+      <li>Mitogenome assembly and annotation (<a href="https://github.com/marcelauliano/MitoHiFi" target="_blank"><code>MitoHiFi</code></a>, <a href="https://github.com/RemiAllio/MitoFinder" target="_blank"><code>MitoFinder</code></a>, <a href="https://github.com/RemiAllio/MitoFinder" target="_blank"><code>mitoRNA</code></a>)</li>
     </ul>
   </details></li>
 
@@ -126,9 +126,9 @@ Supervisor: *prof. Barbara Mantovani*
   <details>
     <summary><i><small>More</small></i></summary>
     <ul>
-    * Raw reads quality check ([<code>FastQC</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [<code>MultiQC</code>](https://multiqc.info/))
-    * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
-    * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>stringtie</code>](https://github.com/gpertea/stringtie), [<code>samtools</code>](https://github.com/samtools/samtools))
+      <li>Raw reads quality check (<a href="https://github.com/trinityrnaseq/trinityrnaseq/wiki" target="_blank"><code>FastQC</code></a>, <a href="https://multiqc.info/" target="_blank"><code>MultiQC</code></a>)</li>
+      <li>Read trimming (<a href="https://github.com/usadellab/Trimmomatic" target="_blank"><code>trimmomatic</code></a>)</li>
+      <li>Read mapping and filtering (<a href="https://github.com/BenLangmead/bowtie2" target="_blank"><code>Bowtie2</code></a>, <a href="https://github.com/alexdobin/STAR" target="_blank"><code>STAR</code></a>, <a href="https://github.com/mhammell-laboratory/TEtranscripts" target="_blank"><code>TEtranscripts</code></a>, <a href="https://github.com/gpertea/stringtie" target="_blank"><code>stringtie</code></a>, <a href="https://github.com/samtools/samtools" target="_blank"><code>samtools</code></a>)</li>
     </ul>
   </details></li>
 
@@ -136,8 +136,8 @@ Supervisor: *prof. Barbara Mantovani*
   <details>
     <summary><i><small>More</small></i></summary>
     <ul>
-    * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
-    * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
+    <li>De-novo transcriptome assembly (<a href="https://github.com/trinityrnaseq/trinityrnaseq/wiki" target="_blank"><code>Trinity</code></a>)</li>
+    <li>Gene differential expression (<a href="https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html" target="_blank"><code>NOISeq</code></a>, <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html" target="_blank"><code>DESeq2</code></a>, <a href="https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html" target="_blank"><code>maSigPro</code></a>, <a href="https://bioconductor.org/packages/release/bioc/html/topGO.html" target="_blank"><code>topGO</code></a>)</li>
       </ul>
   </details></li>
   
