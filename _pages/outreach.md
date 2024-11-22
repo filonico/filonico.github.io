@@ -41,39 +41,29 @@ One of the main activity I've been carrying out with BioPills is the **writing a
 
 <li><a href="https://www.biopills.net/correre-tutti-i-rischi-lettere-avventura-della-ricerca-charles-darwin/" target="_blank"><b>Correre tutti i rischi. Lettere sull’avventura della ricerca – Charles Darwin</b></a>.<br><i>2021, book review</i></li>
 
+<li><a href="https://www.biopills.net/sbiancamento-dei-coralli-cause-e-conseguenze/" target="_blank"><b>Sbiancamento dei coralli: cause e conseguenze</b></a>.<br><i>2020, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/sbiancamento-dei-coralli-cause-e-conseguenze/" target="_blank"><b>Sbiancamento dei coralli: cause e conseguenze</b></a>.<br><i>2020, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/biodiversita/" target="_blank"><b>Biodiversità: una ricchezza inestimabile</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/ragno-violino-loxosceles-rufescens/" target="_blank"><b>Ragno violino (<i>Loxosceles rufescens</i>)</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/malmignatta/" target="_blank"><b>Malmignatta (<i>Latrodectus tredecimguttatus</i>)</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/mantide-orchidea-hymenopus-coronatus/" target="_blank"><b>Mantide orchidea (<i>Hymenopus coronatus</i>)</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/cbd-convenzione-sulla-diversita-biologica/" target="_blank"><b>CBD: la Convenzione sulla Diversità Biologica</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/mimetismo/" target="_blank"><b>Mimetismo: quando l'evoluzione diventa arte</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/fauna-di-ediacara/" target="_blank"><b>Fauna di Ediacara: un esperimento fallito?</b></a>.<br><i>2019, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/medusa-immortale-turritopsis-nutricula/" target="_blank"><b>La medusa immortale (<i>Turritopsis nutricola</i>)</b></a>.<br><i>2018, dissemination article</i></li>
+
+<li><a href="https://www.biopills.net/lo-strano-caso-delle-rane-deformi/" target="_blank"><b>Lo strano caso delle rane deformi</b></a>.<br><i>2018, dissemination article</i></li>
 
 </ul>
-  
-* [**Sbiancamento dei coralli: cause e conseguenze**](https://www.biopills.net/sbiancamento-dei-coralli-cause-e-conseguenze/).\
-    *2020, dissemination article*
-    
-* [**Biodiversità: una ricchezza inestimabile**](https://www.biopills.net/biodiversita/).\
-    *2019, dissemination article*
-    
-* [**Ragno violino (*Loxosceles rufescens*)**](https://www.biopills.net/ragno-violino-loxosceles-rufescens/).\
-    *2019, dissemination article*
-
-* [**Malmignatta (*Latrodectus tredecimguttatus*)**](https://www.biopills.net/malmignatta/).\
-    *2019, dissemination article*
-    
-* [**Mantide orchidea (*Hymenopus coronatus*)**](https://www.biopills.net/mantide-orchidea-hymenopus-coronatus/).\
-    *2019, dissemination article*
-
-* [**CBD: la Convenzione sulla Diversità Biologica**](https://www.biopills.net/cbd-convenzione-sulla-diversita-biologica/).\
-    *2019, dissemination article*
-    
-* [**Mimetismo: quando l'evoluzione diventa arte**](https://www.biopills.net/mimetismo/).\
-    *2019, dissemination article*
-
-* [**Fauna di Ediacara: un esperimento fallito?**](https://www.biopills.net/fauna-di-ediacara/).\
-    *2019, dissemination article*
-    
-* [**La medusa immortale (*Turritopsis nutricola*)**](https://www.biopills.net/medusa-immortale-turritopsis-nutricula/).\
-    *2018, dissemination article*
-
-* [**Lo strano caso delle rane deformi**](https://www.biopills.net/lo-strano-caso-delle-rane-deformi/).\
-    *2018, dissemination article*
-
 </details>
 
 ## 2. Webinars
