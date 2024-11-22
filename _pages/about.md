@@ -16,7 +16,7 @@ redirect_from:
 
 
 <div style="text-align: justify">
-  Hello everyone and welcome to my page! I am Filippo Nicolini, a <b>Research Associate</b> at the University of Leicester (UK) in the <a href="https://sites.google.com/view/feudalab/home" target="blank">Feuda Lab</a>. Previously, I was a PhD student at the University of Bologna (Italy) working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home" target="_blank">EVO · COM research group</a>.
+  Hello everyone and welcome! I am Filippo Nicolini, a <b>Research Associate</b> at the University of Leicester (UK) in the <a href="https://sites.google.com/view/feudalab/home" target="blank">Feuda Lab</a>. Previously, I was a PhD student at the University of Bologna (Italy) working with people from the <a href="https://sites.google.com/view/evo-com-unibo/home" target="_blank">EVO · COM research group</a>.
   
   <br />
   <br />
