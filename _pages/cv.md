@@ -56,20 +56,19 @@ Supervisor: *prof. Barbara Mantovani*
     <summary><i>More</i></summary>
     <small>(beginner ▯▯▯▯▯ advantaced)</small>
     <ul>
-      <li><code>bash</code></li>
-        ▮▮▮▮▯
-      <li><code>R</code></li>
-        ▮▮▮▯▯
-      <li><code>python</code></li>
-        ▮▮▯▯▯
-      <li>LaTeX</li>
-        ▮▮▯▯▯
-      <li><code>html</code></li>
-        ▮▯▯▯▯
+      <li><code>bash</code>
+        ▮▮▮▮▯</li>
+      <li><code>R</code>
+        ▮▮▮▯▯</li>
+      <li><code>python</code>
+        ▮▮▯▯▯</li>
+      <li>LaTeX
+        ▮▮▯▯▯</li>
+      <li><code>html</code>
+        ▮▯▯▯▯</li>
     </ul>
   </details></li>
   <br>
-
   <li><b>Phylogenetics</b>
   <details>
     <summary><i>More</i></summary>
@@ -82,8 +81,6 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
-
-
   <li><b>Comparative genomics</b>
   <details>
     <summary><i>More</i></summary>
@@ -99,8 +96,6 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
-
-
   <li><b>Mitogenomics</b>
   <details>
     <summary><i>More</i></summary>
@@ -109,8 +104,6 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
-
-
   <li><b>Read manipulation</b>
   <details>
     <summary><i>More</i></summary>
@@ -121,8 +114,6 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
   <br>
-  
-
   <li><b>Transcriptomics</b>
   <details>
     <summary><i>More</i></summary>
