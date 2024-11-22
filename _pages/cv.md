@@ -7,6 +7,24 @@ redirect_from:
   - /resume
 ---
 
+<style>
+summary {
+  display: block;
+}
+
+/* Create a new custom triangle on the right side */
+summary::before {
+  margin-left: 1ch;
+  display: inline-block;
+  content: '> ';
+  transition: 0.2s;
+}
+
+details[open] > summary::before {
+  transform: rotate(90deg);
+}
+</style>
+
 *Last updated: Jun 3, 2024*
 
 *Please find an extended version of my CV in this **<a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a>**.*
@@ -56,15 +74,15 @@ Supervisor: *prof. Barbara Mantovani*
     <summary><i><small>More</small></i></summary>
     <small>(beginner ▯▯▯▯▯ advantaced)</small>
     <ul>
-      <li><code>bash</code>
+      <li><code>bash</code><br />
         ▮▮▮▮▯</li>
-      <li><code>R</code>
+      <li><code>R</code><br />
         ▮▮▮▯▯</li>
-      <li><code>python</code>
+      <li><code>python</code><br />
         ▮▮▯▯▯</li>
-      <li>LaTeX
+      <li>LaTeX<br />
         ▮▮▯▯▯</li>
-      <li><code>html</code>
+      <li><code>html</code><br />
         ▮▯▯▯▯</li>
     </ul>
   </details></li>
