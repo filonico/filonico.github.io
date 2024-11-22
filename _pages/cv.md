@@ -68,7 +68,7 @@ Supervisor: *prof. Barbara Mantovani*
         ▮▯▯▯▯</li>
     </ul>
   </details></li>
-  <br>
+
 
 
   <li><b>Phylogenetics</b>
@@ -82,7 +82,7 @@ Supervisor: *prof. Barbara Mantovani*
       <li>Tree decomposition (<a href="https://github.com/JSdoubleL/DISCO" target="_blank"><code>DISCO</code></a>)</li>
     </ul>
   </details></li>
-  <br>
+
 
 
   <li><b>Comparative genomics</b>
@@ -99,7 +99,7 @@ Supervisor: *prof. Barbara Mantovani*
       <li>Other (<a href="https://github.com/NBISweden/AGAT" target="_blank"><code>AGAT</code></a>, <a href="https://github.com/gpertea/gffread" target="_blank"><code>GffRead</code></a>)</li>
     </ul>
   </details></li>
-  <br>
+
 
 
   <li><b>Mitogenomics</b>
@@ -109,7 +109,7 @@ Supervisor: *prof. Barbara Mantovani*
     * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
     </ul>
   </details></li>
-  <br>
+
 
 
   <li><b>Read manipulation</b>
@@ -121,9 +121,9 @@ Supervisor: *prof. Barbara Mantovani*
     * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>stringtie</code>](https://github.com/gpertea/stringtie), [<code>samtools</code>](https://github.com/samtools/samtools))
     </ul>
   </details></li>
-  <br>
 
-  
+
+
   <li><b>Transcriptomics</b>
   <details>
     <summary><i>More</i></summary>
@@ -132,7 +132,7 @@ Supervisor: *prof. Barbara Mantovani*
     * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
       </ul>
   </details></li>
-  <br>
+  
 </ul>
 
 ### 4.2. *Wet-lab*
