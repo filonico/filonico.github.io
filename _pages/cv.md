@@ -51,16 +51,15 @@ Supervisor: *prof. Barbara Mantovani*
 ### 4.1. Bioinformatics
 
 * *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  * <code>bash</code>\
-    ●●●●∘
-  * <code>R</code>\
-    ●●●∘∘
-  * <code>python</code>\
-    ●●∘∘∘
-  * $\LaTeX$\
-    ●∘∘∘∘
-  * <code>html</code>\
-    ●∘∘∘∘
+  * <code>bash</code>&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
+
+  * <code>R</code>&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
+
+  * <code>python</code>&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
+
+  * $\LaTeX$&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
+  
+  * <code>html</code>&nbsp;&nbsp;&nbsp;▯▯▯▯▯▮
 
 
 * *Phylogenetics*
