@@ -71,21 +71,35 @@ Supervisor: *prof. Barbara Mantovani*
 <br>
 
 <li><b>Phylogenetics</b></li>
-  * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
-  * Bayesian phylogenetic analysis ([<code>MrBayes</code>](https://nbisweden.github.io/MrBayes/), [<code>PhyloBayes</code>](http://www.atgc-montpellier.fr/phylobayes/))
-  * Global alignment tools ([<code>MAFFT</code>](https://mafft.cbrc.jp/alignment/software/), [<code>MUSCLE</code>](https://github.com/rcedgar/muscle), [<code>Clustal Omega</code>](http://www.clustal.org/omega/), [<code>trimAl</code>](http://trimal.cgenomics.org/), [<code>GBlocks</code>](https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html))
-  * Tree calibration ([<code>lsd2</code>](https://github.com/tothuhien/lsd2), [<code>MCMCTree</code>](http://abacus.gene.ucl.ac.uk/software/paml.html))
-  * Tree decomposition ([<code>DISCO</code>](https://github.com/JSdoubleL/DISCO))
+<details>
+  <summary><i>More</i></summary>
+  <ul>
+    <li>ML phylogenetic analysis (<a href="https://github.com/iqtree/iqtree2" target="_blank"><code>IQTREE</code></a>, <a href="https://github.com/amkozlov/raxml-ng" target="_blank"><code>RAxML-NG</code></a>, <a href="http://www.microbesonline.org/fasttree/" target="_blank"><code>FastTree</code></a>)</li>
+    <li>Bayesian phylogenetic analysis (<a href="https://nbisweden.github.io/MrBayes/" target="_blank"><code>MrBayes</code></a>, <a href="http://www.atgc-montpellier.fr/phylobayes/" target="_blank"><code>PhyloBayes</code></a>)</li>
+    <li>Global alignment tools (<a href="https://mafft.cbrc.jp/alignment/software/" target="_blank"><code>MAFFT</code></a>, <a href="https://github.com/rcedgar/muscle" target="_blank"><code>MUSCLE</code></a>, <a href="http://www.clustal.org/omega/" target="_blank"><code>Clustal Omega</code></a>, <a href="http://trimal.cgenomics.org/" target="_blank"><code>trimAl</code></a>, <a href="https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html" target="_blank"><code>GBlocks</code></a>)</li>
+    <li>Tree calibration (<a href="https://github.com/tothuhien/lsd2" target="_blank"><code>lsd2</code></a>, <a href="http://abacus.gene.ucl.ac.uk/software/paml.html" target="_blank"><code>MCMCTree</code></a>)</li>
+    <li>Tree decomposition (<a href="https://github.com/JSdoubleL/DISCO" target="_blank"><code>DISCO</code></a>)</li>
+  </ul>
+</details>
+<br>
+
 
 <li><b>Comparative genomics</b></li>
-  * Orthology inference ([<code>OrthoFinder</code>](https://github.com/davidemms/OrthoFinder), [<code>Possvm</code>](https://github.com/xgrau/possvm-orthology), [<code>TOGA</code>](https://github.com/hillerlab/TOGA))
-  * Gene annotation ([<code>BLAST</code>](https://github.com/ncbi/blast_plus_docs), [<code>DIAMOND</code>](https://github.com/bbuchfink/diamond), [<code>HMMER</code>](https://github.com/EddyRivasLab/hmmer), [<code>InterProScan</code>](https://github.com/ebi-pf-team/interproscan), [<code>tRNAscan-SE</code>](https://github.com/UCSC-LoweLab/tRNAscan-SE))
-  * Genome quality assessment ([<code>BUSCO</code>](https://busco.ezlab.org/))
-  * Molecular evolution ([<code>PAML</code>](http://abacus.gene.ucl.ac.uk/software/paml.html), [<code>HyPhy</code>](http://hyphy.org/), [<code>BASE</code>](https://github.com/for-giobbe/BASE), [<code>RRTree</code>](https://github.com/mrrlab/RRTree))
-  * Gene family evolution ([<code>CAFE5</code>](https://github.com/hahnlab/CAFE5), [<code>GeneRax</code>](https://github.com/BenoitMorel/GeneRax))
-  * Gene macro-synteny ([<code>MCScanX</code>](https://github.com/wyp1125/MCScanX)/[<code>JCVI</code>](https://github.com/tanghaibao/jcvi))
-  * Detection of sex-related loci ([<code>SEX-DETector</code>](https://gitlab.in2p3.fr/sex-det-family/sex-detector), [<code>SDpop</code>](https://gitlab.in2p3.fr/sex-det-family/sdpop))
-  * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT), [<code>GffRead</code>](https://github.com/gpertea/gffread))
+<details>
+  <summary><i>More</i></summary>
+  <ul>
+  <li>Orthology inference (<a href="https://github.com/davidemms/OrthoFinder" target="_blank"><code>OrthoFinder</code></a>, <a href="https://github.com/xgrau/possvm-orthology" target="_blank"><code>Possvm</code></a>, <a href="https://github.com/hillerlab/TOGA" target="_blank"><code>TOGA</code></a>)</li>
+  <li>Gene annotation (<a href="https://github.com/ncbi/blast_plus_docs" target="_blank"><code>BLAST</code></a>, <a href="https://github.com/bbuchfink/diamond" target="_blank"><code>DIAMOND</code></a>, <a href="https://github.com/EddyRivasLab/hmmer" target="_blank"><code>HMMER</code></a>, <a href="https://github.com/ebi-pf-team/interproscan" target="_blank"><code>InterProScan</code></a>, <a href="https://github.com/UCSC-LoweLab/tRNAscan-SE" target="_blank"><code>tRNAscan-SE</code></a>)</li>
+  <li>Genome quality assessment (<a href="https://busco.ezlab.org/" target="_blank"><code>BUSCO</code></a>)</li>
+  <li>Molecular evolution (<a href="http://abacus.gene.ucl.ac.uk/software/paml.html" target="_blank"><code>PAML</code></a>, <a href="http://hyphy.org/" target="_blank"><code>HyPhy</code></a>, <a href="https://github.com/for-giobbe/BASE" target="_blank"><code>BASE</code></a>, <a href="https://github.com/mrrlab/RRTree" target="_blank"><code>RRTree</code></a>)</li>
+  <li>Gene family evolution (<a href="https://github.com/hahnlab/CAFE5" target="_blank"><code>CAFE5</code></a>, <a href="https://github.com/BenoitMorel/GeneRax" target="_blank"><code>GeneRax</code></a>)
+  <li>Gene macro-synteny (<a href="https://github.com/wyp1125/MCScanX" target="_blank"><code>MCScanX</code></a>/<a href="https://github.com/tanghaibao/jcvi" target="_blank"><code>JCVI</code></a>)</li>
+  <li>Detection of sex-related loci (<a href="https://gitlab.in2p3.fr/sex-det-family/sex-detector" target="_blank"><code>SEX-DETector</code></a>, <a href="https://gitlab.in2p3.fr/sex-det-family/sdpop" target="_blank"><code>SDpop</code></a>)</li>
+  <li>Other (<a href="https://github.com/NBISweden/AGAT" target="_blank"><code>AGAT</code></a>, <a href="https://github.com/gpertea/gffread" target="_blank"><code>GffRead</code></a>)</li>
+  </ul>
+
+</details>
+<br>
 
 <li><b>Mitogenomics</b></li>
   * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))

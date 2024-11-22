@@ -30,7 +30,7 @@ One of the main activity I've been carrying out with BioPills is the **writing a
 
 <details>
 
-<summary>Here is a collection of some of them</summary>
+<summary><i>See a list of selected articles</i></summary>
 
 <ul>
 <li><a href="https://www.biopills.net/miriade-la-microscopica-moltitudine-marco-colombo/" target="_blank"><b>Miriade. La microscopica moltitudine – Marco Colombo</b></a>.<br><i>2024. Book review</i></li>
@@ -71,7 +71,7 @@ With BioPills I also collaborated in **organizing live webinars** dealing with v
 
 <details>
 
-<summary>Here is the collection of the webinars I moderated</summary>
+<summary><i>See the list of webinars I moderated</i></summary>
 
 <ul>
 
