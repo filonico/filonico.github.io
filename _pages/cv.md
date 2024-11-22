@@ -53,7 +53,7 @@ Supervisor: *prof. Barbara Mantovani*
 <ul>
   <li><b>Programming and markup languages</b>
   <details>
-    <summary><i>More</i></summary>
+    <summary><i><small>More</small></i></summary>
     <small>(beginner ▯▯▯▯▯ advantaced)</small>
     <ul>
       <li><code>bash</code>
@@ -69,11 +69,9 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
 
-
-
   <li><b>Phylogenetics</b>
   <details>
-    <summary><i>More</i></summary>
+    <summary><i><small>More</small></i></summary>
     <ul>
       <li>ML phylogenetic analysis (<a href="https://github.com/iqtree/iqtree2" target="_blank"><code>IQTREE</code></a>, <a href="https://github.com/amkozlov/raxml-ng" target="_blank"><code>RAxML-NG</code></a>, <a href="http://www.microbesonline.org/fasttree/" target="_blank"><code>FastTree</code></a>)</li>
       <li>Bayesian phylogenetic analysis (<a href="https://nbisweden.github.io/MrBayes/" target="_blank"><code>MrBayes</code></a>, <a href="http://www.atgc-montpellier.fr/phylobayes/" target="_blank"><code>PhyloBayes</code></a>)</li>
@@ -83,11 +81,9 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
 
-
-
   <li><b>Comparative genomics</b>
   <details>
-    <summary><i>More</i></summary>
+    <summary><i><small>More</small></i></summary>
     <ul>
       <li>Orthology inference (<a href="https://github.com/davidemms/OrthoFinder" target="_blank"><code>OrthoFinder</code></a>, <a href="https://github.com/xgrau/possvm-orthology" target="_blank"><code>Possvm</code></a>, <a href="https://github.com/hillerlab/TOGA" target="_blank"><code>TOGA</code></a>)</li>
       <li>Gene annotation (<a href="https://github.com/ncbi/blast_plus_docs" target="_blank"><code>BLAST</code></a>, <a href="https://github.com/bbuchfink/diamond" target="_blank"><code>DIAMOND</code></a>, <a href="https://github.com/EddyRivasLab/hmmer" target="_blank"><code>HMMER</code></a>, <a href="https://github.com/ebi-pf-team/interproscan" target="_blank"><code>InterProScan</code></a>, <a href="https://github.com/UCSC-LoweLab/tRNAscan-SE" target="_blank"><code>tRNAscan-SE</code></a>)</li>
@@ -100,21 +96,17 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
 
-
-
   <li><b>Mitogenomics</b>
   <details>
-    <summary><i>More</i></summary>
+    <summary><i><small>More</small></i></summary>
     <ul>
     * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
     </ul>
   </details></li>
 
-
-
   <li><b>Read manipulation</b>
   <details>
-    <summary><i>More</i></summary>
+    <summary><i><small>More</small></i></summary>
     <ul>
     * Raw reads quality check ([<code>FastQC</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [<code>MultiQC</code>](https://multiqc.info/))
     * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
@@ -122,11 +114,9 @@ Supervisor: *prof. Barbara Mantovani*
     </ul>
   </details></li>
 
-
-
   <li><b>Transcriptomics</b>
   <details>
-    <summary><i>More</i></summary>
+    <summary><i><small>More</small></i></summary>
     <ul>
     * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
     * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
