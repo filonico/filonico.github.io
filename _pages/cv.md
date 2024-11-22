@@ -51,7 +51,7 @@ Supervisor: *prof. Barbara Mantovani*
 ### 4.1. Bioinformatics
 
 <ul>
-  <li><b>Programming and markup languages</b></li>
+  <li><b>Programming and markup languages</b>
   <details>
     <summary><i>More</i></summary>
     <small>(beginner ▯▯▯▯▯ advantaced)</small>
@@ -67,10 +67,10 @@ Supervisor: *prof. Barbara Mantovani*
       <li><code>html</code></li>
         ▮▯▯▯▯
     </ul>
-  </details>
+  </details></li>
   <br>
 
-  <li><b>Phylogenetics</b></li>
+  <li><b>Phylogenetics</b>
   <details>
     <summary><i>More</i></summary>
     <ul>
@@ -80,11 +80,11 @@ Supervisor: *prof. Barbara Mantovani*
       <li>Tree calibration (<a href="https://github.com/tothuhien/lsd2" target="_blank"><code>lsd2</code></a>, <a href="http://abacus.gene.ucl.ac.uk/software/paml.html" target="_blank"><code>MCMCTree</code></a>)</li>
       <li>Tree decomposition (<a href="https://github.com/JSdoubleL/DISCO" target="_blank"><code>DISCO</code></a>)</li>
     </ul>
-  </details>
+  </details></li>
   <br>
 
 
-  <li><b>Comparative genomics</b></li>
+  <li><b>Comparative genomics</b>
   <details>
     <summary><i>More</i></summary>
     <ul>
@@ -97,19 +97,21 @@ Supervisor: *prof. Barbara Mantovani*
       <li>Detection of sex-related loci (<a href="https://gitlab.in2p3.fr/sex-det-family/sex-detector" target="_blank"><code>SEX-DETector</code></a>, <a href="https://gitlab.in2p3.fr/sex-det-family/sdpop" target="_blank"><code>SDpop</code></a>)</li>
       <li>Other (<a href="https://github.com/NBISweden/AGAT" target="_blank"><code>AGAT</code></a>, <a href="https://github.com/gpertea/gffread" target="_blank"><code>GffRead</code></a>)</li>
     </ul>
-  </details>
+  </details></li>
   <br>
 
-  <li><b>Mitogenomics</b></li>
+
+  <li><b>Mitogenomics</b>
   <details>
     <summary><i>More</i></summary>
     <ul>
     * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
     </ul>
-  </details>
+  </details></li>
   <br>
 
-  <li><b>Read manipulation</b></li>
+
+  <li><b>Read manipulation</b>
   <details>
     <summary><i>More</i></summary>
     <ul>
@@ -117,17 +119,18 @@ Supervisor: *prof. Barbara Mantovani*
     * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
     * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>stringtie</code>](https://github.com/gpertea/stringtie), [<code>samtools</code>](https://github.com/samtools/samtools))
     </ul>
-  </details>
+  </details></li>
   <br>
+  
 
-  <li><b>Transcriptomics</b></li>
+  <li><b>Transcriptomics</b>
   <details>
     <summary><i>More</i></summary>
     <ul>
     * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
     * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
       </ul>
-  </details>
+  </details></li>
   <br>
 </ul>
 
