@@ -69,7 +69,6 @@ Supervisor: *prof. Barbara Mantovani*
   </ul>
 </details>
 <br>
-<br>
 
 <li><b>Phylogenetics</b></li>
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
