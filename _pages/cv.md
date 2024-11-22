@@ -50,31 +50,35 @@ Supervisor: *prof. Barbara Mantovani*
 
 ### 4.1. Bioinformatics
 
-* *Programming and command languages* (beginner ∘∘∘∘∘ advantaced)
-  * <code>bash</code>\
-    ▮▮▮▮▯
+<ul>
+<li><b>Programming and markup languages</b></li>
+<details>
+  <summary><i>More</i></summary>
+  <small>(beginner ▯▯▯▯▯ advantaced)</small>
+  <br>
+  <br>
+  <ul>
+    <li><code>bash</code></li>
+      ▮▮▮▮▯
+    <li><code>R</code></li>
+      ▮▮▮▯▯
+    <li><code>python</code></li>
+      ▮▮▯▯▯
+    <li>LaTeX</li>
+      ▮▮▯▯▯
+    <li><code>html</code></li>
+      ▮▯▯▯▯
+  </ul>
+</details>
 
-  * <code>R</code>\
-    ▮▮▮▯▯
-
-  * <code>python</code>\
-    ▮▮▯▯▯
-
-  * $\LaTeX$\
-    ▮▮▯▯▯
-    
-  * <code>html</code>\
-    ▮▯▯▯▯
-
-
-* *Phylogenetics*
+<li><b>Phylogenetics</b></li>
   * ML phylogenetic analysis ([<code>IQTREE</code>](https://github.com/iqtree/iqtree2), [<code>RAxML-NG</code>](https://github.com/amkozlov/raxml-ng), [<code>FastTree</code>](http://www.microbesonline.org/fasttree/))
   * Bayesian phylogenetic analysis ([<code>MrBayes</code>](https://nbisweden.github.io/MrBayes/), [<code>PhyloBayes</code>](http://www.atgc-montpellier.fr/phylobayes/))
   * Global alignment tools ([<code>MAFFT</code>](https://mafft.cbrc.jp/alignment/software/), [<code>MUSCLE</code>](https://github.com/rcedgar/muscle), [<code>Clustal Omega</code>](http://www.clustal.org/omega/), [<code>trimAl</code>](http://trimal.cgenomics.org/), [<code>GBlocks</code>](https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html))
   * Tree calibration ([<code>lsd2</code>](https://github.com/tothuhien/lsd2), [<code>MCMCTree</code>](http://abacus.gene.ucl.ac.uk/software/paml.html))
   * Tree decomposition ([<code>DISCO</code>](https://github.com/JSdoubleL/DISCO))
 
-* *Comparative genomics*
+<li><b>Comparative genomics</b></li>
   * Orthology inference ([<code>OrthoFinder</code>](https://github.com/davidemms/OrthoFinder), [<code>Possvm</code>](https://github.com/xgrau/possvm-orthology), [<code>TOGA</code>](https://github.com/hillerlab/TOGA))
   * Gene annotation ([<code>BLAST</code>](https://github.com/ncbi/blast_plus_docs), [<code>DIAMOND</code>](https://github.com/bbuchfink/diamond), [<code>HMMER</code>](https://github.com/EddyRivasLab/hmmer), [<code>InterProScan</code>](https://github.com/ebi-pf-team/interproscan), [<code>tRNAscan-SE</code>](https://github.com/UCSC-LoweLab/tRNAscan-SE))
   * Genome quality assessment ([<code>BUSCO</code>](https://busco.ezlab.org/))
@@ -84,15 +88,15 @@ Supervisor: *prof. Barbara Mantovani*
   * Detection of sex-related loci ([<code>SEX-DETector</code>](https://gitlab.in2p3.fr/sex-det-family/sex-detector), [<code>SDpop</code>](https://gitlab.in2p3.fr/sex-det-family/sdpop))
   * Other ([<code>AGAT</code>](https://github.com/NBISweden/AGAT), [<code>GffRead</code>](https://github.com/gpertea/gffread))
 
-* *Mitogenomics*
+<li><b>Mitogenomics</b></li>
   * Mitogenome assembly and annotation ([<code>MitoHiFi</code>](https://github.com/marcelauliano/MitoHiFi), [<code>MitoFinder</code>](https://github.com/RemiAllio/MitoFinder), [<code>mitoRNA</code>](https://github.com/RemiAllio/MitoFinder))
 
-* *Read manipulation*
+<li><b>Read manipulation</b></li>
   * Raw reads quality check ([<code>FastQC</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [<code>MultiQC</code>](https://multiqc.info/))
   * Read trimming ([<code>trimmomatic</code>](https://github.com/usadellab/Trimmomatic))
   * Read mapping and filtering ([<code>Bowtie2</code>](https://github.com/BenLangmead/bowtie2), [<code>STAR</code>](https://github.com/alexdobin/STAR), [<code>TEtranscripts</code>](https://github.com/mhammell-laboratory/TEtranscripts), [<code>stringtie</code>](https://github.com/gpertea/stringtie), [<code>samtools</code>](https://github.com/samtools/samtools))
 
-* *Transcriptomics*
+<li><b>Transcriptomics</b></li>
   * De-novo transcriptome assembly ([<code>Trinity</code>](https://github.com/trinityrnaseq/trinityrnaseq/wiki))
   * Gene differential expression ([<code>NOISeq</code>](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html), [<code>DESeq2</code>](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), [<code>maSigPro</code>](https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html), [<code>topGO</code>](https://bioconductor.org/packages/release/bioc/html/topGO.html))
 
