@@ -97,7 +97,6 @@ Supervisor: *prof. Barbara Mantovani*
   <li>Detection of sex-related loci (<a href="https://gitlab.in2p3.fr/sex-det-family/sex-detector" target="_blank"><code>SEX-DETector</code></a>, <a href="https://gitlab.in2p3.fr/sex-det-family/sdpop" target="_blank"><code>SDpop</code></a>)</li>
   <li>Other (<a href="https://github.com/NBISweden/AGAT" target="_blank"><code>AGAT</code></a>, <a href="https://github.com/gpertea/gffread" target="_blank"><code>GffRead</code></a>)</li>
   </ul>
-
 </details>
 <br>
 
