@@ -52,13 +52,13 @@ phySCO is an all-in-one python tool that (i) takes the output of a series of BUS
 Here you can find the pdfs of posters where I was involved. Posters that I personally presented are indicated by a DNA symbol. Click on the titles to see the full posters and download them!
 
 <ul>
-<li>🧬<b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>. <i>Evoluzione 2024</i>. Naples, Italy. Sep 9–11, 2024.</li>
+<li>🧬 <b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>. <i>Evoluzione 2024</i>. Naples, Italy. Sep 9–11, 2024.</li>
 
 <li><b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23–27, 2023.</li>
 
 <li><b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23–27, 2023.</li>
 
-<li>🧬<b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>. <i>Evoluzione 2022</i>. Ancona, Italy. Sep 4–7, 2022.</li>
+<li>🧬 <b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>. <i>Evoluzione 2022</i>. Ancona, Italy. Sep 4–7, 2022.</li>
 
 <li>🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>. <i>EuroEvoDevo 2022</i>. Naples, Italy. May 31–Jun 3, 2022.</li>
 </ul>
