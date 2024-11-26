@@ -27,7 +27,7 @@ details[open] > summary::before {
 
 *Last updated: Nov 22, 2024*
 
-*Please find an extended version of my CV in this **<a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a>**.*
+*Find the extended version of my CV in this **<a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a>**.*
 
 ## 1. Education
 
