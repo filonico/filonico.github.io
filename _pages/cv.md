@@ -25,21 +25,32 @@ details[open] > summary::before {
 }
 </style>
 
-*Last updated: Nov 22, 2024*
+*Last updated: Dec 2, 2024*
 
 *Find the extended version of my CV in this **<a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a>**.*
 
 ## 1. Education
+* **Research Associate**\
+**Subject**: *Evolution of vision in early metazoans.*\
+**Supervisor**: *prof. Roberto Feuda*\
+*University of Leicester, Leicester (UK). Nov 2024 - ongoing*
 
-* **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD), University of Bologna, 2025 (expected)\
-Subject: *Comparative genomics of bivalve sex-determination related genes*\
-Supervisor: *prof. Andrea Luchetti*
-* **M.Sc** in "Biodiversity and evolution", University of Bologna, 2021\
-Thesis: *Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*\
-Supervisor: *prof. Andrea Luchetti*
-* **B.Sc** in "Biological Sciences", University of Bologna, 2019\
-Thesis: *Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*\
-Supervisor: *prof. Barbara Mantovani*
+## 1. Education
+
+* **Ph.D** in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD)\
+**Thesis**: *Integrative perspectives on bivalve sex determination: A comparative and evolutionary analysis across phylogeny*\
+**Supervisor**: prof. Andrea Luchetti\
+*University of Bologna, Bologna (IT). Nov 2021 - Oct 2024*
+
+* **M.Sc** in "Biodiversity and evolution"\
+**Thesis**: *Identification of* Hox *and* ParaHox *genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)*\
+**Supervisor**: prof. Andrea Luchetti\
+*University of Bologna, Bologna (IT). Sep 2019 - Jul 2021*
+
+* **B.Sc** in "Biological Sciences"\
+**Thesis**: *Species delimitation and phylogenetic analysis of the Australian genus* Candovia *(Insecta, Phasmida)*\
+**Supervisor**: prof. Barbara Mantovani\
+*University of Bologna, Bologna (IT). Sep 2016 - Oct 2019*
 
 ## 2. Publications
 
@@ -55,14 +66,14 @@ Supervisor: *prof. Barbara Mantovani*
 
 *For a more detailed description of my outreach commitment, please have a look also at the [Outreach](/outreach/) section in this website.*
 
-* Editor and web writer, BioPills\
-  *Jul 2017 – ongoing*
+* **Editor and web writer**\
+  *BioPills. Jul 2017 – ongoing*
 
-* BiGeA Day 2023, University of Bologna\
-  *May 27, 2023*
+* **BiGeA Day 2023**\
+  *University of Bologna, Bologna (IT). May 27, 2023*
 
-* University of Bologna opening days\
-  *Nov 18, 2022*
+* **University of Bologna opening days**\
+  *University of Bologna, Bologna (IT). Nov 18, 2022*
 
 ## 4. Professional skills
 
@@ -145,41 +156,84 @@ Supervisor: *prof. Barbara Mantovani*
 
 ### 4.2. *Wet-lab*
 
-* *Metaphase-plate chromosome preparation*
-  * Experience with bivalves and ants
-* *Total DNA extraction*
-  * Experience with insects
-* *Polymerase Chain Reaction (PCR)*
-  * Experience with insect mitochondrial and nuclear markers
-* *Mediterranean mussel (*Mytilus galloprovincialis*) embryology*
-  * Spawning induction by thermal shock
-  * Gamete collection and concentration
-  * Sperm mitochondria staining with [MitoTracker](https://www.thermofisher.com/order/catalog/product/M7512)
-  * *In-vitro* fertilization of eggs
-  * Embryo rearing in flasks or multi-well plates
-  * Estimation of survival rates
-* *Hybridization Chain Reaction with RNA Fluorescence In-Situ Hybridization (HCR RNA-FISH)*
-  * Experience with whole-mount embryos of the Mediterranean mussel (*Mytilus galloprovincialis*)
-  * Probe design
-  * Multiplex experiments (up to four target genes), paired with DAPI and MitoTracker stainings
-  * Confocal imaging
-  * Experience with Leica DMi8 paired with Stellaris 5 systems
+<ul>
+  <li><b>Metaphase-plate chromosome preparation</b>
+  <details>
+    <summary><i><small>More</small></i></summary>
+    <ul>
+      <li>Experience with bivalves and ants</li>
+    </ul>
+  </details></li>
+
+  <li><b>Total DNA extraction</b>
+    <details>
+    <summary><i><small>More</small></i></summary>
+    <ul>
+      <li>Experience with insects</li>
+    </ul>
+  </details></li>
+
+  <li><b>Polymerase Chain Reaction (PCR)</b>
+    <details>
+    <summary><i><small>More</small></i></summary>
+    <ul>
+      <li>Experience with insect mitochondrial and nuclear markers</li>
+    </ul>
+  </details></li>
+
+  <li><b>Mediterranean mussel (<i>Mytilus galloprovincialis</i>) embryology</b>
+    <details>
+    <summary><i><small>More</small></i></summary>
+    <ul>
+      <li>Spawning induction by thermal shock</li>
+      <li>Gamete collection and concentration</li>
+      <li>Sperm mitochondria staining with <a href=https://www.thermofisher.com/order/catalog/product/M7512)>MitoTracker</a></li>
+      <li><i>In-vitro</i> fertilization of eggs</li>
+      <li>Embryo rearing in flasks or multi-well plates</li>
+      <li>Estimation of survival rates</li>
+    </ul>
+  </details></li>
+
+  <li><b>mRNA <i>in-situ</i> Hybridization Chain Reaction (mRNA <i>in-situ</i> HCR)</b>
+    <details>
+    <summary><i><small>More</small></i></summary>
+    <ul>
+      <li>Experience with whole-mount embryos of the Mediterranean mussel (<i>Mytilus galloprovincialis</i>)</li>
+      <li>Probe design</li>
+      <li>Multiplex experiments (up to four target genes), paired with DAPI and MitoTracker stainings</li>
+      <li>Confocal imaging (main experience with Leica DMi8 paired with Stellaris 5 systems)</li>
+    </ul>
+  </details></li>
+
+</ul>
 
 ### 4.3. *Others*
-* *Field scientific sampling*
-  * Experience with termites, ants, and freshwater crustaceans
-  * Experience with mussels and oysters
-  * Field sample storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)
-* *Scientific illustration* (see the [*Resources*](/resources/) section of this website)
+
+<ul>
+
+  <li><b>Field scientific sampling</b>
+    <details>
+    <summary><i><small>More</small></i></summary>
+    <ul>
+      <li>Experience with termites, ants, and freshwater crustaceans</li>
+      <li>Experience with mussels and oysters</li>
+      <li>Field sample storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)</li>
+    </ul>
+  </details></li>
+
+  <li><b>Scientific illustration</b><br>
+  <small><i>See the <a href=/resources/><b>Resources</b></a> section of this website</i></small></li>
+
+</ul>
 
 ## 5. Teaching experience
 
 * **Practical class "CAFE: estimating gene family turover across a phylogenetic tree"**\
-  *Master degree in Bioinformatics*\
-  *Apr 23, 2024*
+  Master degree in *Bioinformatics*\
+  *University of Bologna, Bologna (IT). Apr 23, 2024*
 * **Practical invertebrate zoology class**\
-  *Bachelor degree in Biological Sciences*\
-  *Sep 2022 – Jan 2023*
+  Bachelor degree in *Biological Sciences*\
+  *University of Bologna, Bologna (IT). Sep 2022 – Jan 2023*
 
 ## 6. Oral presentations at congresses
 
@@ -187,8 +241,7 @@ Supervisor: *prof. Barbara Mantovani*
 
 * <ins>Nicolini F</ins>, Iannello M, Piccinini G, Ghiselli F, Luchetti A, Milani L. (2024). **Advancing the study of
 bivalve sex determination in the light of comparative genomics**. *Establishing state-of-the-art mollusc genomics
-(EMBO workshop)*. Namur (Belgium). May 27 – 30, 2024.
-4
+(EMBO workshop)*. Namur (BE). May 27 – 30, 2024.
 
 * <ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). **Contrasting patterns of amino acid evolution
 and shared ancestry between putative sex-determining genes in bivalve molluscs**. *EVOLMAR 2023*. Online. Nov 14 – 17, 2023.
@@ -209,7 +262,7 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
   *Online. Sep 25 – 28, 2023*
 
 * **ITA\*PHY phylogenetics workshop**.\
-  *Trento, Italy. Jun 6 – 9, 2023*
+  *Trento (IT). Jun 6 – 9, 2023*
 
 * **Sex chromosome evolution**.\
   Physalia Courses.\
@@ -225,17 +278,17 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 
 * **Nature illustration**.\
   Associazione ARDEA.\
-  *Online. Feb 6 - Mar 20, 2021*
+  *Online. Feb 6 – Mar 20, 2021*
 
 * **Advanced Open Water Diver (PADI Education)**.\
   Scientific Diving School (SDS).\
-  *Bologna, Italy. Oct 18, 2020*
+  *Bologna (IT). Oct 18, 2020*
 
 ## 8. Awards and scholarships
 
 * **Travel grant to attend the EMBO workshop "Establishing state-of-the-art mollusc genomics" in Namur (Belgium).**\
   EMBO.\
-  *May 28 - 31, 2024*
+  *May 28 – 31, 2024*
 * **Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.**\
   Editing Press.\
   *Apr 13, 2023*
@@ -243,12 +296,10 @@ and shared ancestry between putative sex-determining genes in bivalve molluscs**
 ## 9. Visiting scholar
 
 * **Nuzhdin's Lab**.\
-University of Southern California. Los Angeles, California, USA.\
-*Aug 20, 2023 – Feb 20, 2024*
+*University of Southern California, Los Angeles (CA, USA). Aug 2023 – Feb 2024*
 
 * **Pasantes' Lab**.\
-University of Vigo. Vigo, Spain.\
-*Jan 12 – 22, 2023*
+*University of Vigo, Vigo (ES). Jan 12 – 22, 2023*
 
 
 ## 10. Society memberships
