@@ -16,11 +16,11 @@ summary {
 summary::before {
   margin-left: 1ch;
   display: inline-block;
-  content: '+&nbsp;';
+  content: '+';
   transition: 0.2s;
 }
 
-details[open] > summary::before {
+details[open] > summary::after {
   transform: rotate(45deg);
 }
 </style>
@@ -82,7 +82,7 @@ details[open] > summary::before {
 <ul>
   <li><b>Programming and markup languages</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <small>(beginner ▯▯▯▯▯ advantaced)</small>
     <ul>
       <li><code>bash</code><br />
@@ -100,7 +100,7 @@ details[open] > summary::before {
 
   <li><b>Phylogenetics</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>ML phylogenetic analysis (<a href="https://github.com/iqtree/iqtree2" target="_blank"><code>IQTREE</code></a>, <a href="https://github.com/amkozlov/raxml-ng" target="_blank"><code>RAxML-NG</code></a>, <a href="http://www.microbesonline.org/fasttree/" target="_blank"><code>FastTree</code></a>)</li>
       <li>Bayesian phylogenetic analysis (<a href="https://nbisweden.github.io/MrBayes/" target="_blank"><code>MrBayes</code></a>, <a href="http://www.atgc-montpellier.fr/phylobayes/" target="_blank"><code>PhyloBayes</code></a>)</li>
@@ -112,7 +112,7 @@ details[open] > summary::before {
 
   <li><b>Comparative genomics</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Orthology inference (<a href="https://github.com/davidemms/OrthoFinder" target="_blank"><code>OrthoFinder</code></a>, <a href="https://github.com/xgrau/possvm-orthology" target="_blank"><code>Possvm</code></a>, <a href="https://github.com/hillerlab/TOGA" target="_blank"><code>TOGA</code></a>)</li>
       <li>Gene annotation (<a href="https://github.com/ncbi/blast_plus_docs" target="_blank"><code>BLAST</code></a>, <a href="https://github.com/bbuchfink/diamond" target="_blank"><code>DIAMOND</code></a>, <a href="https://github.com/EddyRivasLab/hmmer" target="_blank"><code>HMMER</code></a>, <a href="https://github.com/ebi-pf-team/interproscan" target="_blank"><code>InterProScan</code></a>, <a href="https://github.com/UCSC-LoweLab/tRNAscan-SE" target="_blank"><code>tRNAscan-SE</code></a>)</li>
@@ -127,7 +127,7 @@ details[open] > summary::before {
 
   <li><b>Mitogenomics</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Mitogenome assembly and annotation (<a href="https://github.com/marcelauliano/MitoHiFi" target="_blank"><code>MitoHiFi</code></a>, <a href="https://github.com/RemiAllio/MitoFinder" target="_blank"><code>MitoFinder</code></a>, <a href="https://github.com/RemiAllio/MitoFinder" target="_blank"><code>mitoRNA</code></a>)</li>
     </ul>
@@ -135,7 +135,7 @@ details[open] > summary::before {
 
   <li><b>Read manipulation</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Raw reads quality check (<a href="https://github.com/trinityrnaseq/trinityrnaseq/wiki" target="_blank"><code>FastQC</code></a>, <a href="https://multiqc.info/" target="_blank"><code>MultiQC</code></a>)</li>
       <li>Read trimming (<a href="https://github.com/usadellab/Trimmomatic" target="_blank"><code>trimmomatic</code></a>)</li>
@@ -145,7 +145,7 @@ details[open] > summary::before {
 
   <li><b>Transcriptomics</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
     <li>De-novo transcriptome assembly (<a href="https://github.com/trinityrnaseq/trinityrnaseq/wiki" target="_blank"><code>Trinity</code></a>)</li>
     <li>Gene differential expression (<a href="https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html" target="_blank"><code>NOISeq</code></a>, <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html" target="_blank"><code>DESeq2</code></a>, <a href="https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html" target="_blank"><code>maSigPro</code></a>, <a href="https://bioconductor.org/packages/release/bioc/html/topGO.html" target="_blank"><code>topGO</code></a>)</li>
@@ -159,7 +159,7 @@ details[open] > summary::before {
 <ul>
   <li><b>Metaphase-plate chromosome preparation</b>
   <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Experience with bivalves and ants</li>
     </ul>
@@ -167,7 +167,7 @@ details[open] > summary::before {
 
   <li><b>Total DNA extraction</b>
     <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Experience with insects</li>
     </ul>
@@ -175,7 +175,7 @@ details[open] > summary::before {
 
   <li><b>Polymerase Chain Reaction (PCR)</b>
     <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Experience with insect mitochondrial and nuclear markers</li>
     </ul>
@@ -183,7 +183,7 @@ details[open] > summary::before {
 
   <li><b>Mediterranean mussel (<i>Mytilus galloprovincialis</i>) embryology</b>
     <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Spawning induction by thermal shock</li>
       <li>Gamete collection and concentration</li>
@@ -196,7 +196,7 @@ details[open] > summary::before {
 
   <li><b>mRNA <i>in-situ</i> Hybridization Chain Reaction (mRNA <i>in-situ</i> HCR)</b>
     <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Experience with whole-mount embryos of the Mediterranean mussel (<i>Mytilus galloprovincialis</i>)</li>
       <li>Probe design</li>
@@ -213,7 +213,7 @@ details[open] > summary::before {
 
   <li><b>Field scientific sampling</b>
     <details>
-    <summary><i><small>More</small></i></summary>
+    <summary><i><small> More</small></i></summary>
     <ul>
       <li>Experience with termites, ants, and freshwater crustaceans</li>
       <li>Experience with mussels and oysters</li>
