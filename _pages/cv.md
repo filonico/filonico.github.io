@@ -16,7 +16,7 @@ summary {
 summary::before {
   margin-left: 1ch;
   display: inline-block;
-  content: '> ';
+  content: '+ ';
   transition: 0.2s;
 }
 
