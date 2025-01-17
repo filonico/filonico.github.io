@@ -13,14 +13,9 @@ title                  : filonico's webpage
 email                  : fn76@le.ac.uk
 description            : >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Filippo Nicolini, a Research Associate in evolutionary genomics at the University of Leicester (UK).
-bluesky                : filonico.bsky.social # Replace this with you Bluesky username
-github_username        : filonico
-twitter_username       : filo_nicoo
-
 
 atom_feed: 
   hide: true
-
 
 # Site Author
 author:
@@ -33,6 +28,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=p1HArXIAAAAJ"
   twitter          : "filo_nicoo"
   uri              : "https://linktr.ee/filo.nico"
+  bluesky          : "filonico.bsky.social"
 
   orcid            :
   employer         :
