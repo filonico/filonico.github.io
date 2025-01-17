@@ -3,7 +3,8 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
 # Site Settings
 locale                 : "en-US"
@@ -14,6 +15,8 @@ description            : >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Filippo Nicolini, a Research Associate in evolutionary genomics at the University of Leicester (UK).
 twitter_username       : filo_nicoo
 github_username        : filonico
+bluesky                : "filonico.bsky.social" # Replace this with you Bluesky username
+
 
 atom_feed: 
   hide: true
@@ -23,7 +26,7 @@ atom_feed:
 author:
   name             : "Filippo Nicolini"
   avatar           : "propic2.jpg"
-  bio              : "Reasearch Associatre dealing (struggling) with invertebrate evolutionary genomics 🧬🦗🦪🧽🧬"
+  bio              : "Reasearch Associate dealing (struggling) with invertebrate evolutionary genomics 🧬🦗🦪🧽🧬"
   location         : "University of Leicester (UK)"
   email            : "fn76@le.ac.uk"
   github           : "filonico"
@@ -69,23 +72,26 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
   - gulpfile.js
+  - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -115,7 +121,23 @@ kramdown:
   enable_coderay: false
 
 
-# Defaults
+# These settings control the types of collections used by the template
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# These settings control how pages and collections are included in the site
 defaults:
   # _pages
   - scope:
@@ -124,6 +146,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
 
 
 # Sass/SCSS
@@ -136,22 +160,25 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 
