@@ -80,9 +80,9 @@ details[open] > summary::before {
   <li><b>Programming and markup languages</b>
     <details>
       <summary><i><small> More</small></i></summary>
-      <small>(beginner ▯▯▯▯▯ advanced)</small>
+      <small>(beginner <i class="fa-light fa-star" style="color: #494E52;"></i><i class="fa-light fa-star" style="color: #494E52;"></i><i class="fa-light fa-star" style="color: #494E52;"></i><i class="fa-light fa-star" style="color: #494E52;"></i><i class="fa-light fa-star" style="color: #494E52;"></i> advanced)</small>
       <ul>
-        <li><code>bash</code><br /> ▮▮▮▮▯</li>
+        <li><code>bash</code><br /> <i class="fa-solid fa-star" style="color: #494E52;"></i>▮▮▮▮▯</li>
         <li><code>R</code><br /> ▮▮▮▯▯</li>
         <li><code>python</code><br /> ▮▮▯▯▯</li>
         <li>LaTeX<br /> ▮▮▯▯▯</li>
