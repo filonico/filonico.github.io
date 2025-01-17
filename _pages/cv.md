@@ -81,7 +81,7 @@ details[open] > summary::before {
     <details>
       <summary><i><small> More</small></i></summary>
       <small>(beginner <i class="fa-regular fa-star" style="color: #494E52;"></i>
-      <i class="fa-light fa-star" style="color: #494E52;"></i><i class="fa-regular fa-star" style="color: #494E52;"></i>
+      <i class="fa-regular fa-star"><i class="fa-regular fa-square" style="color: #494E52;"></i>
       <i class="fa-light fa-star" style="color: #494E52;"></i>
       <i class="fa-light fa-star" style="color: #494E52;"></i> 
       advanced)</small>
