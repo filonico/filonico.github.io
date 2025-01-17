@@ -10,7 +10,7 @@
 locale                 : "en-US"
 title                  : filonico's webpage
 # logo                 : "/images/logo.png"
-email                  : fn76@le.ac.uk
+email                  : fn76[at]le.ac.uk
 description            : >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Filippo Nicolini, a Research Associate in evolutionary genomics at the University of Leicester (UK).
 
@@ -23,7 +23,7 @@ author:
   avatar           : "propic2.jpg"
   bio              : "Reasearch Associate dealing (struggling) with invertebrate evolutionary genomics 🧬🦗🦪🧽🧬"
   location         : "University of Leicester (UK)"
-  email            : "fn76@le.ac.uk"
+  email            : "fn76[at]le.ac.uk"
   github           : "filonico"
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=p1HArXIAAAAJ"
   twitter          : "filo_nicoo"
