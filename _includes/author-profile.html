@@ -31,19 +31,19 @@
       <li><i class="fas fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
       {% endif %}
       {% if author.bluesky %}
-      <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fa-brands fa-bluesky" aria-hidden="true" style="color: #1E3050"></i> Bluesky</a></li>
+      <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fa-brands fa-bluesky" aria-hidden="true" style="color: #494E52"></i> Bluesky</a></li>
       {% endif %}
       {% if author.twitter %}
       <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i> X (formerly Twitter)</a></li>
       {% endif %}
       {% if author.github %}
-      <li><i class="fab fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ author.github }}">Github</a></li>
+      <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.googlescholar %}
-      <li><i class="fas fa-graduation-cap"></i> <a href="{{ author.googlescholar }}">Google Scholar</a></li>
+      <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.uri %}
-      <li><i class="fas fa-fw fa-link" aria-hidden="true"></i> <a href="{{ author.uri }}">LinkTree</a></li>
+      <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> LinkTree</a></li>
       {% endif %}
 
 
