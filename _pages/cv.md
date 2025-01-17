@@ -16,12 +16,12 @@ summary {
 summary::before {
   margin-left: 1ch;
   display: inline-block;
-  content: '+ ';
+  content: '+&nbsp;';
   transition: 0.2s;
 }
 
 details[open] > summary::before {
-  transform: rotate(90deg);
+  transform: rotate(45deg);
 }
 </style>
 
