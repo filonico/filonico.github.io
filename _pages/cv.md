@@ -27,7 +27,7 @@ details[open] > summary::before {
 
 <p><em>Last updated: Dec 2, 2024</em></p>
 
-<p><em>Find the extended version of my CV in this <strong><a href="https://drive.google.com/file/d/1AtVbptyhfBHzxN-v-K8bItVa-xgiDXxv/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
+<p><em>Find the extended version of my CV in this <strong><a href="https://drive.google.com/file/d/1-jYb_-2BqGd1HjlzHD3N7zwjTU17Qe5R/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
 
 <h2>1. Professional experience</h2>
 <p><strong>Research Associate</strong><br>
