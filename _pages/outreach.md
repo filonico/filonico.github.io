@@ -23,7 +23,7 @@ details[open] > summary::before {
 }
 </style>
 
-*Last updated: Nov 22, 2024*
+*Last updated: Apr 24, 2025*
 
 <div style="text-align: justify">
 
@@ -42,7 +42,7 @@ Unfortunatly, the website is currently only in Italian, but if you are intereste
 </div>
 
 <p align="center"><a href="https://www.biopills.net/">
-  <img src="images/biopillsGreen_NEW.png" alt="biopills logo" height="200">
+  <img src="/images/biopillsGreen_NEW.png" alt="biopills logo" height="200">
 </a></p>
 
 ## 1. Web articles
