@@ -19,7 +19,7 @@ summary::before {
 }
 
 details[open] > summary::before {
-  transform: rotate(90deg);
+  transform: rotate(45deg);
 }
 </style>
 
