@@ -41,7 +41,7 @@ Unfortunatly, the website is currently only in Italian, but if you are intereste
 
 </div>
 
-[![biopills](/images/biopills_resized.jpg)](https://www.biopills.net/)
+[![biopills](/images/biopillsGreen_NEW.png)](https://www.biopills.net/)
 
 ## 1. Web articles
 One of the main activity I've been carrying out with BioPills is the **writing and publication** of outreach articles on our website. Over the years, I dealt with many subjects, ranging from zoology to ecology, and from book reviews to interviews. You can find all the articles I published by visiting my **[account page on BioPills](https://www.biopills.net/author/filippo-nicolini/)**.
@@ -125,4 +125,4 @@ Every now and then I also partecipate in side activities which involve the colla
 
 For example, following SMBE 2023 in Ferrara, Italy, I established a **collaboration with "[In the Light of Evolution](https://lightofevolution.org/en/)"** (LoE), a scientific outreach project by the Swiss Bionformatic Institute, the Swiss National Science Foundation, and the University of Lausanne. Specifically, the objective was to translate the LoE website into Italian (take a look at the "[Banana split story](https://lightofevolution.org/en/banana-split/)") and hopefully to jointly organize outreach activities.
 
-Also, for over 2 years BioPills has provided articles to the "**Giornale dei Biologi**" on a monthly basis. I took care of reviewing articles dealing with zoology, ecology and related articles, and I also wrote my own piece: "[Abbiamo ancora bisogno di parlare di fossili viventi?](https://issuu.com/onbpress/docs/febbraio_2024?ff&experiment=previewReaderTestMode,new-bff-dynamic)" (which may translate in something like "Is there any use in discussing the living fossil concept?").
+Also, for over 2 years, BioPills has provided articles to the "**Giornale dei Biologi**" on a monthly basis. I took care of reviewing articles dealing with zoology, ecology and related articles, and I also wrote my own piece: "[Abbiamo ancora bisogno di parlare di fossili viventi?](https://issuu.com/onbpress/docs/febbraio_2024?ff&experiment=previewReaderTestMode,new-bff-dynamic)" (which may translate in something like "Is there any use in discussing the living fossil concept?").
