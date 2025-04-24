@@ -41,7 +41,9 @@ Unfortunatly, the website is currently only in Italian, but if you are intereste
 
 </div>
 
-[![biopills](/images/biopillsGreen_NEW.png)](https://www.biopills.net/)
+<p align="center"><a href="https://www.biopills.net/">
+  <img src="images/biopillsGreen_NEW.png" alt="biopills logo" height="200">
+</a></p>
 
 ## 1. Web articles
 One of the main activity I've been carrying out with BioPills is the **writing and publication** of outreach articles on our website. Over the years, I dealt with many subjects, ranging from zoology to ecology, and from book reviews to interviews. You can find all the articles I published by visiting my **[account page on BioPills](https://www.biopills.net/author/filippo-nicolini/)**.
