@@ -93,7 +93,7 @@ details[open] > summary::before {
   <br><br>
 
   <details>
-    <summary><i><small> See the list of webinars I moderated</i></small></summary>
+    <summary><small><i> See the list of webinars I moderated</i></small></summary>
 
     <ul>
       <li><a href="https://www.youtube.com/watch?v=ILDBb7rckj8&list=PLUMnZXJ4kUWiKl263McC9XGJJbFHz1ARe&index=17&t=4091s&pp=iAQB" target="_blank"><b>Organismi marini biofiltratori: dall'ecologia agli studi sul campo</b></a>.<br><i>2023. Speaker: Martina Capriotti</i></li>
