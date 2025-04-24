@@ -21,21 +21,23 @@ redirect_from:
   <br />
   <br />
   
-  My main scientific interest regards evolutionary zoology and, within my PhD, I would really love to improve my ability to study the reciprocal interplay between the <b>evolution of genomes</b> and the <b>evolution of complex traits</b> in order to understand how the two processes influence each other.
+  My main scientific interest regards evolutionary zoology, with particular attention to <b>evolutionary genomics</b>, <b>evo-devo</b>, and the molecular basis of phenotypic diversity.
+  
+  During my PhD, I mainly focused on <b>comparative genomics of bivalves</b> and of genes involved in <b>sex determination</b>. The rationale was to understand the patterns of molecular evolution and genome dynamics of sex-determination related genes, along with their transcription and expression localization in the early embryogenesis of the Mediterranean mussel. I also got to deal with crustacean comparative genomics, particularly within the class Branchiopoda, to understand how the variation in genome sizes affected the overall genome structure and the evolution of life-history traits.
   
   <br />
   <br />
   
-  My current postdoc revolves around a project focused on the <b>evolution of vision in early metazoans</b>, leveraging both bioinformatics and wet-lab. My PhD was instead mainly focused on <b>bivalve comparative genomics</b> with a particular interest for genes involved in <b>sex determination</b>, in the attempt to understand their patterns of molecular evolution and genome dynamics, as well as their transcription and/or expression during early developmental stages.
-  
-  <br />
-  <br />
-  
-  I am also engaged in other research lines, consisting on comparative genomics analyses in <b>branchiopod crustaceans</b> and <b>walking sticks</b> to unravel the genomic bases of <b>morphological stasis</b> and <b>re-evolution of wings</b>, respectively.
+  My current postdoc position revolves around the <b>evolution of vision in early metazoans</b>, leveraging both bioinformatics and wet-lab. Specifically, I am leveraging cutting edge single-cell transcriptomics to understand how cell types had evolved during the early phases of animal evolution.
   
   <br />
   <br />
 
+  Alongside my academic work, I am also deeply commited to science outreach. <b>I firmly believe that doing good science also means communicating it effectively</b>. Engaging with broader audiences helps make science more accessible and understandable, not just for the general public, but also for scientists themeselves. Clear science communication shapes the way people see the surrounding world, as well as the way we academics understand our own research.
+
+  <br />
+  <br />
+  
   Enjoy my page and feel free to get in touch!!
 
   <br />
