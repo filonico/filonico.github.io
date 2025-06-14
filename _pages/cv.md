@@ -37,7 +37,7 @@ details[open] > summary::before {
   <li><a href="#outreach">Outreach activity</a></li>
   <li><a href="#professional-skills">Professional skills</a></li>
   <li><a href="#teaching">Teaching experience</a></li>
-  <li><a href="#oral">Oral presentations at congresses</a></li>
+  <li><a href="#oral-presentations">Oral presentations at congresses</a></li>
   <li><a href="#courses">Courses and workshops</a></li>
   <li><a href="#awards">Awards and scholarships</a></li>
   <li><a href="#visiting">Visiting scholar</a></li>
@@ -46,7 +46,7 @@ details[open] > summary::before {
 
 
 <h2 id="professional-experience">Professional experience</h2>
-<hr>
+<hr size=5>
 <p><strong>Research Associate</strong><br>
 <strong>Subject</strong>: <em>Evolution of vision in early metazoans.</em><br>
 <strong>Supervisor</strong>: <em>prof. Roberto Feuda</em><br>
@@ -54,7 +54,7 @@ details[open] > summary::before {
 
 
 <h2 id="education">Education</h2>
-<hr>
+<hr size=4>
 
 <p><strong>Ph.D</strong> in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD)<br>
 <strong>Thesis</strong>: <em>Integrative perspectives on bivalve sex determination: A comparative and evolutionary analysis across phylogeny</em><br>
@@ -73,7 +73,7 @@ details[open] > summary::before {
 
 
 <h2 id="publications">Publications</h2>
-<hr>
+<hr size=3>
 
 <p><ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></p>
 
