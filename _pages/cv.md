@@ -25,11 +25,18 @@ details[open] > summary::before {
 }
 </style>
 
-<p><em>Last updated: Dec 2, 2024</em></p>
+<p><em>Last updated: Jun 14, 2025</em></p>
 
-<p><em>Find the extended version of my CV in this <strong><a href="https://drive.google.com/file/d/1-jYb_-2BqGd1HjlzHD3N7zwjTU17Qe5R/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
+<p><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1-jYb_-2BqGd1HjlzHD3N7zwjTU17Qe5R/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
 
-<h2>1. Professional experience</h2>
+<h2>Outlook</h2>
+<ol>
+  <li><a href="#professional-experience">Professional experience</a></li>
+</ol>
+
+
+<h2 id="professional-experience">Professional experience</h2>
+<hr>
 <p><strong>Research Associate</strong><br>
 <strong>Subject</strong>: <em>Evolution of vision in early metazoans.</em><br>
 <strong>Supervisor</strong>: <em>prof. Roberto Feuda</em><br>
