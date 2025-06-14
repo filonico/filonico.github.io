@@ -30,9 +30,18 @@ details[open] > summary::before {
 <p><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1-jYb_-2BqGd1HjlzHD3N7zwjTU17Qe5R/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
 
 <h2>Outlook</h2>
-<ol>
+<ul>
   <li><a href="#professional-experience">Professional experience</a></li>
-</ol>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#outreach">Outreach activity</a></li>
+  <li><a href="#professional-skills">Professional skills</a></li>
+  <li><a href="#teaching">Teaching experience</a></li>
+  <li><a href="#oral">Oral presentations at congresses</a></li>
+  <li><a href="#courses">Courses and workshops</a></li>
+  <li><a href="#awards">Awards and scholarships</a></li>
+  <li><a href="#memberships">Society memberships</a></li>
+</ul>
 
 
 <h2 id="professional-experience">Professional experience</h2>
@@ -42,7 +51,9 @@ details[open] > summary::before {
 <strong>Supervisor</strong>: <em>prof. Roberto Feuda</em><br>
 <strong>University of Leicester, Leicester (UK). Nov 2024 - ongoing</strong></p>
 
-<h2>2. Education</h2>
+
+<h2 id="#education">Education</h2>
+<hr>
 
 <p><strong>Ph.D</strong> in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD)<br>
 <strong>Thesis</strong>: <em>Integrative perspectives on bivalve sex determination: A comparative and evolutionary analysis across phylogeny</em><br>
@@ -59,7 +70,9 @@ details[open] > summary::before {
 <strong>Supervisor</strong>: prof. Barbara Mantovani<br>
 <strong>University of Bologna, Bologna (IT). Sep 2016 - Oct 2019</strong></p>
 
-<h2>3. Publications</h2>
+
+<h2 id="#publications">Publications</h2>
+<hr>
 
 <p><ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></p>
 
@@ -69,7 +82,9 @@ details[open] > summary::before {
 
 <p>Forni G, Cussigh A, Brock PD, Jones BR, <ins>Nicolini F</ins>, Martelossi J, ... & Mantovani B. (2023). <strong>Taxonomic revision of the Australian stick insect genus Candovia (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches</strong>. <em>Zoological Journal of the Linnean Society</em>, <em>197</em>(1), 189-210. doi: <a href="https://doi.org/10.1093/zoolinnean/zlac074" target="_blank">10.1093/zoolinnean/zlac074</a></p>
 
-<h2>4. Outreach activity</h2>
+
+<h2 id="#outreach">Outreach activity</h2>
+<hr>
 
 <p><em>For a more detailed description of my outreach commitment, please have a look also at the <a href="/outreach/">Outreach</a> section in this website.</em></p>
 
@@ -79,9 +94,10 @@ details[open] > summary::before {
   <li><strong>University of Bologna opening days</strong><br>University of Bologna, Bologna (IT). Nov 18, 2022</li>
 </ul>
 
-<h2>5. Professional skills</h2>
+<h2 id="#professional-skills">Professional skills</h2>
+<hr>
 
-<h3>5.1. Bioinformatics</h3>
+<h3>Bioinformatics</h3>
 
 <ul>
   <li><b>Programming and markup languages</b>
@@ -159,7 +175,7 @@ details[open] > summary::before {
 
 </ul>
 
-<h3>5.2. <i>Wet-lab</i></h3>
+<h3><i>Wet-lab</i></h3>
 
 <ul>
   <li><b>Metaphase-plate chromosome preparation</b>
@@ -217,7 +233,7 @@ details[open] > summary::before {
 
 </ul>
 
-<h3>5.3. Others</h3>
+<h3>Others</h3>
 
 <ul>
   <li><b>Field scientific sampling</b>
@@ -234,10 +250,11 @@ details[open] > summary::before {
   <li><b>Scientific illustration</b><br>
     <small><i>See the <a href="/resources/"><b>Resources</b></a> section of this website</i></small>
   </li>
-
 </ul>
 
-<h2>6. Teaching experience</h2>
+
+<h2 id="#teaching">Teaching experience</h2>
+<hr>
 
 <ul>
   <li><b>Practical class "CAFE: estimating gene family turnover across a phylogenetic tree"</b><br />
@@ -248,7 +265,9 @@ details[open] > summary::before {
     <i>University of Bologna, Bologna (IT). Sep 2022 – Jan 2023</i></li>
 </ul>
 
-<h2>7. Oral presentations at congresses</h2>
+
+<h2 id="#oral-presentations">Oral presentations at congresses</h2>
+<hr>
 
 <p><i>For a report of poster presentations, please have a look also at the <a href="/resources/"><b>Resources</b></a> section of this website.</i></p>
 
@@ -258,7 +277,9 @@ details[open] > summary::before {
   <li><ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). <b>Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution</b>. <i>Evolution 2023</i> (<i>Ernst Mayr Award symposium</i>). Online. Jun 2 – 3, 2023.</li>
 </ul>
 
-<h2>8. Courses and workshops</h2>
+
+<h2 id="#courses">Courses and workshops</h2>
+<hr>
 
 <ul>
   <li><b>Establishing state-of-the-art mollusc genomics</b><br />
@@ -297,7 +318,9 @@ details[open] > summary::before {
     <i>Bologna (IT). Oct 18, 2020</i></li>
 </ul>
 
-<h2>9. Awards and scholarships</h2>
+
+<h2 id="#awards">Awards and scholarships</h2>
+<hr>
 
 <ul>
   <li><b>Travel grant to attend the EMBO workshop "Establishing state-of-the-art mollusc genomics" in Namur (Belgium).</b><br />
@@ -309,7 +332,9 @@ details[open] > summary::before {
     <i>Apr 13, 2023</i></li>
 </ul>
 
-<h2>10. Visiting scholar</h2>
+
+<h2 id="#visitin">Visiting scholar</h2>
+<hr>
 
 <ul>
   <li><b>Nuzhdin's Lab</b><br />
@@ -319,7 +344,9 @@ details[open] > summary::before {
     <i>University of Vigo, Vigo (ES). Jan 12 – 22, 2023</i></li>
 </ul>
 
-<h2>11. Society memberships</h2>
+
+<h2 id="#memberships">Society memberships</h2>
+<hr>
 
 <ul>
   <li><b>Italian Society for Evolutionary Biology</b> (SIBE/ISEB)<br />
