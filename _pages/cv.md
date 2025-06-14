@@ -40,6 +40,7 @@ details[open] > summary::before {
   <li><a href="#oral">Oral presentations at congresses</a></li>
   <li><a href="#courses">Courses and workshops</a></li>
   <li><a href="#awards">Awards and scholarships</a></li>
+  <li><a href="#visiting">Visiting scholar</a></li>
   <li><a href="#memberships">Society memberships</a></li>
 </ul>
 
@@ -52,7 +53,7 @@ details[open] > summary::before {
 <strong>University of Leicester, Leicester (UK). Nov 2024 - ongoing</strong></p>
 
 
-<h2 id="#education">Education</h2>
+<h2 id="education">Education</h2>
 <hr>
 
 <p><strong>Ph.D</strong> in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD)<br>
@@ -71,7 +72,7 @@ details[open] > summary::before {
 <strong>University of Bologna, Bologna (IT). Sep 2016 - Oct 2019</strong></p>
 
 
-<h2 id="#publications">Publications</h2>
+<h2 id="publications">Publications</h2>
 <hr>
 
 <p><ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></p>
@@ -83,7 +84,7 @@ details[open] > summary::before {
 <p>Forni G, Cussigh A, Brock PD, Jones BR, <ins>Nicolini F</ins>, Martelossi J, ... & Mantovani B. (2023). <strong>Taxonomic revision of the Australian stick insect genus Candovia (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches</strong>. <em>Zoological Journal of the Linnean Society</em>, <em>197</em>(1), 189-210. doi: <a href="https://doi.org/10.1093/zoolinnean/zlac074" target="_blank">10.1093/zoolinnean/zlac074</a></p>
 
 
-<h2 id="#outreach">Outreach activity</h2>
+<h2 id="outreach">Outreach activity</h2>
 <hr>
 
 <p><em>For a more detailed description of my outreach commitment, please have a look also at the <a href="/outreach/">Outreach</a> section in this website.</em></p>
@@ -94,7 +95,7 @@ details[open] > summary::before {
   <li><strong>University of Bologna opening days</strong><br>University of Bologna, Bologna (IT). Nov 18, 2022</li>
 </ul>
 
-<h2 id="#professional-skills">Professional skills</h2>
+<h2 id="professional-skills">Professional skills</h2>
 <hr>
 
 <h3>Bioinformatics</h3>
@@ -253,7 +254,7 @@ details[open] > summary::before {
 </ul>
 
 
-<h2 id="#teaching">Teaching experience</h2>
+<h2 id="teaching">Teaching experience</h2>
 <hr>
 
 <ul>
@@ -266,7 +267,7 @@ details[open] > summary::before {
 </ul>
 
 
-<h2 id="#oral-presentations">Oral presentations at congresses</h2>
+<h2 id="oral-presentations">Oral presentations at congresses</h2>
 <hr>
 
 <p><i>For a report of poster presentations, please have a look also at the <a href="/resources/"><b>Resources</b></a> section of this website.</i></p>
@@ -278,7 +279,7 @@ details[open] > summary::before {
 </ul>
 
 
-<h2 id="#courses">Courses and workshops</h2>
+<h2 id="courses">Courses and workshops</h2>
 <hr>
 
 <ul>
@@ -319,7 +320,7 @@ details[open] > summary::before {
 </ul>
 
 
-<h2 id="#awards">Awards and scholarships</h2>
+<h2 id="awards">Awards and scholarships</h2>
 <hr>
 
 <ul>
@@ -333,7 +334,7 @@ details[open] > summary::before {
 </ul>
 
 
-<h2 id="#visitin">Visiting scholar</h2>
+<h2 id="visiting">Visiting scholar</h2>
 <hr>
 
 <ul>
@@ -345,7 +346,7 @@ details[open] > summary::before {
 </ul>
 
 
-<h2 id="#memberships">Society memberships</h2>
+<h2 id="memberships">Society memberships</h2>
 <hr>
 
 <ul>
