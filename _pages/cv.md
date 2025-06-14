@@ -26,7 +26,7 @@ details[open] > summary::before {
 
 hr {
   border: none;
-  height: 3px;
+  height: 2px;
   /* Set the hr color */
   color: #b9babd;  /* old IE */
   background-color: #b9babd;  /* Modern Browsers */
