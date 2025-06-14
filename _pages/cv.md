@@ -28,8 +28,8 @@ hr {
   border: none;
   height: 3px;
   /* Set the hr color */
-  color: #333;  /* old IE */
-  background-color: #333;  /* Modern Browsers */
+  color: #b9babd;  /* old IE */
+  background-color: #b9babd;  /* Modern Browsers */
 }
 </style>
 
