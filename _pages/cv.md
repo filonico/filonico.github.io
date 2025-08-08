@@ -35,7 +35,7 @@ hr {
 
 <p><em>Last updated: Jun 14, 2025</em></p>
 
-<p><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1-jYb_-2BqGd1HjlzHD3N7zwjTU17Qe5R/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
+<p><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
 
 <h2>Outlook</h2>
 <ul>
