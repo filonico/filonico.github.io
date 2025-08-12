@@ -23,15 +23,22 @@ details[open] > summary::before {
 }
 </style>
 
-*Last updated: Apr 24, 2025*
+*Last updated: Aug 12, 2025*
+
+<div style="text-align: justify">
+While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is <b>reaching out to people</b> and talk about evolution and biology. The expression on someone's face when they are truly enjoying (and understanding) science is priceless, and never fails to move me.
+
+<br><br>
+
+To me, science communication and outreach are ways to bring research closer to society, making it accessible, understandable and, above all, a tool that everyone can use. Giving people the ability to navigate the vast ocean of knowledge that is produced every day, is something that we, as scientists, need to integrate into our work. After all, <b>what is the purpose of research if it stays locked away in our labs, and can't be used by everyone?</b>
+</div>
+
+<h2 id="biopills">BioPills</h2>
+<hr>
 
 <div style="text-align: justify">
 
-  While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is <b>reaching out to people</b> and talk about evolution and biology. The expression people have when they are enjoying science is definetely priceless!
-        
-  <br><br>
-
-  That is the reason why in 2017 I engaged with <b><a href="https://www.biopills.net/" target="_blank">BioPills</a></b>, an Italian science-communication project that wants to communicate the beauty of life sciences in an effective mannner but without forgetting factual accuracy. At the moment, I am the chief editor of the "Environment and Nature" section of the website. I am also in charge of organizing hikings in different Italian natural settings, in order to let people escape from the urban routine while directly immersing themselves in field-based learning of biology.
+  All this said, in 2017 I engaged with <b><a href="https://www.biopills.net/" target="_blank">BioPills</a></b>, an Italian science-communication project that wants to communicate the beauty of life sciences in an effective mannner but without forgetting factual accuracy. At the moment, I am the chief editor of the "Environment and Nature" section of the website. I am also in charge of organizing hikings in different Italian natural settings, in order to let people escape from the urban routine while directly immersing themselves in field-based learning of biology.
         
   <br><br>
 
@@ -39,11 +46,11 @@ details[open] > summary::before {
 
 </div>
 
-<p align="center"><a href="https://www.biopills.net/">
+<p align="center"><a href="https://www.biopills.net/" target="_blank">
   <img src="/images/biopillsGreen_NEW.png" alt="biopills logo" width="500">
 </a></p>
 
-## 1. Web articles
+<h3 id="web-articles">Web articles</h3>
 <div style="text-align: justify">
   One of the main activity I've been carrying out with BioPills is the <strong>writing and publication</strong> of outreach articles on our website. Over the years, I dealt with many subjects, ranging from zoology to ecology, and from book reviews to interviews. You can find all the articles I published by visiting my <strong><a href="https://www.biopills.net/author/filippo-nicolini/" target="_blank">account page on BioPills</a></strong>.
 
@@ -86,7 +93,7 @@ details[open] > summary::before {
   </details>
 </div>
 
-## 2. Webinars
+<h3 id="webinars">Webinars</h3>
 <div style="text-align: justify">
   With BioPills I also collaborated in <strong>organizing live webinars</strong> dealing with various biological topics. My main role was to moderate the webinar, by introducing the speaker and the topic, and by reading questions from the audience. You can find all the webinars hosted by BioPills on the <strong><a href="https://www.youtube.com/playlist?list=PLUMnZXJ4kUWiKl263McC9XGJJbFHz1ARe" target="_blank">YouTube channel</a></strong>.
 
@@ -124,7 +131,7 @@ details[open] > summary::before {
   </details>
 </div>
 
-## 3. Other activities
+<h3 id="other-biopills">Other activities</h3>
 <div style="text-align: justify;">
   Every now and then I also participate in side activities which involve the collaboration between BioPills and other scientific initiatives.
 
@@ -135,4 +142,26 @@ details[open] > summary::before {
   <br><br>
   
   Also, for over 2 years, BioPills has provided articles to the "<strong>Giornale dei Biologi</strong>" on a monthly basis. I took care of reviewing articles dealing with zoology, ecology, and related subjects, and I also wrote my own piece: "<a href="https://issuu.com/onbpress/docs/febbraio_2024?ff&experiment=previewReaderTestMode,new-bff-dynamic" target="_blank">Abbiamo ancora bisogno di parlare di fossili viventi?</a>" (which may translate in something like "Is there any use in discussing the living fossil concept?").
+</div>
+
+
+<h2 id="wwa">WWA: Wood Wide Ants</h2>
+<hr>
+
+<div style="text-align: justify">
+
+  Wood Wide Ants (WWA) is a research project that aims to produce a high-quality chromosome-level genome of <i>Formica paralugubris</i>, an endemic Italian species of wood ants. The project outlook can be accessed in <a href="https://sites.google.com/view/woodwideants-en" target="_blank">this Google Site</a>.
+  
+  <br><br>
+
+  At its core, besides research, it lays a fundamental science communication and education activity, which is carried out by prof Fabrizio Ghiselli, Enrico Strada, and myself. The main objective is to bring the concepts of genomics, biodiversity, citizen science, and entomology to the general public and schools, by engaging in public events and educational projects.
+
+  <br><br>
+
+  WWA, including its outreach commitment, is partially funded by ERGA-BGE, and you can find two featured articles on their websites (<a href="https://biodiversitygenomics.eu/2025/02/03/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubris/" target="_blank">here</a> and <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">here</a>).
+
+  <p align="center"><a href="https://sites.google.com/view/woodwideants-en" target="_blank">
+  <img src="/images/wwa_graphicalAbstract.png" alt="wwa graphical abstract" width="500">
+  </a></p>
+
 </div>
