@@ -21,9 +21,17 @@ summary::before {
 details[open] > summary::before {
   transform: rotate(45deg);
 }
+
+hr {
+  border: none;
+  height: 2px;
+  /* Set the hr color */
+  color: #b9babd;  /* old IE */
+  background-color: #b9babd;  /* Modern Browsers */
+}
 </style>
 
-*Last updated: Aug 12, 2025*
+<p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
 <div style="text-align: justify">
 While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is <b>reaching out to people</b> and talk about evolution and biology. The expression on someone's face when they are truly enjoying (and understanding) science is priceless, and never fails to move me.
@@ -161,7 +169,7 @@ To me, science communication and outreach are ways to bring research closer to s
   WWA, including its outreach commitment, is partially funded by ERGA-BGE, and you can find two featured articles on their websites (<a href="https://biodiversitygenomics.eu/2025/02/03/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubris/" target="_blank">here</a> and <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">here</a>).
 
   <p align="center"><a href="https://sites.google.com/view/woodwideants-en" target="_blank">
-  <img src="/images/wwa_graphicalAbstract.png" alt="wwa graphical abstract" width="500">
+  <img src="/images/wwa_graphicalAbstract.png" alt="wwa graphical abstract" width="1000">
   </a></p>
 
 </div>

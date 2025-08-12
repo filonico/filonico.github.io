@@ -33,9 +33,9 @@ hr {
 }
 </style>
 
-<p><em>Last updated: Aug 12, 2025</em></p>
+<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
-<p><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
+<p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
 <h2 id="outlook">Outlook</h2>
 <ul>
