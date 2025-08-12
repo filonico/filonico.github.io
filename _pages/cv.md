@@ -33,27 +33,30 @@ hr {
 }
 </style>
 
-<p><em>Last updated: Jun 14, 2025</em></p>
+<p><em>Last updated: Aug 12, 2025</em></p>
 
 <p><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></p>
 
-<h2>Outlook</h2>
+<h2 id="outlook">Outlook</h2>
 <ul>
-  <li><a href="#professional-experience">Professional experience</a></li>
+  <li><a href="#employment">Employment</a></li>
   <li><a href="#education">Education</a></li>
-  <li><a href="#publications">Publications</a></li>
   <li><a href="#outreach">Outreach activity</a></li>
+  <li><a href="#teaching">Teaching activity</a></li>
   <li><a href="#professional-skills">Professional skills</a></li>
-  <li><a href="#teaching">Teaching experience</a></li>
-  <li><a href="#oral-presentations">Oral presentations at congresses</a></li>
   <li><a href="#courses">Courses and workshops</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#oral-presentations">Oral presentations at congresses</a></li>
+  <li><a href="#invited-talks">Invited talks</a></li>
   <li><a href="#awards">Awards and scholarships</a></li>
   <li><a href="#visiting">Visiting scholar</a></li>
   <li><a href="#memberships">Society memberships</a></li>
 </ul>
 
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
-<h2 id="professional-experience">Professional experience</h2>
+<h2 id="employment">Employment</h2>
 <hr>
 
 <p><strong>Research Associate</strong><br>
@@ -61,6 +64,10 @@ hr {
 <strong>Supervisor</strong>: <em>prof. Roberto Feuda</em><br>
 <strong>University of Leicester, Leicester (UK). Nov 2024 - ongoing</strong></p>
 
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="education">Education</h2>
 <hr>
@@ -80,18 +87,10 @@ hr {
 <strong>Supervisor</strong>: prof. Barbara Mantovani<br>
 <strong>University of Bologna, Bologna (IT). Sep 2016 - Oct 2019</strong></p>
 
+<a href="#outlook">↑ Go up ↑</a>
 
-<h2 id="publications">Publications</h2>
-<hr>
-
-<p><ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></p>
-
-<p>Martelossi J, <ins>Nicolini F</ins>, Subacchi S, Pasquale D, Ghiselli F, & Luchetti A. (2023). <strong>Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution</strong>. <em>BMC Biology</em>, <em>21</em>(1), 1-23. doi: <a href="https://doi.org/10.1186/s12915-023-01632-z" target="_blank">10.1186/s12915-023-01632-z</a></p>
-
-<p><ins>Nicolini F</ins>, Martelossi J, Forni G, Savojardo C, Mantovani B, & Luchetti A. (2023). <strong>Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps</strong>. <em>Frontiers in Ecology and Evolution</em>, 11, 23. doi: <a href="https://doi.org/10.3389/fevo.2023.1046960" target="_blank">10.3389/fevo.2023.1046960</a></p>
-
-<p>Forni G, Cussigh A, Brock PD, Jones BR, <ins>Nicolini F</ins>, Martelossi J, ... & Mantovani B. (2023). <strong>Taxonomic revision of the Australian stick insect genus Candovia (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches</strong>. <em>Zoological Journal of the Linnean Society</em>, <em>197</em>(1), 189-210. doi: <a href="https://doi.org/10.1093/zoolinnean/zlac074" target="_blank">10.1093/zoolinnean/zlac074</a></p>
-
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="outreach">Outreach activity</h2>
 <hr>
@@ -103,6 +102,28 @@ hr {
   <li><strong>BiGeA Day 2023</strong><br>University of Bologna, Bologna (IT). May 27, 2023</li>
   <li><strong>University of Bologna opening days</strong><br>University of Bologna, Bologna (IT). Nov 18, 2022</li>
 </ul>
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="teaching">Teaching experience</h2>
+<hr>
+
+<ul>
+  <li><b>Practical class "CAFE: estimating gene family turnover across a phylogenetic tree"</b><br />
+    Master degree in <i>Bioinformatics</i><br />
+    <i>University of Bologna, Bologna (IT). Apr 23, 2024</i></li>
+  <li><b>Practical invertebrate zoology class</b><br />
+    Bachelor degree in <i>Biological Sciences</i><br />
+    <i>University of Bologna, Bologna (IT). Sep 2022 – Jan 2023</i></li>
+</ul>
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="professional-skills">Professional skills</h2>
 <hr>
@@ -262,31 +283,10 @@ hr {
   </li>
 </ul>
 
+<a href="#outlook">↑ Go up ↑</a>
 
-<h2 id="teaching">Teaching experience</h2>
-<hr>
-
-<ul>
-  <li><b>Practical class "CAFE: estimating gene family turnover across a phylogenetic tree"</b><br />
-    Master degree in <i>Bioinformatics</i><br />
-    <i>University of Bologna, Bologna (IT). Apr 23, 2024</i></li>
-  <li><b>Practical invertebrate zoology class</b><br />
-    Bachelor degree in <i>Biological Sciences</i><br />
-    <i>University of Bologna, Bologna (IT). Sep 2022 – Jan 2023</i></li>
-</ul>
-
-
-<h2 id="oral-presentations">Oral presentations at congresses</h2>
-<hr>
-
-<p><i>For a report of poster presentations, please have a look also at the <a href="/resources/"><b>Resources</b></a> section of this website.</i></p>
-
-<ul>
-  <li><ins>Nicolini F</ins>, Iannello M, Piccinini G, Ghiselli F, Luchetti A, Milani L. (2024). <b>Advancing the study of bivalve sex determination in the light of comparative genomics</b>. <i>Establishing state-of-the-art mollusc genomics (EMBO workshop)</i>. Namur (BE). May 27 – 30, 2024.</li>
-  <li><ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). <b>Contrasting patterns of amino acid evolution and shared ancestry between putative sex-determining genes in bivalve molluscs</b>. <i>EVOLMAR 2023</i>. Online. Nov 14 – 17, 2023.</li>
-  <li><ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). <b>Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution</b>. <i>Evolution 2023</i> (<i>Ernst Mayr Award symposium</i>). Online. Jun 2 – 3, 2023.</li>
-</ul>
-
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="courses">Courses and workshops</h2>
 <hr>
@@ -328,6 +328,66 @@ hr {
     <i>Bologna (IT). Oct 18, 2020</i></li>
 </ul>
 
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="publications">Publications</h2>
+<hr>
+
+<p>Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D'Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation mechanisms in animals from the Doubly Uniparental Inheritance of bivalves</strong>. <em>Research Square</em>, <em>preprint</em>. Under revision. doi: <a href="https://doi.org/10.21203/rs.3.rs-7120697/v1" target="_blank">10.21203/rs.3.rs-7120697/v1</a></p>
+
+<p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, Luchetti A. (2025). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. Under revision.
+
+<p><ins>Nicolini F</ins>, Nuzhdin S, Ghiselli F, Luchetti A, & Milani L. (2025). <strong>Comparative genomics of sex determination related genes reveals shared evolutionary patterns between bivalves and mammals, but not <em>Drosophila</em></strong>. <em>bioRχiv</em>, <em>preprint</em>. Under revision. doi: <a herf="https://doi.org/10.1101/2025.01.30.635362" target="_blank">10.1101/2025.01.30.635362</a></p>
+
+<p>Righetti N*, <ins>Nicolini F</ins>*, Forni G, & Luchetti A. (2025). <strong>Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors</strong>. <em>Palaeoentomology</em>, <em>8</em>(3), 316-328. doi: <a href="https://doi.org/10.11646/palaeoentomology.8.3.8" target="_blank">10.11646/palaeoentomology.8.3.8</a></p>
+
+<p><ins>Nicolini F</ins>, Ghiselli F, Luchetti A, & Milani L. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></p>
+
+<p>Martelossi J, <ins>Nicolini F</ins>, Subacchi S, Pasquale D, Ghiselli F, & Luchetti A. (2023). <strong>Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution</strong>. <em>BMC Biology</em>, <em>21</em>(1), 1-23. doi: <a href="https://doi.org/10.1186/s12915-023-01632-z" target="_blank">10.1186/s12915-023-01632-z</a></p>
+
+<p><ins>Nicolini F</ins>, Martelossi J, Forni G, Savojardo C, Mantovani B, & Luchetti A. (2023). <strong>Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps</strong>. <em>Frontiers in Ecology and Evolution</em>, 11, 23. doi: <a href="https://doi.org/10.3389/fevo.2023.1046960" target="_blank">10.3389/fevo.2023.1046960</a></p>
+
+<p>Forni G, Cussigh A, Brock PD, Jones BR, <ins>Nicolini F</ins>, Martelossi J, ... & Mantovani B. (2023). <strong>Taxonomic revision of the Australian stick insect genus Candovia (Phasmida: Necrosciinae): insight from molecular systematics and species-delimitation approaches</strong>. <em>Zoological Journal of the Linnean Society</em>, <em>197</em>(1), 189-210. doi: <a href="https://doi.org/10.1093/zoolinnean/zlac074" target="_blank">10.1093/zoolinnean/zlac074</a></p>
+
+<p><small><em>* equal contribution</em></small></p>
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="oral-presentations">Oral presentations at congresses</h2>
+<hr>
+
+<p><i>For a report of poster presentations, please have a look at the <a href="/resources/"><b>Resources</b></a> section of this website.</i></p>
+
+<ul>
+  <li><ins>Nicolini F</ins>, Iannello M, Piccinini G, Ghiselli F, Luchetti A, Milani L. (2024). <b>Advancing the study of bivalve sex determination in the light of comparative genomics</b>. <i>Establishing state-of-the-art mollusc genomics (EMBO workshop)</i>. Namur (BE). May 27 – 30, 2024.</li>
+  <li><ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). <b>Contrasting patterns of amino acid evolution and shared ancestry between putative sex-determining genes in bivalve molluscs</b>. <i>EVOLMAR 2023</i>. Online. Nov 14 – 17, 2023.</li>
+  <li><ins>Nicolini F</ins>, Ghiselli F, Milani L, Luchetti A. (2023). <b>Sex-determination related genes in bivalves: novel acquisitions and high rates of sequence evolution</b>. <i>Evolution 2023</i> (<i>Ernst Mayr Award symposium</i>). Online. Jun 2 – 3, 2023.</li>
+</ul>
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="invited-talks">Invited talks</h2>
+<hr>
+
+<ul>
+  <li><ins>Nicolini F</ins>. (2024). <b>From comparative genomics to fluorescence imaging: a multi-disciplinary approach to study bivalve sex determination</b>. <i>Auer Lab</i>. University of Fribourg. Fribourg, Switzerland. Jul 26, 2024.</li>
+  <li><ins>Nicolini F</ins>, Chignoli D. (2021). <b>Communicators are not improvised – BioPills in a nutshell</b>. In the event: <i>How to simplify science without inaccuracies</i>. <i>Institute for Research in Biomedicine (IRB) Barcelona</i>. Online. Jun 15, 2021.</li>
+  <li>Licari G, Chignoli D, Bencardino D, <ins>Nicolini F</ins> (2021). In the event: <i>Scienze e Social: tra informazione e pericolo.</i>. <i>Vivere Ateneo, Univeristy of Palermo</i>. Online. Apr 20, 2021.</li>
+</ul>
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="awards">Awards and scholarships</h2>
 <hr>
@@ -342,6 +402,10 @@ hr {
     <i>Apr 13, 2023</i></li>
 </ul>
 
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="visiting">Visiting scholar</h2>
 <hr>
@@ -354,6 +418,10 @@ hr {
     <i>University of Vigo, Vigo (ES). Jan 12 – 22, 2023</i></li>
 </ul>
 
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="memberships">Society memberships</h2>
 <hr>
@@ -372,4 +440,5 @@ hr {
     <i>Apr 2022 – ongoing</i></li>
 </ul>
 
+<a href="#outlook">↑ Go up ↑</a>
 
