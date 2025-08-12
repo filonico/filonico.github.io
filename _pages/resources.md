@@ -21,11 +21,23 @@ summary::before {
 details[open] > summary::before {
   transform: rotate(90deg);
 }
+
+hr {
+  border: none;
+  height: 2px;
+  /* Set the hr color */
+  color: #b9babd;  /* old IE */
+  background-color: #b9babd;  /* Modern Browsers */
+}
 </style>
 
-*Last updated: Nov 22, 2024*
+<p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
-## Introduction to bioinformatics
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="github-bioinformatics">Introduction to bioinformatics</h2>
+<hr>
 
 <div style="text-align: justify">
 
@@ -40,8 +52,11 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 
 [![bash github tutorial](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)](https://github.com/filonico/UNIX_and_bash_basics)
 
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
-## phySCO: phylogenomics from Single-Copy Orthologs
+<h2 id="physco">phySCO: phylogenomics from Single-Copy Orthologs</h2>
+<hr>
 
 <div style="text-align: justify">
 
@@ -61,9 +76,11 @@ phySCO is an all-in-one python tool that (i) takes the output of a series of BUS
 
 [![phySCO](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
 
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
-
-## Poster collection
+<h2 id="posters">Poster collection</h2>
+<hr>
 
 <div style="text-align: justify">
 
@@ -83,10 +100,11 @@ Here you can find the pdfs of posters where I was involved. Posters that I perso
 
 </div>
 
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
-
-
-## Illustration portfolio
+<h2 id="illustrations">Illustration portfolio</h2>
+<hr>
 
 <div style="text-align: justify">
 
