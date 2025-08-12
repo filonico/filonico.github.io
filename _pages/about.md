@@ -7,12 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  hr {
+  border: none;
+  height: 2px;
+  /* Set the hr color */
+  color: #b9babd;  /* old IE */
+  background-color: #b9babd;  /* Modern Browsers */
+  }
+</style>
+
 <div style="text-align: center">
 <code>evolutionary genomics – phylogenomics – zoology – (newbie) evo-devo – non-model organisms – outreach</code>
 </div>
 
-
----
+<hr>
 
 
 <div style="text-align: justify">
