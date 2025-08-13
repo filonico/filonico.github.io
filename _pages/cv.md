@@ -39,24 +39,24 @@ hr {
 
 <h2 id="outlook">Outlook</h2>
 <ul>
-  <b><li><a href="#employment">Employment</a></li>
-  <li><a href="#education">Education</a></li>
-  <li><a href="#outreach">Outreach activity</a></li>
-  <li><a href="#teaching">Teaching activity</a></li>
-  <li><a href="#professional-skills">Professional skills</a></b>
+  <li><a href="#employment"><b>Employment</b></a></li>
+  <li><a href="#education"><b>Education</b></a></li>
+  <li><a href="#outreach"><b>Outreach activity</b></a></li>
+  <li><a href="#teaching"><b>Teaching activity</b></a></li>
+  <li><a href="#professional-skills"><b>Professional skills</b></a>
     <ul>
       <li><a href="#bioinformatics">Bioinformatics</a></li>
       <li><a href="#bioinformatics">Wet-lab</a></li>
       <li><a href="#bioinformatics">Others</a></li>
     </ul>
   </li>
-  <b><li><a href="#courses">Courses and workshops</a></li>
-  <li><a href="#publications">Publications</a></li>
-  <li><a href="#oral-presentations">Oral presentations at congresses</a></li>
-  <li><a href="#invited-talks">Invited talks</a></li>
-  <li><a href="#awards">Awards and scholarships</a></li>
-  <li><a href="#visiting">Visiting scholar</a></li>
-  <li><a href="#memberships">Society memberships</a></li></b>
+  <li><a href="#courses"><b>Courses and workshops</b></a></li>
+  <li><a href="#publications"><b>Publications</b></a></li>
+  <li><a href="#oral-presentations"><b>Oral presentations at congresses</b></a></li>
+  <li><a href="#invited-talks"><b>Invited talks</b></a></li>
+  <li><a href="#awards"><b>Awards and scholarships</b></a></li>
+  <li><a href="#visiting"><b>Visiting scholar</b></a></li>
+  <li><a href="#memberships"><b>Society memberships</b></a></li>
 </ul>
 
 <!-------------------------------------------------------------------------------------->

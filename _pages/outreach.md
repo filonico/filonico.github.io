@@ -43,14 +43,14 @@ To me, science communication and outreach are ways to bring research closer to s
 
 <h2 id="outlook">Outlook</h2>
 <ul>
-  <li><b><a href="#biopills">BioPills</a></b>
+  <li><a href="#biopills"><b>BioPills</b></a>
     <ul>
       <li><a href="#web-articles">Web articles</a></li>
       <li><a href="#webinars">Webinars</a></li>
       <li><a href="#web-articles">Other activities</a></li>
     </ul>
   </li>
-  <li><b><a href="#wwa">WWA: Wood Wide Ants</a></li></b>
+  <li><a href="#wwa"><b>WWA: Wood Wide Ants</b></a></li>
   
 </ul>
 
