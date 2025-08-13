@@ -32,7 +32,7 @@ hr {
   background-color: #b9babd;  /* Modern Browsers */
 }
 
-#outlook + ul {
+#outlook ~ ul {
   list-style-type: none !important;
 }
 
