@@ -32,8 +32,8 @@ hr {
   background-color: #b9babd;  /* Modern Browsers */
 }
 
-#outlook ul > li {
-  list-style-type: none;
+#outlook ul + ul {
+  list-style-type: none !important;
 }
 
 </style>
