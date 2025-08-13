@@ -8,61 +8,62 @@ redirect_from:
 ---
 
 <style>
-summary {
-  display: block;
-}
+  summary {
+    display: block;
+  }
 
-/* Create a new custom triangle on the right side */
-summary::before {
-  margin-left: 1ch;
-  display: inline-block;
-  content: '+';
-  transition: 0.2s;
-}
+  /* Create a new custom triangle on the right side */
+  summary::before {
+    margin-left: 1ch;
+    display: inline-block;
+    content: '+';
+    transition: 0.2s;
+  }
 
-details[open] > summary::before {
-  transform: rotate(45deg);
-}
+  details[open] > summary::before {
+    transform: rotate(45deg);
+  }
 
-hr {
-  border: none;
-  height: 2px;
-  /* Set the hr color */
-  color: #b9babd;  /* old IE */
-  background-color: #b9babd;  /* Modern Browsers */
-}
+  hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #b9babd;  /* old IE */
+    background-color: #b9babd;  /* Modern Browsers */
+  }
 
-#outlook ul {
-  list-style-type: none !important;
-}
-
+  #outlook-section ul {
+    list-style-type: none !important;
+  }
 </style>
 
 <p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
 <p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
-<h2 id="outlook">Outlook</h2>
-<ul>
-  <li>💼 <a href="#employment"><b>Employment</b></a></li>
-  <li>🎓 <a href="#education"><b>Education</b></a></li>
-  <li>📰 <a href="#outreach"><b>Outreach activity</b></a></li>
-  <li>🏫 <a href="#teaching"><b>Teaching activity</b></a></li>
-  <li>🧮 <a href="#professional-skills"><b>Professional skills</b></a>
-    <ul>
-      <li><a href="#bioinformatics">Bioinformatics</a></li>
-      <li><a href="#bioinformatics">Wet-lab</a></li>
-      <li><a href="#bioinformatics">Others</a></li>
-    </ul>
-  </li>
-  <li>📜 <a href="#courses"><b>Courses and workshops</b></a></li>
-  <li>📚 <a href="#publications"><b>Publications</b></a></li>
-  <li>🗨️ <a href="#oral-presentations"><b>Oral presentations at congresses</b></a></li>
-  <li>🎤 <a href="#invited-talks"><b>Invited talks</b></a></li>
-  <li>🏆 <a href="#awards"><b>Awards and scholarships</b></a></li>
-  <li>✈️ <a href="#visiting"><b>Visiting scholar</b></a></li>
-  <!--<li><a href="#memberships"><b>Society memberships</b></a></li>-->
-</ul>
+<div id="outlook-section">
+  <h2 id="outlook">Outlook</h2>
+  <ul>
+    <li>💼 <a href="#employment"><b>Employment</b></a></li>
+    <li>🎓 <a href="#education"><b>Education</b></a></li>
+    <li>📰 <a href="#outreach"><b>Outreach activity</b></a></li>
+    <li>🏫 <a href="#teaching"><b>Teaching activity</b></a></li>
+    <li>🧮 <a href="#professional-skills"><b>Professional skills</b></a>
+      <ul>
+        <li><a href="#bioinformatics">Bioinformatics</a></li>
+        <li><a href="#bioinformatics">Wet-lab</a></li>
+        <li><a href="#bioinformatics">Others</a></li>
+      </ul>
+    </li>
+    <li>📜 <a href="#courses"><b>Courses and workshops</b></a></li>
+    <li>📚 <a href="#publications"><b>Publications</b></a></li>
+    <li>🗨️ <a href="#oral-presentations"><b>Oral presentations at congresses</b></a></li>
+    <li>🎤 <a href="#invited-talks"><b>Invited talks</b></a></li>
+    <li>🏆 <a href="#awards"><b>Awards and scholarships</b></a></li>
+    <li>✈️ <a href="#visiting"><b>Visiting scholar</b></a></li>
+    <!--<li><a href="#memberships"><b>Society memberships</b></a></li>-->
+  </ul>
+</div>
 
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->

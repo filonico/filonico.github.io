@@ -6,33 +6,33 @@ author_profile: true
 ---
 
 <style>
-summary {
-  display: block;
-}
+  summary {
+    display: block;
+  }
 
-/* Create a new custom triangle on the right side */
-summary::before {
-  margin-left: 1ch;
-  display: inline-block;
-  content: '+';
-  transition: 0.2s;
-}
+  /* Create a new custom triangle on the right side */
+  summary::before {
+    margin-left: 1ch;
+    display: inline-block;
+    content: '+';
+    transition: 0.2s;
+  }
 
-details[open] > summary::before {
-  transform: rotate(45deg);
-}
+  details[open] > summary::before {
+    transform: rotate(45deg);
+  }
 
-hr {
-  border: none;
-  height: 2px;
-  /* Set the hr color */
-  color: #b9babd;  /* old IE */
-  background-color: #b9babd;  /* Modern Browsers */
-}
+  hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #b9babd;  /* old IE */
+    background-color: #b9babd;  /* Modern Browsers */
+  }
 
-#outlook ul {
-  list-style-type: none !important;
-}
+  #outlook-section ul {
+    list-style-type: none !important;
+  }
 </style>
 
 <!-------------------------------------------------------------------------------------->
@@ -41,25 +41,26 @@ hr {
 <p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
 <div style="text-align: justify">
-While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is <b>reaching out to people</b> and talk about evolution and biology. The expression on someone's face when they are truly enjoying (and understanding) science is priceless, and never fails to move me.
+  While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is <b>reaching out to people</b> and talk about evolution and biology. The expression on someone's face when they are truly enjoying (and understanding) science is priceless, and never fails to move me.
 
-<br><br>
+  <br><br>
 
-To me, science communication and outreach are ways to bring research closer to society, making it accessible, understandable and, above all, a tool that everyone can use. Giving people the ability to navigate the vast ocean of knowledge that is produced every day, is something that we, as scientists, need to integrate into our work. After all, <b>what is the purpose of research if it stays locked away in our labs, and can't be used by everyone?</b>
+  To me, science communication and outreach are ways to bring research closer to society, making it accessible, understandable and, above all, a tool that everyone can use. Giving people the ability to navigate the vast ocean of knowledge that is produced every day, is something that we, as scientists, need to integrate into our work. After all, <b>what is the purpose of research if it stays locked away in our labs, and can't be used by everyone?</b>
 </div>
 
-<h2 id="outlook">Outlook</h2>
-<ul>
-  <li>💚 <a href="#biopills"><b>BioPills</b></a>
-    <ul>
-      <li><a href="#web-articles">Web articles</a></li>
-      <li><a href="#webinars">Webinars</a></li>
-      <li><a href="#web-articles">Other activities</a></li>
-    </ul>
-  </li>
-  <li>🐜 <a href="#wwa"><b>WWA: Wood Wide Ants</b></a></li>
-  
-</ul>
+<div id="outlook-section">
+  <h2 id="outlook">Outlook</h2>
+  <ul>
+    <li>💚 <a href="#biopills"><b>BioPills</b></a>
+      <ul>
+        <li><a href="#web-articles">Web articles</a></li>
+        <li><a href="#webinars">Webinars</a></li>
+        <li><a href="#web-articles">Other activities</a></li>
+      </ul>
+    </li>
+    <li>🐜 <a href="#wwa"><b>WWA: Wood Wide Ants</b></a></li>
+  </ul>
+</div>
 
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
