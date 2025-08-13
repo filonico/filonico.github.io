@@ -67,7 +67,7 @@ hr {
 
 <p><strong>Research Associate</strong><br>
 <strong>Subject</strong>: <em>Evolution of vision in early metazoans.</em><br>
-<strong>Supervisor</strong>: <em>prof. Roberto Feuda</em><br>
+<strong>Supervisor</strong>: prof. Roberto Feuda<br>
 <strong>University of Leicester, Leicester (UK). Nov 2024 - ongoing</strong></p>
 
 <a href="#outlook">↑ Go up ↑</a>
