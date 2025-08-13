@@ -38,24 +38,24 @@ hr {
 <p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
 <h2 id="outlook">Outlook</h2>
-<ul>
-  <li><a href="#employment"><b>💼 Employment</b></a></li>
-  <li><a href="#education"><b>🎓 Education</b></a></li>
-  <li><a href="#outreach"><b>📰 Outreach activity</b></a></li>
-  <li><a href="#teaching"><b>🏫 Teaching activity</b></a></li>
-  <li><a href="#professional-skills"><b>🧮 Professional skills</b></a>
+<ul class="list-unstyled">
+  <li>💼 <a href="#employment"><b>Employment</b></a></li>
+  <li>🎓 <a href="#education"><b>Education</b></a></li>
+  <li>📰 <a href="#outreach"><b>Outreach activity</b></a></li>
+  <li>🏫 <a href="#teaching"><b>Teaching activity</b></a></li>
+  <li>🧮 <a href="#professional-skills"><b>Professional skills</b></a>
     <ul>
       <li><a href="#bioinformatics">Bioinformatics</a></li>
       <li><a href="#bioinformatics">Wet-lab</a></li>
       <li><a href="#bioinformatics">Others</a></li>
     </ul>
   </li>
-  <li><a href="#courses"><b>📜 Courses and workshops</b></a></li>
-  <li><a href="#publications"><b>📚 Publications</b></a></li>
-  <li><a href="#oral-presentations"><b>🗨️ Oral presentations at congresses</b></a></li>
-  <li><a href="#invited-talks"><b>🎤 Invited talks</b></a></li>
-  <li><a href="#awards"><b>🏆 Awards and scholarships</b></a></li>
-  <li><a href="#visiting"><b>✈️ Visiting scholar</b></a></li>
+  <li>📜 <a href="#courses"><b>Courses and workshops</b></a></li>
+  <li>📚 <a href="#publications"><b>Publications</b></a></li>
+  <li>🗨️ <a href="#oral-presentations"><b>Oral presentations at congresses</b></a></li>
+  <li>🎤 <a href="#invited-talks"><b>Invited talks</b></a></li>
+  <li>🏆 <a href="#awards"><b>Awards and scholarships</b></a></li>
+  <li>✈️ <a href="#visiting"><b>Visiting scholar</b></a></li>
   <!--<li><a href="#memberships"><b>Society memberships</b></a></li>-->
 </ul>
 

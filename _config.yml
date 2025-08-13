@@ -24,12 +24,12 @@ author:
   bio              : "Reasearch Associate dealing (struggling) with invertebrate evolutionary genomics 🧬🦗🦪🧽🧬"
   location         : "University of Leicester (UK)"
   email            : "fn76[at]le.ac.uk"
-  github           : "filonico"
-  googlescholar    : "https://scholar.google.com/citations?hl=it&user=p1HArXIAAAAJ"
   twitter          : "filo_nicoo"
-  uri              : "https://linktr.ee/filo.nico"
   bluesky          : "filonico.bsky.social"
 
+  # github           : "filonico"
+  # googlescholar    : "https://scholar.google.com/citations?hl=it&user=p1HArXIAAAAJ"
+  uri              : 
   orcid            :
   employer         :
   pubmed           : 
