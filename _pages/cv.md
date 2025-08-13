@@ -39,18 +39,24 @@ hr {
 
 <h2 id="outlook">Outlook</h2>
 <ul>
-  <li><a href="#employment">Employment</a></li>
+  <b><li><a href="#employment">Employment</a></li>
   <li><a href="#education">Education</a></li>
   <li><a href="#outreach">Outreach activity</a></li>
   <li><a href="#teaching">Teaching activity</a></li>
-  <li><a href="#professional-skills">Professional skills</a></li>
-  <li><a href="#courses">Courses and workshops</a></li>
+  <li><a href="#professional-skills">Professional skills</a></b>
+    <ul>
+      <li><a href="#bioinformatics">Bioinformatics</a></li>
+      <li><a href="#bioinformatics">Wet-lab</a></li>
+      <li><a href="#bioinformatics">Others</a></li>
+    </ul>
+  </li>
+  <b><li><a href="#courses">Courses and workshops</a></li>
   <li><a href="#publications">Publications</a></li>
   <li><a href="#oral-presentations">Oral presentations at congresses</a></li>
   <li><a href="#invited-talks">Invited talks</a></li>
   <li><a href="#awards">Awards and scholarships</a></li>
   <li><a href="#visiting">Visiting scholar</a></li>
-  <li><a href="#memberships">Society memberships</a></li>
+  <li><a href="#memberships">Society memberships</a></li></b>
 </ul>
 
 <!-------------------------------------------------------------------------------------->
@@ -128,7 +134,7 @@ hr {
 <h2 id="professional-skills">Professional skills</h2>
 <hr>
 
-<h3>Bioinformatics</h3>
+<h3 id="bioinformatics">Bioinformatics</h3>
 
 <ul>
   <li><b>Programming and markup languages</b>
@@ -206,7 +212,7 @@ hr {
 
 </ul>
 
-<h3><i>Wet-lab</i></h3>
+<h3 id="wet-lab"><i>Wet-lab</i></h3>
 
 <ul>
   <li><b>Metaphase-plate chromosome preparation</b>
@@ -264,7 +270,7 @@ hr {
 
 </ul>
 
-<h3>Others</h3>
+<h3 id="prof-skill-others">Others</h3>
 
 <ul>
   <li><b>Field scientific sampling</b>

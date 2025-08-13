@@ -41,6 +41,19 @@ While I'm not a very chatty person in my everyday life, one of the activity that
 To me, science communication and outreach are ways to bring research closer to society, making it accessible, understandable and, above all, a tool that everyone can use. Giving people the ability to navigate the vast ocean of knowledge that is produced every day, is something that we, as scientists, need to integrate into our work. After all, <b>what is the purpose of research if it stays locked away in our labs, and can't be used by everyone?</b>
 </div>
 
+<h2 id="outlook">Outlook</h2>
+<ul>
+  <li><b><a href="#biopills">BioPills</a></b>
+    <ul>
+      <li><a href="#web-articles">Web articles</a></li>
+      <li><a href="#webinars">Webinars</a></li>
+      <li><a href="#web-articles">Other activities</a></li>
+    </ul>
+  </li>
+  <li><b><a href="#wwa">WWA: Wood Wide Ants</a></li></b>
+  
+</ul>
+
 <h2 id="biopills">BioPills</h2>
 <hr>
 
