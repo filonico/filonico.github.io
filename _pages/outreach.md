@@ -31,6 +31,9 @@ hr {
 }
 </style>
 
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
 <p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
 <div style="text-align: justify">
@@ -53,6 +56,9 @@ To me, science communication and outreach are ways to bring research closer to s
   <li><a href="#wwa"><b>WWA: Wood Wide Ants</b></a></li>
   
 </ul>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
 
 <h2 id="biopills">BioPills</h2>
 <hr>
@@ -165,6 +171,11 @@ To me, science communication and outreach are ways to bring research closer to s
   Also, for over 2 years, BioPills has provided articles to the "<strong>Giornale dei Biologi</strong>" on a monthly basis. I took care of reviewing articles dealing with zoology, ecology, and related subjects, and I also wrote my own piece: "<a href="https://issuu.com/onbpress/docs/febbraio_2024?ff&experiment=previewReaderTestMode,new-bff-dynamic" target="_blank">Abbiamo ancora bisogno di parlare di fossili viventi?</a>" (which may translate in something like "Is there any use in discussing the living fossil concept?").
 </div>
 
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
 
 <h2 id="wwa">WWA: Wood Wide Ants</h2>
 <hr>
@@ -186,3 +197,8 @@ To me, science communication and outreach are ways to bring research closer to s
   </a></p>
 
 </div>
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->

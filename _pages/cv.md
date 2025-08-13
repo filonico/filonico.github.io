@@ -56,7 +56,7 @@ hr {
   <li><a href="#invited-talks"><b>Invited talks</b></a></li>
   <li><a href="#awards"><b>Awards and scholarships</b></a></li>
   <li><a href="#visiting"><b>Visiting scholar</b></a></li>
-  <li><a href="#memberships"><b>Society memberships</b></a></li>
+  <!--<li><a href="#memberships"><b>Society memberships</b></a></li>-->
 </ul>
 
 <!-------------------------------------------------------------------------------------->
@@ -101,7 +101,7 @@ hr {
 <h2 id="outreach">Outreach activity</h2>
 <hr>
 
-<p><em>For a more detailed description of my outreach commitment, please have a look also at the <a href="/outreach/">Outreach</a> section in this website.</em></p>
+<p><small><em>For a more detailed description of my outreach commitment, please have a look also at the <a href="/outreach/">Outreach</a> section in this website.</em></small></p>
 
 <ul>
   <li><strong>Editor and web writer</strong><br>BioPills. Jul 2017 – ongoing</li>
@@ -212,7 +212,7 @@ hr {
 
 </ul>
 
-<h3 id="wet-lab"><i>Wet-lab</i></h3>
+<h3 id="wet-lab">Wet-lab</h3>
 
 <ul>
   <li><b>Metaphase-plate chromosome preparation</b>
@@ -368,7 +368,7 @@ hr {
 <h2 id="oral-presentations">Oral presentations at congresses</h2>
 <hr>
 
-<p><i>For a report of poster presentations, please have a look at the <a href="/resources/"><b>Resources</b></a> section of this website.</i></p>
+<p><small><i>For a report of poster presentations, please have a look at the <a href="/resources/"><b>Resources</b></a> section of this website.</i></small></p>
 
 <ul>
   <li><ins>Nicolini F</ins>, Iannello M, Piccinini G, Ghiselli F, Luchetti A, Milani L. (2024). <b>Advancing the study of bivalve sex determination in the light of comparative genomics</b>. <i>Establishing state-of-the-art mollusc genomics (EMBO workshop)</i>. Namur (BE). May 27 – 30, 2024.</li>
@@ -429,6 +429,7 @@ hr {
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
 
+<!--
 <h2 id="memberships">Society memberships</h2>
 <hr>
 
@@ -447,4 +448,4 @@ hr {
 </ul>
 
 <a href="#outlook">↑ Go up ↑</a>
-
+-->

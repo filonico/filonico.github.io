@@ -36,6 +36,22 @@ hr {
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
 
+Here you can find a series of tools, materials, and creative works I have been developing throughout my research and outreach activities. Feel free to get in touch for anything you'd like to discuss!
+
+<h2 id="outlook">Outlook</h2>
+<ul>
+  <li><a href="#github-bioinformatics"><b>Introduction to bioinformatics</b></a></li>
+  <li><a href="#physco"><b>phySCO: phylogenomics from Single-Copy Orthologs</b></a></li>
+  <li><a href="#wetlab-protocols"><b>Wet-lab protocols</b></a></li>
+  <li><a href="#posters"><b>Poster collection</b></a></li>
+  <li><a href="#illustrations"><b>Illustration portfolio</b></a></li>
+  
+</ul>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+
 <h2 id="github-bioinformatics">Introduction to bioinformatics</h2>
 <hr>
 
@@ -51,6 +67,8 @@ Take it as a friendly resource for accessing commonly used commands in early bio
 </div>
 
 [![bash github tutorial](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)](https://github.com/filonico/UNIX_and_bash_basics)
+
+<a href="#outlook">↑ Go up ↑</a>
 
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
@@ -76,6 +94,38 @@ phySCO is an all-in-one python tool that (i) takes the output of a series of BUS
 
 [![phySCO](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
 
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="wetlab-protocols">Wet-lab protocols</h2>
+<hr>
+
+<div style="text-align: justify">
+
+Researchers always complain—rightly—that bioinformatic code is not always shared and that analyses are rarely fully reproducible.
+
+<br />
+<br />
+
+But have you ever thought about wet-lab protocols? How many times have you tried to run an experiment for the first time, only to find yourself piecing together details from five different papers just to create a first draft?
+
+<br />
+<br />
+
+Just like bioinformatic pipelines, wet-lab protocols should be openly shared and easy to access. That's why I decided to start documenting my protocols on GitHub, where anyone can use them and also browse previous versions.
+
+<br />
+<br />
+
+
+</div>
+
+[![Wet-lab protocols](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent)](https://github.com/filonico/wetlab_protocols)
+
+<a href="#outlook">↑ Go up ↑</a>
+
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
 
@@ -87,18 +137,34 @@ phySCO is an all-in-one python tool that (i) takes the output of a series of BUS
 Here you can find the pdfs of posters where I was involved. Posters that I personally presented are indicated by a DNA symbol. Click on the titles to see the full posters and download them!
 
 <ul>
-<li>🧬 <b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>. <i>Evoluzione 2024</i>. Naples, Italy. Sep 9–11, 2024.</li>
+<li>🧬 <b><a href="https://drive.google.com/file/d/1SJy0M-vR0e_ay5Wl3rROcIdhrwZkd1L7/view?usp=sharing" target="_blank">Visions from the past: elucidating opsin evolution in a non-bilaterian Metazoa lineage</a></b>.<br />
+  <i>Jacques Monod Conferences: Origin of metazoans</i>.<br />
+  Roscoff, France. Jun 16–20, 2025.</li>
 
-<li><b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23–27, 2023.</li>
+<li>🧬 <b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>.<br />
+  <i>Evoluzione 2024</i>.<br />
+  Naples, Italy. Sep 9–11, 2024.</li>
 
-<li><b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>. <i>SMBE 2023</i>. Ferrara, Italy. Jul 23–27, 2023.</li>
+<li><b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>.<br />
+  <i>SMBE 2023</i>.<br />
+  Ferrara, Italy. Jul 23–27, 2023.</li>
 
-<li>🧬 <b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>. <i>Evoluzione 2022</i>. Ancona, Italy. Sep 4–7, 2022.</li>
+<li><b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>.<br />
+  <i>SMBE 2023</i>.<br />
+  Ferrara, Italy. Jul 23–27, 2023.</li>
 
-<li>🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>. <i>EuroEvoDevo 2022</i>. Naples, Italy. May 31–Jun 3, 2022.</li>
+<li>🧬 <b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>.<br />
+  <i>Evoluzione 2022</i>.<br />
+  Ancona, Italy. Sep 4–7, 2022.</li>
+
+<li>🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>.<br />
+  <i>EuroEvoDevo 2022</i>.<br />
+  Naples, Italy. May 31–Jun 3, 2022.</li>
 </ul>
 
 </div>
+
+<a href="#outlook">↑ Go up ↑</a>
 
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
@@ -141,3 +207,5 @@ Feel free to get in touch if you may need something of this kind ✏️🖍️
 </div>
 
 ![insect development](/images/insect_development.png)
+
+<a href="#outlook">↑ Go up ↑</a>
