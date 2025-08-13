@@ -39,12 +39,12 @@ hr {
 Here you can find a series of tools, materials, and creative works I have been developing throughout my research and outreach activities. Feel free to get in touch for anything you'd like to discuss!
 
 <h2 id="outlook">Outlook</h2>
-<ul>
-  <li><a href="#github-bioinformatics"><b>Introduction to bioinformatics</b></a></li>
-  <li><a href="#physco"><b>phySCO: phylogenomics from Single-Copy Orthologs</b></a></li>
-  <li><a href="#wetlab-protocols"><b>Wet-lab protocols</b></a></li>
-  <li><a href="#posters"><b>Poster collection</b></a></li>
-  <li><a href="#illustrations"><b>Illustration portfolio</b></a></li>
+<ul style="list-style-type:none;">
+  <li>🖥️ <a href="#github-bioinformatics"><b>Introduction to bioinformatics</b></a></li>
+  <li>🌳 <a href="#physco"><b>phySCO: phylogenomics from Single-Copy Orthologs</b></a></li>
+  <li>🧪 <a href="#wetlab-protocols"><b>Wet-lab protocols</b></a></li>
+  <li>🖼️ <a href="#posters"><b>Poster collection</b></a></li>
+  <li>🎨 <a href="#illustrations"><b>Illustration portfolio</b></a></li>
   
 </ul>
 
@@ -179,7 +179,7 @@ In my free-time I also like drawing. And sometimes I try to merge this hobby wit
 <br />
 <br />
 
-Feel free to get in touch if you may need something of this kind ✏️🖍️
+Feel free to get in touch if you may need something of this kind.
 
 <ul>
 <li><b>Animal icons</b>. These have been used to decorate phylogenetic trees, plots and other paper figures. Up to now, I've mostly focused on organisms that I personally study (i.e., branchiopods and bivalves).</li>

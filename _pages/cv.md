@@ -31,6 +31,11 @@ hr {
   color: #b9babd;  /* old IE */
   background-color: #b9babd;  /* Modern Browsers */
 }
+
+#outlook ul > li {
+  list-style-type: none;
+}
+
 </style>
 
 <p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
@@ -38,7 +43,7 @@ hr {
 <p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
 
 <h2 id="outlook">Outlook</h2>
-<ul class="list-unstyled">
+<ul>
   <li>💼 <a href="#employment"><b>Employment</b></a></li>
   <li>🎓 <a href="#education"><b>Education</b></a></li>
   <li>📰 <a href="#outreach"><b>Outreach activity</b></a></li>
