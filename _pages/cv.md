@@ -393,7 +393,7 @@ redirect_from:
 <hr>
 
 <ul>
-  <li><ins>Nicolini F</ins>. (2024). <b>From comparative genomics to fluorescence imaging: a multi-disciplinary approach to study bivalve sex determination</b>. <i>Auer Lab</i>. University of Fribourg. Fribourg, Switzerland. Jul 26, 2024.</li>
+  <li><ins>Nicolini F</ins>. (2024). <b>From comparative genomics to fluorescence imaging: a multi-disciplinary approach to study bivalve sex determination</b>. <i>Department of Biology seminar series</i>. University of Fribourg. Fribourg, Switzerland. Jul 26, 2024.</li>
   <li><ins>Nicolini F</ins>, Chignoli D. (2021). <b>Communicators are not improvised – BioPills in a nutshell</b>. In the event: <i>How to simplify science without inaccuracies</i>. <i>Institute for Research in Biomedicine (IRB) Barcelona</i>. Online. Jun 15, 2021.</li>
   <li>Licari G, Chignoli D, Bencardino D, <ins>Nicolini F</ins> (2021). In the event: <i>Scienze e Social: tra informazione e pericolo.</i>. <i>Vivere Ateneo, Univeristy of Palermo</i>. Online. Apr 20, 2021.</li>
 </ul>
