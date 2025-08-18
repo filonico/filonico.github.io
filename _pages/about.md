@@ -18,7 +18,9 @@ redirect_from:
 </style>
 
 <div style="text-align: center">
-<code><b>evolutionary genomics</b> – <b>phylogenomics</b> – <b>zoology</b> – <b>(newbie) evo-devo</b> – <b>non-model organisms</b> – <b>outreach</b></code>
+<code>⋄ <b>evolutionary genomics</b> ⋄ <b>phylogenomics</b> ⋄ <b>zoology</b> ⋄
+
+⋄ <b>(newbie) evo-devo</b> ⋄ <b>outreach</b> ⋄</code>
 </div>
 
 <hr>

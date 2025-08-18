@@ -348,7 +348,7 @@ redirect_from:
 <h2 id="publications">Publications</h2>
 <hr>
 
-<p>Forni G, Fusco G, <ins>Nicolini F</ins>, Bruce H, Luchetti A (2025). <strong>Loss, persistence and reversal of phenotypic traits<strong>. Under revision.</p>
+<p>Forni G, Fusco G, <ins>Nicolini F</ins>, Bruce H, Luchetti A (2025). <strong>Loss, persistence and reversal of phenotypic traits</strong>. Under revision.</p>
 
 <p>Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D'Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation mechanisms in animals from the Doubly Uniparental Inheritance of bivalves</strong>. <em>Research Square</em>, <em>preprint</em>. Under revision. doi: <a href="https://doi.org/10.21203/rs.3.rs-7120697/v1" target="_blank">10.21203/rs.3.rs-7120697/v1</a></p>
 
