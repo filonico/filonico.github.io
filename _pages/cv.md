@@ -354,7 +354,7 @@ redirect_from:
 
 <p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, Luchetti A. (2025). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. Under revision.
 
-<p><ins>Nicolini F</ins>, Nuzhdin S, Ghiselli F, Luchetti A, & Milani L. (2025). <strong>Comparative genomics of sex determination related genes reveals shared evolutionary patterns between bivalves and mammals, but not <em>Drosophila</em></strong>. <em>bioRχiv</em>, <em>preprint</em>. Under revision. doi: <a herf="https://doi.org/10.1101/2025.01.30.635362" target="_blank">10.1101/2025.01.30.635362</a></p>
+<p><ins>Nicolini F</ins>, Nuzhdin S, Ghiselli F, Luchetti A, & Milani L. (2025). <strong>Comparative genomics of sex determination related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>bioRχiv</em>, <em>preprint</em>. Accepted for publication in <em>Molecular Ecology</em> on 03/08/2025. doi: <a herf="https://doi.org/10.1101/2025.01.30.635362" target="_blank">10.1101/2025.01.30.635362</a></p>
 
 <p>Righetti N*, <ins>Nicolini F</ins>*, Forni G, & Luchetti A. (2025). <strong>Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors</strong>. <em>Palaeoentomology</em>, <em>8</em>(3), 316-328. doi: <a href="https://doi.org/10.11646/palaeoentomology.8.3.8" target="_blank">10.11646/palaeoentomology.8.3.8</a></p>
 
