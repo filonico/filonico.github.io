@@ -141,6 +141,11 @@ Here you can find a series of tools, materials, and creative works I have been d
   Here you can find the pdfs of posters where I was involved. Posters that I personally presented are indicated by a DNA symbol. Click on the titles to see the full posters and download them!
 
   <ul>
+  <li><b><a href="https://drive.google.com/file/d/1Mw-GgFLSQiBVmWdDHEwQmPVRErn66U0x/view?usp=sharing" target="_blank">Il primo anno di Wood Wide Ants: approcci, risultati e prospettive</a> [The first year of Wood Wide Ants: approaches, results and perspectives]</b>.<br />
+    <i>Meeting of the Italian Association for the Study of Social and Presocial Insects (Associazione Italiana per lo Studio degli Artropodi Sociali e Presociali, AISASP)</i>.<br />
+    Bologna, Italy. Sep 3–5, 2025.</li>
+
+
   <li>🧬 <b><a href="https://drive.google.com/file/d/1SJy0M-vR0e_ay5Wl3rROcIdhrwZkd1L7/view?usp=sharing" target="_blank">Visions from the past: elucidating opsin evolution in a non-bilaterian Metazoa lineage</a></b>.<br />
     <i>Jacques Monod Conferences: Origin of metazoans</i>.<br />
     Roscoff, France. Jun 16–20, 2025.</li>
