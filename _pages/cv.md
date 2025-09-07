@@ -407,13 +407,21 @@ redirect_from:
 <hr>
 
 <ul>
+  <li><b>Travel grant to attend the Congress 2024 of the Italian Society for Evolutionary Biology (ISEB/SIBE) in Naples (Italy).</b><br />
+    Issued by Stazione Zoologica Anton Dohrn. Amount: € 250.00.<br />
+    <i>May 28 – 31, 2024</i></li>
+  
   <li><b>Travel grant to attend the EMBO workshop "Establishing state-of-the-art mollusc genomics" in Namur (Belgium).</b><br />
-    EMBO.<br />
+    Issued by EMBO. Amount: € 500.00.<br />
     <i>May 28 – 31, 2024</i></li>
 
-  <li><b>Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.</b><br />
-    Editing Press.<br />
+  <li><b>Marco Polo scholarship to promote the scientific training of young researchers and offer the opportunity to carry out research in an international context.</b><br />
+    Issued by the University of Bologna. Amount: € 4,050.00.<br />
     <i>Apr 13, 2023</i></li>
+
+  <li><b>Laura Bassi scholarship for editorial assistance to postgraduates and junior academics.</b><br />
+    Issued by Editing Press. Amount: $ 500.00.<br />
+    <i>Apr 13, 2023 (Spring edition)</i></li>
 </ul>
 
 <a href="#outlook">↑ Go up ↑</a>
