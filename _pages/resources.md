@@ -222,7 +222,7 @@ Here you can find a series of tools, materials, and creative works I have been d
 
 <div style="text-align: justify">
 
-  The <b>survivorship</b> bias is the tendency to draw conclusions only on the basis of <em>those who survived</em>, while overlooking <em>those who didn't</em>. As one great professor once taught me, this bias is particularly strong in evolutionary biology, and we should always be aware of its existance.
+  The <b>survivorship bias</b> is the tendency to draw conclusions only on the basis of <em>those who survived</em>, while overlooking <em>those who didn't</em>. As one great professor once taught me, this bias is particularly strong in evolutionary biology, and we should always be aware of its existance.
 
   <br />
   <br />
