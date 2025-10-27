@@ -50,6 +50,7 @@ Here you can find a series of tools, materials, and creative works I have been d
     <li>🧪 <a href="#wetlab-protocols"><b>Wet-lab protocols</b></a></li>
     <li>🎨 <a href="#illustrations"><b>Illustration portfolio</b></a></li>
     <li>🖼️ <a href="#posters"><b>Poster collection</b></a></li>
+    <li>💰 <a href="#grants"><b>Grant and funding applications</b></a></li>
   </ul>
 </div>
 
