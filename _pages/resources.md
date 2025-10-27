@@ -235,6 +235,7 @@ Here you can find a series of tools, materials, and creative works I have been d
   Therefore, also inspired by some collegues, I started gathering below all the grant, award, scholarship, and whatever applications I made—no matter their outcome. Maybe this can be helpful and encouraging to others.
   
   <br />
+  <br />
 
   <details>
       <summary><i><small> More</small></i></summary>
@@ -267,7 +268,5 @@ Here you can find a series of tools, materials, and creative works I have been d
       </ul>
     </details>
 </div>
-
-<br />
 
 <a href="#outlook">↑ Go up ↑</a>
