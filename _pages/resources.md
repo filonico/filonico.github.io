@@ -181,6 +181,8 @@ Here you can find a series of tools, materials, and creative works I have been d
 
   Here you can find the pdfs of posters where I was involved in first person. Posters that I personally presented are indicated by a DNA symbol. Click on the titles to see the full posters and download them!
 
+  <br />
+  
   <details>
     <summary><i><small> More</small></i></summary>
     <ul>
@@ -208,6 +210,7 @@ Here you can find a series of tools, materials, and creative works I have been d
     </ul>   
   </details>
 </div>
+
 <br />
 
 <a href="#outlook">↑ Go up ↑</a>
@@ -231,6 +234,8 @@ Here you can find a series of tools, materials, and creative works I have been d
   <br />
 
   Therefore, also inspired by some collegues, I started gathering below all the grant, award, scholarship, and whatever applications I made—no matter their outcome. Maybe this can be helpful and encouraging to others.
+  
+  <br />
 
   <details>
       <summary><i><small> More</small></i></summary>
@@ -263,6 +268,7 @@ Here you can find a series of tools, materials, and creative works I have been d
       </ul>
     </details>
 </div>
+
 <br />
 
 <a href="#outlook">↑ Go up ↑</a>
