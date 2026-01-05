@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae Highlights"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -37,9 +37,9 @@ redirect_from:
   }
 </style>
 
-<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1yn-Narz0juOqNpwUSQ_PrC2dooDpjdvf/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
+<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
-<p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
+<p align="right"><small><em>Last updated: Jan 05, 2026</em></small></p>
 
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
@@ -350,11 +350,11 @@ redirect_from:
 
 <p>Forni G, Fusco G, <ins>Nicolini F</ins>, Bruce H, Luchetti A (2025). <strong>Loss, persistence and reversal of phenotypic traits</strong>. Under revision.</p>
 
-<p>Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D'Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation mechanisms in animals from the Doubly Uniparental Inheritance of bivalves</strong>. <em>Research Square</em>, <em>preprint</em>. Under revision. doi: <a href="https://doi.org/10.21203/rs.3.rs-7120697/v1" target="_blank">10.21203/rs.3.rs-7120697/v1</a></p>
+Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D’Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></p>
 
 <p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, Luchetti A. (2025). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. Under revision.
 
-<p><ins>Nicolini F</ins>, Nuzhdin S, Ghiselli F, Luchetti A, & Milani L. (2025). <strong>Comparative genomics of sex determination related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>bioRχiv</em>, <em>preprint</em>. Accepted for publication in <em>Molecular Ecology</em> on 03/08/2025. doi: <a herf="https://doi.org/10.1101/2025.01.30.635362" target="_blank">10.1101/2025.01.30.635362</a></p>
+<p><ins>Nicolini F</ins>, Nuzhdin SV, Ghiselli F, Luchetti A, & Milani L (2025). <strong>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></p>
 
 <p>Righetti N*, <ins>Nicolini F</ins>*, Forni G, & Luchetti A. (2025). <strong>Towards a time-tree solution for Branchiopoda diversification: a jackknife assessment of fossil age priors</strong>. <em>Palaeoentomology</em>, <em>8</em>(3), 316-328. doi: <a href="https://doi.org/10.11646/palaeoentomology.8.3.8" target="_blank">10.11646/palaeoentomology.8.3.8</a></p>
 
