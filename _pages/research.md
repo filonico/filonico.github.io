@@ -11,6 +11,10 @@ author_profile: true
   .page__content li {
     text-align: justify;
     hyphens: auto;
+    
+  }
+  .page__content h3 {
+  text-transform: small-caps;
   }
 
   .last-updated {
