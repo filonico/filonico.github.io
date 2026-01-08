@@ -88,7 +88,7 @@ author_profile: true
   bioinformatics.
 </p>
 
-[![bash github tutorial](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)](https://github.com/filonico/UNIX_and_bash_basics)
+[![bash github tutorial](https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)](https://github.com/filonico/UNIX_and_bash_basics)
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
@@ -114,7 +114,7 @@ author_profile: true
   phylogenetic tree using a partitioned analysis.
 </p>
 
-[![phySCO](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
+[![phySCO](https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
@@ -142,7 +142,7 @@ author_profile: true
   anyone can use them and browse previous versions.
 </p>
 
-[![Wet-lab protocols](https://github-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent)](https://github.com/filonico/wetlab_protocols)
+[![Wet-lab protocols](https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent)](https://github.com/filonico/wetlab_protocols)
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
