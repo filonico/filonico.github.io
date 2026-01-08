@@ -14,7 +14,7 @@ author_profile: true
     
   }
   .page__content h3 {
-  text-transform: small-caps;
+    text-transform: uppercase;
   }
 
   .last-updated {
