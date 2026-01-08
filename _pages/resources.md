@@ -49,7 +49,7 @@ author_profile: true
 </style>
 
 <p class="last-updated">
-  <small><em>Last updated: Oct 27, 2025</em></small>
+  <small><em>Last updated: Jan 08, 2026</em></small>
 </p>
 
 <p>
