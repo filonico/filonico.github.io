@@ -123,11 +123,13 @@ author_profile: true
 
 <h3>Main collaborators</h3>
 
-Prof. <b>Liliana Milani</b> (University of Bologna); prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Sergey V Nuzhdin</b> (University of Southern California); and <b>Erico D'Aniello</b> (researcher; Stazione Zoologica Anton Dohrn).
+<ul>
+  <li> Prof. <b>Liliana Milani</b> (University of Bologna); prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Sergey V Nuzhdin</b> (University of Southern California); and <b>Erico D'Aniello</b> (researcher; Stazione Zoologica Anton Dohrn).</li>
 
-<b>Mariangela Iannello</b> (former postdoc; University of Bologna) and <b>Giovanni Piccinini</b> (former postdoc; University of Bologna).
+  <li><b>Mariangela Iannello</b> (former postdoc; University of Bologna) and <b>Giovanni Piccinini</b> (former postdoc; University of Bologna).</li>
 
-<b>Federica Salatiello</b> (PhD student; Stazione Zoologica Anton Dohrn).
+  <li><b>Federica Salatiello</b> (PhD student; Stazione Zoologica Anton Dohrn).</li>
+<ul>
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
@@ -161,10 +163,12 @@ Prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Andrea Luchetti
 
 <h3>Main collaborators</h3>
 
-Prof. <b>Andrea Luchetti</b> (University of Bologna).
+<ul>
+  <li>Prof. <b>Andrea Luchetti</b> (University of Bologna).</li>
 
-<b>Giobbe Forni</b> (postdoc; University of Bologna) and <b>Jacopo Martelossi</b> (postdoc; University of Ferrara).
+  <li><b>Giobbe Forni</b> (postdoc; University of Bologna) and <b>Jacopo Martelossi</b> (postdoc; University of Ferrara).</li>
 
-<b>Niccolò Righetti</b> (PhD student; Institut de Biologie de l'École Normale Supérieure).
+  <li><b>Niccolò Righetti</b> (PhD student; Institut de Biologie de l'École Normale Supérieure).</li>
+</ul>
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
