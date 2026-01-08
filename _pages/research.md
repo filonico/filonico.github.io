@@ -10,11 +10,7 @@ author_profile: true
   .page__content p,
   .page__content li {
     text-align: justify;
-    hyphens: auto;
-    
-  }
-  .page__content h3 {
-    text-transform: uppercase;
+    hyphens: auto; 
   }
 
   .last-updated {
@@ -88,7 +84,7 @@ author_profile: true
   In this research line, I am leveraging the latest advancements in <b>single-cell RNA-sequecing</b>, <b>comparative genomics</b>, and <b>fluorescent microscopy</b> to tackle these open questions.
 </p>
 
-<h3>Main collaborators</h3>
+<h3>MAIN COLLABORATORS</h3>
 
 Prof. <b>Roberto Feuda</b> (University of Bologna; University of Leicester) and prof. <b>Davide Pisani</b> (University of Bristol).
 
