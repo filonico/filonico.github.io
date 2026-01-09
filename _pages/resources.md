@@ -205,8 +205,27 @@ author_profile: true
 <details>
   <summary><i><small>More</small></i></summary>
   <ul>
-    <li>🧬 <b>Visions from the past: elucidating opsin evolution in a non-bilaterian Metazoa lineage</b>. Roscoff, 2025.</li>
-    <li>🧬 <b>How to detect sex-determining genes through molecular evolution</b>. Naples, 2024.</li>
+    <li>
+    <b><a href="https://drive.google.com/file/d/1Mw-GgFLSQiBVmWdDHEwQmPVRErn66U0x/view?usp=sharing" target="_blank">Il primo anno di Wood Wide Ants: approcci, risultati e prospettive</a> [The first year of Wood Wide Ants: approaches, results and perspectives]</b>.<br /> <i>Associazione Italiana per lo Studio degli Artropodi Sociali e Presociali [Meeting of the Italian Association for the Study of Social and Presocial Insects] (AISASP)</i>.<br /> Bologna, Italy. Sep 3–5, 2025.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1SJy0M-vR0e_ay5Wl3rROcIdhrwZkd1L7/view?usp=sharing" target="_blank">Visions from the past: elucidating opsin evolution in a non-bilaterian Metazoa lineage</a></b>.<br /> <i>Jacques Monod Conferences: Origin of metazoans</i>.<br /> Roscoff, France. Jun 16–20, 2025.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>.<br /> <i>Evoluzione 2024</i>.<br /> Naples, Italy. Sep 9–11, 2024.
+    </li>
+    <li>
+    <b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>.<br /> <i>SMBE 2023</i>.<br /> Ferrara, Italy. Jul 23–27, 2023.
+    </li>
+    <li>
+    <b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>.<br /> <i>SMBE 2023</i>.<br /> Ferrara, Italy. Jul 23–27, 2023.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>.<br /> <i>Evoluzione 2022</i>.<br /> Ancona, Italy. Sep 4–7, 2022.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>.<br /> <i>EuroEvoDevo 2022</i>.<br /> Naples, Italy. May 31–Jun 3, 2022.
+    </li>
   </ul>
 </details>
 
@@ -218,26 +237,35 @@ author_profile: true
 <hr>
 
 <p>
-  Survivorship bias is the tendency to draw conclusions only from those who
-  succeeded, while overlooking those who did not.
+The <b>survivorship bias</b> is the tendency to draw conclusions only on the basis of <em>those who survived</em>, while overlooking <em>those who didn't</em>. As one great professor once taught me, this bias is particularly strong in evolutionary biology, and we should always be aware of its existance.
 </p>
 
 <p>
-  Academic careers are no exception. Behind every successful researcher,
-  there are grant applications and experiments that failed.
+But the survivorship bias is more widespread than we think, and <b>academic careers are no exception</b>. Behind successfull researchers and research lines, there are always (always) grant applications and experiments that didn't succeed.
 </p>
 
 <p>
-  Inspired by this idea, I started gathering all my applications below,
-  regardless of their outcome. I hope this may be helpful to others.
+Therefore, also inspired by some collegues, I started gathering below all the grant, award, scholarship, and whatever applications I made—no matter their outcome. Maybe this can be helpful and encouraging to others.
 </p>
 
 <details>
   <summary><i><small>More</small></i></summary>
   <ul>
-    <li><b>Rosemary Grant Advanced Award</b> (SSE, 2023) — Unsuccessful 🔴</li>
-    <li><b>Marco Polo Mobility Programme</b> (University of Bologna, 2023) — Successful 🟢</li>
-    <li><b>R. C. Lewontin Early Award</b> (SSE, 2023) — Unsuccessful 🔴</li>
+    <li>
+    <a href="http://evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants/rosemary-grant-advanced-award.html" target="_blank"><b>Rosemary Grant Advanced Award</b></a>.<br /> <i>Society for the Study of Evolution (SSE)</i>. 2023.<br /> Outcome: <b>Unsuccessful</b> 🔴<br /> <a href="https://drive.google.com/file/d/1c_Ki1l_-e2ClXehcMfs9LYaoLKQOUn27/view?usp=sharing" target="_blank">Link to the application</a>.
+    </li>
+    <li>
+    <b>Marco Polo Mobility Programme</b>.<br /> <i>University of Bologna</i>. 2023.<br /> Outcome: <b>Successful</b> 🟢<br /> <a href="https://drive.google.com/file/d/1aqfvqcr78Rt0WJ7odpXxBKf0-K3YsCLI/view?usp=sharing" target="_blank">Link to the application</a>.
+    </li>
+    <li>
+    <a href="https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants/rc-lewontin-early-award.html" target="_blank"><b>R. C. Lewontin Early Award</b></a>.<br /> <i>Society for the Study of Evolution (SSE)</i>. 2023.<br /> Outcome: <b>Unsuccessful</b> 🔴<br /> <a href="https://drive.google.com/file/d/11_a8cWpNMmwWIX1MBjNn5MgGkHE3O6N_/view?usp=sharing" target="_blank">Link to the application</a>.
+    </li>
+    <li>
+    <a href="https://systass.org/linnesys" target="_blank"><b>LinneSys: Systematics Research Fund</b></a>.<br /> <i>The Systematics Association</i>. 2023.<br /> Outcome: <b>Unsuccessful</b> 🔴<br /> <a href="https://drive.google.com/file/d/1TxDKSesx8Im7cUFvJKcWqN_wf0qudwPN/view?usp=sharing" target="_blank">Link to the application</a>.
+    </li>
+    <li>
+    <a href="https://editing.press/bassi" target="_blank"><b>Laura Bassi scolarship for Editorial Assistance</b></a>.<br /> <i>Editing Press</i>. Spring 2023 edition.<br /> Outcome: <b>Successful</b> 🟢<br /> <a href="https://drive.google.com/file/d/19OpZZFrqBNzgeYqR9qROQzv8BbkByMsb/view?usp=sharing" target="_blank">Link to the application</a>.
+    </li>
   </ul>
 </details>
 
