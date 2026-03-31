@@ -352,7 +352,7 @@ redirect_from:
 
 <p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, & Luchetti, A. (2026). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. <em>Biology Letters</em>, <em>22</em>(3), 20250130. doi: <a href="https://doi.org/10.1098/rsbl.2025.0130" target="_blank">10.1098/rsbl.2025.0130</a></p>
 
-Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D’Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></p>
+<p>Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D’Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></p>
 
 <p><ins>Nicolini F</ins>, Nuzhdin SV, Ghiselli F, Luchetti A, & Milani L (2025). <strong>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></p>
 
