@@ -29,8 +29,8 @@ redirect_from:
 
 <div class="intro-tags">
   <code>
-    ⋄ <b>evolutionary genomics</b> ⋄ <b>phylogenomics</b> ⋄ <b>zoology</b> ⋄<br>
-    ⋄ <b>(newbie) evo-devo</b> ⋄ <b>outreach</b> ⋄
+    <b>evolutionary genomics</b> ⬩ <b>phylogenomics</b> ⬩ <b>single-cell transcriptomics</b><br>
+    <b>zoology</b> ⬩ <b>(newbie) evo-devo</b> ⬩ <b>outreach</b>
   </code>
 </div>
 
