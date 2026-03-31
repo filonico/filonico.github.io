@@ -350,7 +350,7 @@ redirect_from:
 
 <p>Forni G, Fusco G, <ins>Nicolini F</ins>, Bruce H, & Luchetti A (2026). <strong>Loss, persistence and reversal of phenotypic traits</strong>. <em>Biological Reviews</em>. doi: <a href="https://doi.org/10.1002/brv.70168" target="_blank">10.1002/brv.70168</a></p>
 
-<p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, & Luchetti, A. (2026). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology<strong>. <em>Biology Letters</em>, <em>22</em>(3), 20250130. doi: <a href="https://doi.org/10.1098/rsbl.2025.0130" target="_blank">10.1098/rsbl.2025.0130</a></p>
+<p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, & Luchetti, A. (2026). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. <em>Biology Letters</em>, <em>22</em>(3), 20250130. doi: <a href="https://doi.org/10.1098/rsbl.2025.0130" target="_blank">10.1098/rsbl.2025.0130</a></p>
 
 Iannello M, Piccinini G, Salatiello F, Forni G, <ins>Nicolini F</ins>, Valdrè U, Martini M, Martelossi J, Ghiselli F, D’Aniello E, & Milani L. (2025). <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></p>
 
