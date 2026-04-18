@@ -107,7 +107,7 @@ redirect_from:
 <h2 id="outreach">Outreach activity</h2>
 <hr>
 
-<p><small><em>For a more detailed description of my outreach activity, have a look at the <a href="/outreach/">Outreach</a> section in this website.</em></small></p>
+<p><small><em>For a more detailed description of my outreach activity, have a look at the <a href="/outreach/">Outreach</a> section of this website.</em></small></p>
 
 <ul>
   <li><strong>Editor and web writer</strong><br>BioPills. Jul 2017 – ongoing</li>

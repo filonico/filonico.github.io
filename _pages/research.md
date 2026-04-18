@@ -139,13 +139,26 @@ author_profile: true
 <hr>
 
 <p>
-  Under construction 👷
+  <i>Formica paralugubris</i> is a red wood ant native to the Italian Alps and belonging to the "rufa" group. During the Fifties, many nests were transplanted throughout the Italian Appennines, in Germany and even in Canada, by the entomologist Mario Pavan. He was trying to use this species as an agent of biological control towards the pine processionary, a pest of conifer woods. Althought many of the transplanted nest didn't survive, some are still thriving in today's Italian forests.
 </p>
+
+<p><em>
+  How has the genome of this species responded to the transplants, from a population genomics point of view? Is there a genetic basis of the survivor success of different nests? What are the genomic characteristics of ants of the "rufa" gorup?
+</em></p>
+
+<p><em>
+  Thanks to a wide collaboration involving many Italian universities, as well as European fundings secured from <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">ERGA</a>/<a href="https://biodiversitygenomics.eu/2025/02/03/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubris/" target="_blank">BGE</a>, we are now producing a high-quality reference genome for <i>Formica paralugubris</i> to use in comparative and population genomics studies.
+</em></p>
+
+<p><em>
+  To find out more about this research project, visit the <a href="/outreach/">Outreach</a> section of this website, or the <a href="https://sites.google.com/view/woodwideants-en" target="_blank">dedicated</a> website.
+</em></p>
+
 
 <h3>Main collaborators</h3>
 
 <ul>
-  <li>Prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Andrea Luchetti</b> (University of Bologna); prof. <b>Lino Ometto</b> (University of Pavia); and prof. <b>Liliana Milani</b> (University of Bologna).</li>
+  <li>Prof. <b>Fabrizio Ghiselli</b> (University of Bologna); Enrico Strada; prof. <b>Andrea Luchetti</b> (University of Bologna); prof. <b>Lino Ometto</b> (University of Pavia); and prof. <b>Liliana Milani</b> (University of Bologna).</li>
 
   <li><b>Giobbe Forni</b> (postdoc; University of Bologna);  <b>Jacopo Martelossi</b> (postdoc; University of Ferrara); and Alberto Masoni (postdoc; University of Florence).</li>
 
