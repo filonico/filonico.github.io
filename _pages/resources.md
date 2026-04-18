@@ -173,7 +173,7 @@ author_profile: true
 <hr>
 
 <p>
-  Here you can find PDFs of posters I was involved in. Posters that I
+  Here you can find a selection of posters I was involved in. Posters that I
   personally presented are indicated by a DNA symbol.
 </p>
 
@@ -226,6 +226,9 @@ Therefore, also inspired by some collegues, I started gathering below all the gr
 <details>
   <summary><i><small>More</small></i></summary>
   <ul>
+    <li>
+    </li>
+    <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-postdoctoral-fellowships-2025" target="_blank"><b>Marie Skłodowska-Curie Actions Postdoctoral Fellowships</b></a>.<br /> <i>European Commission</i>. 2023.<br /> Outcome: <b>Unsuccessful, but got the Seal of Excellence (score: 95.60%; cut-off: ~96.4%)</b> 🔴<br />
     <li>
     <a href="http://evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants/rosemary-grant-advanced-award.html" target="_blank"><b>Rosemary Grant Advanced Award</b></a>.<br /> <i>Society for the Study of Evolution (SSE)</i>. 2023.<br /> Outcome: <b>Unsuccessful</b> 🔴<br /> <a href="https://drive.google.com/file/d/1c_Ki1l_-e2ClXehcMfs9LYaoLKQOUn27/view?usp=sharing" target="_blank">Link to the application</a>.
     </li>
