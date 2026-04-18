@@ -69,7 +69,7 @@ author_profile: true
     <li>✨ <a href="#phototransduction"><b>Evolution of phototransduction in early animals</b></a></li>
     <li>🦪 <a href="#sex-det"><b>Sex determination and germline biology of bivalves</b></a></li>
     <li>🐜 <a href="#paralugubris"><b>Comparative and population genomics of red wood ants</b></a></li>
-    <li>🧬 <a href="#molecule-morphology"><b>Molecular and morphological evolution</b></a></li>    
+    <li>🧬 <a href="#molecular-evolution"><b>Molecular evolution</b></a></li>    
   </ul>
 </div>
 
@@ -177,7 +177,7 @@ author_profile: true
 
 <!-------------------------------------------------------------------------------------->
 
-<h2 id="molecule-morphology">Molecular evolution</h2>
+<h2 id="molecular-evolution">Molecular evolution</h2>
 <hr>
 
 <p>
