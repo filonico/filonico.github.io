@@ -152,7 +152,7 @@ author_profile: true
 <hr>
 
 <p>
-  In my free time I like drawing, and sometimes I try to merge this hobby
+  In my free time I like drawing, and sometimes I try to combine this hobby
   with my research work to create illustrations for papers and other
   publications.
 </p>
@@ -161,34 +161,9 @@ author_profile: true
   Feel free to get in touch if you may need something of this kind.
 </p>
 
-<ul>
-  <li>
-    <b>Animal icons</b>. Used to decorate phylogenetic trees, plots, and
-    other figures—mostly focused on branchiopods and bivalves.
-  </li>
-</ul>
-
-![animal silhouettes](/images/silhouettes_animals.png)
-
-<ul>
-  <li>
-    <b>Sex determination</b>. Illustrations for presentations about the
-    confusing sex determination of bivalves.
-  </li>
-</ul>
-
-![sex determination](/images/sexDet_coverImage.png)
-
-<ul>
-  <li>
-    <b>Insect developmental biology</b>. Illustrations used in the chapter
-    “Hexapods: reproductive biology and life cycles” in
-    <i>Systematics and evolution of hexapods</i>, Liguori Editori (2023).
-    All rights reserved.
-  </li>
-</ul>
-
-![insect development](/images/insect_development.png)
+<p align="center"><a href="https://docs.google.com/presentation/d/10jWRxA5i189pQ5-zf_g5xSyUYFRg4Ccoej9m-B9KorM/edit?usp=sharing" target="_blank">
+  <img src="/images/portfolio_cover.png" alt="cover portfolio" width="800">
+</a></p>
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
