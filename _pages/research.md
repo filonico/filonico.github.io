@@ -166,7 +166,7 @@ author_profile: true
 <h3>Main collaborators</h3>
 
 <ul>
-  <li>Prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Andrea Luchetti</b> (University of Bologna); prof. <b>Lino Ometto</b> (University of Pavia); prof. Giacomo Santini (University of Firenze); and prof. <b>Liliana Milani</b> (University of Bologna).</li>
+  <li>Prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Andrea Luchetti</b> (University of Bologna); prof. <b>Lino Ometto</b> (University of Pavia); prof. <b>Giacomo Santini</b> (University of Firenze); and prof. <b>Liliana Milani</b> (University of Bologna).</li>
 
   <li><b>Giobbe Forni</b> (postdoc; University of Bologna);  <b>Jacopo Martelossi</b> (postdoc; University of Ferrara); and Alberto Masoni (postdoc; University of Florence).</li>
 
@@ -207,11 +207,10 @@ author_profile: true
 <h3>Main collaborators</h3>
 
 <ul>
-  <li>Prof. <b>Andrea Luchetti</b> (University of Bologna).</li>
+  <li>Prof. <b>Andrea Luchetti</b> (University of Bologna); prof. <b>Fabrizio Ghiselli</b> (University of Bologna); prof. <b>Liliana Milani</b> (University of Bologna).</li>
 
-  <li><b>Giobbe Forni</b> (postdoc; University of Bologna) and <b>Jacopo Martelossi</b> (postdoc; University of Ferrara).</li>
+  <li><b>Giobbe Forni</b> (postdoc; University of Bologna); <b>Jacopo Martelossi</b> (postdoc; University of Ferrara); <b>Mariangela Iannello</b> (former postdoc; University of Bologna); and <b>Giovanni Piccinini</b> (former postdoc; University of Bologna).</li>
 
-  <li><b>Niccolò Righetti</b> (PhD student; Institut de Biologie de l'École Normale Supérieure).</li>
 </ul>
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
