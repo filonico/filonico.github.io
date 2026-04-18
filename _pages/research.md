@@ -119,7 +119,15 @@ author_profile: true
   Thanks to <b>broad scale comparative genomics studies</b>, <b>bulk and single-cell RNA-sequencing</b>, and <b>hybridization chain reaction (HCR) in bivalve embryos</b>, I am investigating the potential role of key genes in processes such as sex determination and germline specification in bivalves, with a special focus on the Mediterranean mussel (<em>Mytilus galloprovincialis</em>).
 </p>
 
-<!-- <h3>Selected papers</h3> -->
+<h3>Selected papers</h3>
+<ul>
+  <li>Nicolini F, et al. (2025). <strong>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></li>
+
+  <li>Iannello M, et al. (2025). <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></li>
+
+  <li>Nicolini F, et al. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></li>
+</ul>
+
 
 <h3>Main collaborators</h3>
 
@@ -139,20 +147,20 @@ author_profile: true
 <hr>
 
 <p>
-  <i>Formica paralugubris</i> is a red wood ant native to the Italian Alps and belonging to the "rufa" group. During the Fifties, many nests were transplanted throughout the Italian Appennines, in Germany and even in Canada, by the entomologist Mario Pavan. He was trying to use this species as an agent of biological control towards the pine processionary, a pest of conifer woods. Althought many of the transplanted nest didn't survive, some are still thriving in today's Italian forests.
+  <i><b>Formica paralugubris</b></i> is a red wood ant native to the Italian Alps and belonging to the "rufa" group. During the Fifties, <b>many of its nests were transplanted</b> throughout the Italian Appennines, in Germany and even in Canada, by the <b>entomologist Mario Pavan</b>. He was trying to use this species as an agent of biological control towards the pine processionary, a pest of conifer woods. Althought many of the transplanted nest didn't survive, <b>some are still thriving in today's Italian forests</b>.
 </p>
 
 <p><em>
   How has the genome of this species responded to the transplants, from a population genomics point of view? Is there a genetic basis of the survivor success of different nests? What are the genomic characteristics of ants of the "rufa" gorup?
 </em></p>
 
-<p><em>
-  Thanks to a wide collaboration involving many Italian universities, as well as European fundings secured from <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">ERGA</a>/<a href="https://biodiversitygenomics.eu/2025/02/03/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubris/" target="_blank">BGE</a>, we are now producing a high-quality reference genome for <i>Formica paralugubris</i> to use in comparative and population genomics studies.
-</em></p>
+<p>
+  Thanks to a wide collaboration involving many Italian universities, as well as European fundings secured from <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">ERGA</a>/<a href="https://biodiversitygenomics.eu/2025/02/03/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubris/" target="_blank">BGE</a>, <b>we are now producing a high-quality reference genome for <i>Formica paralugubris</i></b> to use in comparative and population genomics studies.
+</p>
 
-<p><em>
+<p>
   To find out more about this research project, visit the <a href="/outreach/">Outreach</a> section of this website, or the <a href="https://sites.google.com/view/woodwideants-en" target="_blank">dedicated</a> website.
-</em></p>
+</p>
 
 
 <h3>Main collaborators</h3>
