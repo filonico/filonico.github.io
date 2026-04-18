@@ -181,7 +181,7 @@ author_profile: true
 <hr>
 
 <p>
-  Different portions of the genome evolve at different rates: this represents one of the fundamental concepts of modern biology and is at the core of molecular evolutionary theory. Understading the drivers of such difference is thus pivotal to harness the tools of comparative genomics, phylogenomics, and population genetics. Accordingly, well-curated and standardized sets of molecular resources are essential to aid reproducible and sharable research.
+  <b>Different portions of the genome evolve at different rates</b>: this is one of the fundamental concepts of modern biology and is at the core of molecular evolutionary theory. Understading <b>the drivers of such difference</b> is thus pivotal to harness the tools of comparative genomics, phylogenomics, and population genetics. Accordingly, well-curated and standardized datasets of <b>molecular resources</b> are essential to aid reproducible and accessible research.
 </p>
 
 <p><em>
