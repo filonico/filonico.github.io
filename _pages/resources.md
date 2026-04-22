@@ -124,7 +124,7 @@ author_profile: true
 <hr>
 
 <p>
-  Researchers always complain—rightly—that bioinformatic code is not always
+  Researchers always complain—rightly—that bioinformatic codes are not often
   shared and that analyses are rarely fully reproducible.
 </p>
 
