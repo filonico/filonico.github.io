@@ -39,7 +39,7 @@ redirect_from:
 
 <p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
-<p align="right"><small><em>Last updated: Jan 05, 2026</em></small></p>
+<p align="right"><small><em>Last updated: Apr 22, 2026</em></small></p>
 
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
