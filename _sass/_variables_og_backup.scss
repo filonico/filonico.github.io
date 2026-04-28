@@ -55,37 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #6b7280;   // cooler, less muddy gray
-$dark-gray                  : #1f2933;   // main text (was too washed out before)
-$darker-gray                : #111827;
-$light-gray                 : #e5e7eb;
-$lighter-gray               : #f3f4f6;
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-/* base */
-$background-color           : #f8fafc;   // subtle cool background (NOT pure white)
-$body-color                 : #ffffff;   // content stays white
-$code-background-color      : #f1f5f9;
-$code-background-color-dark : #e5e7eb;
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : #e5e7eb;
+$border-color               : $lighter-gray;
 
-/* primary accents */
-$primary-color              : #0f766e;   // deep teal (main identity)
-$info-color                 : #0ea5a4;   // brighter teal (links)
-
-/* feedback colors (slightly modernized) */
-$success-color              : #22c55e;
-$warning-color              : #f59e0b;
-$danger-color               : #ef4444;
-
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : #0f766e;   // deepen on hover
-$link-color-visited         : #0c7c7a;
-
-/* masthead */
-$masthead-link-color        : #374151;
-$masthead-link-color-hover  : #0f766e;
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #2f7f93;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -112,6 +99,14 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+
+
+/* links */
+$link-color                 : $info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
 /*
