@@ -17,23 +17,6 @@ author_profile: true
     text-align: right;
   }
 
-  /* ---------- Details / summary ---------- */
-  summary {
-    display: block;
-    cursor: pointer;
-  }
-
-  summary::before {
-    margin-left: 1ch;
-    display: inline-block;
-    content: '+';
-    transition: transform 0.2s ease;
-  }
-
-  details[open] > summary::before {
-    transform: rotate(45deg);
-  }
-
   /* ---------- Outlook list ---------- */
   #outlook-section ul {
     list-style: none;
