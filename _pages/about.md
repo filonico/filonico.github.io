@@ -14,11 +14,15 @@ redirect_from:
     hyphens: auto;
   }
 
+  code {
+    color: red;
+    }
+
   /* ---------- Separators ---------- */
   hr {
     border: none;
     height: 2px;
-    background-color: #b9babd;
+    /*background-color: #b9babd;*/
   }
 
   /* ---------- Centered intro ---------- */

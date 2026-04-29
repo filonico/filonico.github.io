@@ -66,10 +66,10 @@ author_profile: true
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
   <ul>
-    <li>✨ <a href="#phototransduction"><b>Evolution of phototransduction in early animals</b></a></li>
-    <li>🦪 <a href="#sex-det"><b>Sex determination and germline biology of bivalves</b></a></li>
-    <li>🐜 <a href="#paralugubris"><b>Comparative and population genomics of red wood ants</b></a></li>
-    <li>🧬 <a href="#molecular-evolution"><b>Molecular evolution</b></a></li>    
+    <li>✨ <a href="#phototransduction">Evolution of phototransduction in early animals</a></li>
+    <li>🦪 <a href="#sex-det">Sex determination and germline biology of bivalves</a></li>
+    <li>🐜 <a href="#paralugubris">Comparative and population genomics of red wood ants</a></li>
+    <li>🧬 <a href="#molecular-evolution">Molecular evolution</a></li>    
   </ul>
 </div>
 
