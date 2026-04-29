@@ -13,12 +13,6 @@ author_profile: true
     hyphens: auto; 
   }
 
-  /* ---------- Outlook list ---------- */
-  #outlook-section ul {
-    list-style: none;
-    padding-left: 0;
-  }
-
   /* ---------- General lists ---------- */
   ul
   {

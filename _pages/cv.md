@@ -14,11 +14,6 @@ redirect_from:
     text-align: justify;
     hyphens: auto; 
   }
-
-
-  #outlook-section ul {
-    list-style-type: none !important;
-  }
 </style>
 
 <p class="last-updated">
