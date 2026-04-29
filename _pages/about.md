@@ -18,13 +18,6 @@ redirect_from:
     color: red;
     }
 
-  /* ---------- Separators ---------- */
-  hr {
-    border: none;
-    height: 2px;
-    /*background-color: #b9babd;*/
-  }
-
   /* ---------- Centered intro ---------- */
   .intro-tags {
     text-align: center;
