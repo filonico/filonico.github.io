@@ -14,10 +14,6 @@ redirect_from:
     hyphens: auto;
   }
 
-  code {
-    color: red;
-    }
-
   /* ---------- Centered intro ---------- */
   .intro-tags {
     text-align: center;
