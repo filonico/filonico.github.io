@@ -24,14 +24,6 @@ redirect_from:
     transform: rotate(45deg);
   }
 
-  hr {
-    border: none;
-    height: 2px;
-    /* Set the hr color */
-    color: #b9babd;  /* old IE */
-    background-color: #b9babd;  /* Modern Browsers */
-  }
-
   #outlook-section ul {
     list-style-type: none !important;
   }

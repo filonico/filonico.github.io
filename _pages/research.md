@@ -34,13 +34,6 @@ author_profile: true
     transform: rotate(45deg);
   }
 
-  /* ---------- Separators ---------- */
-  hr {
-    border: none;
-    height: 2px;
-    background-color: #b9babd;
-  }
-
   /* ---------- Outlook list ---------- */
   #outlook-section ul {
     list-style: none;

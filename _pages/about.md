@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 <style>
-  /* ---------- Typography ---------- */
-  .page__content p {
-    text-align: justify;
-    hyphens: auto;
-  }
-
   /* ---------- Centered intro ---------- */
   .intro-tags {
     text-align: center;
