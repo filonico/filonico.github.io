@@ -340,3 +340,10 @@ summary::before {
 details[open] > summary::before {
   transform: rotate(45deg);
 }
+
+
+.last-updated {
+  text-align: right;
+  font-size: 0.8em;
+  font-style: italic;
+}
