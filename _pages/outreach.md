@@ -10,6 +10,17 @@ author_profile: true
     display: block;
   }
 
+    /* ---------- Typography ---------- */
+  .page__content p,
+  .page__content li {
+    text-align: justify;
+    hyphens: auto; 
+  }
+
+  .last-updated {
+    text-align: right;
+  }
+
   /* Create a new custom triangle on the right side */
   summary::before {
     margin-left: 1ch;
@@ -30,7 +41,9 @@ author_profile: true
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
 
-<p align="right"><small><em>Last updated: Aug 12, 2025</em></small></p>
+<p class="last-updated">
+  <small><em>Last updated: Aug 22, 2025</em></small>
+</p>
 
 <div style="text-align: justify">
   While I'm not a very chatty person in my everyday life, one of the activity that I prefer the most is <b>reaching out to people</b> and talk about evolution and biology. The expression on someone's face when they are truly enjoying (and understanding) science is priceless, and never fails to move me.

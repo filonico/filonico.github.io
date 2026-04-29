@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 <style>
+    /* ---------- Typography ---------- */
+  .page__content p,
+  .page__content li {
+    text-align: justify;
+    hyphens: auto; 
+  }
+
+  .last-updated {
+    text-align: right;
+  }
+
   summary {
     display: block;
   }
@@ -31,7 +42,9 @@ redirect_from:
 
 <p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
-<p align="right"><small><em>Last updated: Apr 22, 2026</em></small></p>
+<p class="last-updated">
+  <small><em>Last updated: Apr 22, 2026</em></small>
+</p>
 
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
