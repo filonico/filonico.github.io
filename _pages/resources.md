@@ -61,12 +61,12 @@ author_profile: true
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
   <ul>
-    <li>🖥️ <a href="#github-bioinformatics"><b>Introduction to bioinformatics</b></a></li>
-    <li>🌳 <a href="#physco"><b>phySCO: phylogenomics from Single-Copy Orthologs</b></a></li>
-    <li>🧪 <a href="#wetlab-protocols"><b>Wet-lab protocols</b></a></li>
-    <li>🎨 <a href="#illustrations"><b>Illustration portfolio</b></a></li>
-    <li>🖼️ <a href="#posters"><b>Poster collection</b></a></li>
-    <li>💰 <a href="#grants"><b>Grant and funding applications</b></a></li>
+    <li>🖥️ <a href="#github-bioinformatics">Introduction to bioinformatics</a></li>
+    <li>🌳 <a href="#physco">phySCO: phylogenomics from Single-Copy Orthologs</a></li>
+    <li>🧪 <a href="#wetlab-protocols">Wet-lab protocols</a></li>
+    <li>🎨 <a href="#illustrations">Illustration portfolio</a></li>
+    <li>🖼️ <a href="#posters">Poster collection</a></li>
+    <li>💰 <a href="#grants">Grant and funding applications</a></li>
   </ul>
 </div>
 
