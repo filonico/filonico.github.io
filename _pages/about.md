@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  /* ---------- Centered intro ---------- */
-  .intro-tags {
-    text-align: center;
-  }
-</style>
 
 <div class="intro-tags">
   <code>

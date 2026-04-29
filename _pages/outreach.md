@@ -33,13 +33,7 @@ author_profile: true
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
   <ul>
-    <li>💚 <a href="#biopills">BioPills</a>
-      <ul>
-        <li><a href="#web-articles">Web articles</a></li>
-        <li><a href="#webinars">Webinars</a></li>
-        <li><a href="#web-articles">Other activities</a></li>
-      </ul>
-    </li>
+    <li>💚 <a href="#biopills">BioPills</a></li>
     <li>🐜 <a href="#wwa">WWA: Wood Wide Ants</a></li>
   </ul>
 </div>

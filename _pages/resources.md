@@ -14,10 +14,7 @@ author_profile: true
   }
 
   /* ---------- Outlook list ---------- */
-  #outlook-section ul {
-    list-style: none;
-    padding-left: 0;
-  }
+
 </style>
 
 <p class="last-updated">

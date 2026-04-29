@@ -29,13 +29,7 @@ redirect_from:
     <li>🎓 <a href="#education">Education</a></li>
     <li>📰 <a href="#outreach">Outreach activity</a></li>
     <li>🏫 <a href="#teaching">Teaching activity</a></li>
-    <li>🧮 <a href="#professional-skills">Professional skills</a>
-      <ul>
-        <li><a href="#bioinformatics">Bioinformatics</a></li>
-        <li><a href="#bioinformatics">Wet-lab</a></li>
-        <li><a href="#bioinformatics">Others</a></li>
-      </ul>
-    </li>
+    <li>🧮 <a href="#professional-skills">Professional skills</a></li>
     <li>📜 <a href="#courses">Courses and workshops</a></li>
     <li>📚 <a href="#publications">Publications</a></li>
     <li>🗨️ <a href="#oral-presentations">Oral presentations at congresses</a></li>
