@@ -6,16 +6,12 @@ author_profile: true
 ---
 
 <style>
-  
+
     /* ---------- Typography ---------- */
   .page__content p,
   .page__content li {
     text-align: justify;
     hyphens: auto; 
-  }
-
-  .last-updated {
-    text-align: right;
   }
 
   #outlook-section ul {
@@ -27,7 +23,7 @@ author_profile: true
 <!-------------------------------------------------------------------------------------->
 
 <p class="last-updated">
-  <small><em>Last updated: Aug 22, 2025</em></small>
+  Last updated: Aug 22, 2025
 </p>
 
 <div style="text-align: justify">

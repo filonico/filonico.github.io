@@ -21,11 +21,11 @@ redirect_from:
   }
 </style>
 
-<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
-
 <p class="last-updated">
   Last updated: Apr 22, 2026
 </p>
+
+<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>

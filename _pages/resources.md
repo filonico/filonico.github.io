@@ -13,10 +13,6 @@ author_profile: true
     hyphens: auto;
   }
 
-  .last-updated {
-    text-align: right;
-  }
-
   /* ---------- Outlook list ---------- */
   #outlook-section ul {
     list-style: none;
@@ -25,7 +21,7 @@ author_profile: true
 </style>
 
 <p class="last-updated">
-  <small><em>Last updated: Apr 22, 2026</em></small>
+  Last updated: Apr 22, 2026
 </p>
 
 <p>
