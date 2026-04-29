@@ -346,16 +346,19 @@ details[open] > summary::before {
    Other rules for formatting
    ========================================================================== */
 
+/* Formatting style of the "last updated" text at the top of each page */
 .last-updated {
   text-align: right;
   font-size: 0.8em;
   font-style: italic;
 }
 
+/* Formatting style of the outlook section */
 #outlook-section ul {
   list-style: none;
 }
 
-.intro-tags {
+/* Formatting style for things center aligned */
+.center {
   text-align: center;
 }

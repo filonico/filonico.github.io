@@ -119,7 +119,7 @@ author_profile: true
   Feel free to get in touch if you may need something of this kind.
 </p>
 
-<p align="center"><a href="https://docs.google.com/presentation/d/10jWRxA5i189pQ5-zf_g5xSyUYFRg4Ccoej9m-B9KorM/edit?usp=sharing" target="_blank">
+<p class="center"><a href="https://docs.google.com/presentation/d/10jWRxA5i189pQ5-zf_g5xSyUYFRg4Ccoej9m-B9KorM/edit?usp=sharing" target="_blank">
   <img src="/images/portfolio_cover.png" alt="cover portfolio" width="800">
 </a></p>
 

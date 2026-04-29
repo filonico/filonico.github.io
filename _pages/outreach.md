@@ -44,7 +44,7 @@ author_profile: true
 
 </div>
 
-<p align="center"><a href="https://www.biopills.net/" target="_blank">
+<p class="center"><a href="https://www.biopills.net/" target="_blank">
   <img src="/images/biopillsGreen_NEW.png" alt="biopills logo" width="500">
 </a></p>
 
@@ -163,7 +163,7 @@ author_profile: true
 
   WWA, including its outreach commitment, is partially funded by ERGA-BGE, and you can find two featured articles on their websites (<a href="https://biodiversitygenomics.eu/2025/02/03/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubris/" target="_blank">here</a> and <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">here</a>).
 
-  <p align="center"><a href="https://sites.google.com/view/woodwideants-en" target="_blank">
+  <p class="center"><a href="https://sites.google.com/view/woodwideants-en" target="_blank">
   <img src="/images/wwa_graphicalAbstract.png" alt="wwa graphical abstract" width="800">
   </a></p>
 
