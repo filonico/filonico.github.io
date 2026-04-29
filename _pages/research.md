@@ -5,20 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-  /* ---------- Typography ---------- */
-  .page__content p,
-  .page__content li {
-    text-align: justify;
-    hyphens: auto; 
-  }
-
-  /* ---------- General lists ---------- */
-  ul
-  {
-    list-style-type: none;
-  }
-</style>
 
 <p class="last-updated">
   Last updated: Apr 22, 2026

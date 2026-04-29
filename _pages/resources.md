@@ -5,17 +5,6 @@ permalink: /resources/
 author_profile: true
 ---
 
-<style>
-  /* ---------- Typography ---------- */
-  .page__content p,
-  .page__content li {
-    text-align: justify;
-    hyphens: auto;
-  }
-
-  /* ---------- Outlook list ---------- */
-
-</style>
 
 <p class="last-updated">
   Last updated: Apr 22, 2026

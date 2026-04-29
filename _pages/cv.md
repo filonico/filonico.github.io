@@ -7,14 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<style>
-    /* ---------- Typography ---------- */
-  .page__content p,
-  .page__content li {
-    text-align: justify;
-    hyphens: auto; 
-  }
-</style>
 
 <p class="last-updated">
   Last updated: Apr 22, 2026
