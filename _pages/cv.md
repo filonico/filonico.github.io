@@ -128,11 +128,11 @@ redirect_from:
     <details>
       <summary><i><small> More</small></i></summary>
       <ul>
-        <li>ML phylogenetic analysis (<a href="https://github.com/iqtree/iqtree2" target="_blank"><code>IQTREE</code></a>, <a href="https://github.com/amkozlov/raxml-ng" target="_blank"><code>RAxML-NG</code></a>, <a href="http://www.microbesonline.org/fasttree/" target="_blank"><code>FastTree</code></a>)</li>
-        <li>Bayesian phylogenetic analysis (<a href="https://nbisweden.github.io/MrBayes/" target="_blank"><code>MrBayes</code></a>, <a href="http://www.atgc-montpellier.fr/phylobayes/" target="_blank"><code>PhyloBayes</code></a>)</li>
-        <li>Global alignment tools (<a href="https://mafft.cbrc.jp/alignment/software/" target="_blank"><code>MAFFT</code></a>, <a href="https://github.com/rcedgar/muscle" target="_blank"><code>MUSCLE</code></a>, <a href="http://www.clustal.org/omega/" target="_blank"><code>Clustal Omega</code></a>, <a href="http://trimal.cgenomics.org/" target="_blank"><code>trimAl</code></a>, <a href="https://home.cc.umanitoba.ca/~psgendb/doc/Castresana/Gblocks_documentation.html" target="_blank"><code>GBlocks</code></a>)</li>
-        <li>Tree calibration (<a href="https://github.com/tothuhien/lsd2" target="_blank"><code>lsd2</code></a>, <a href="http://abacus.gene.ucl.ac.uk/software/paml.html" target="_blank"><code>MCMCTree</code></a>)</li>
-        <li>Tree decomposition (<a href="https://github.com/JSdoubleL/DISCO" target="_blank"><code>DISCO</code></a>)</li>
+        <li>ML phylogenetic analysis (<code>IQTREE</code>, <code>RAxML-NG</code>, <code>FastTree</code>)</li>
+        <li>Bayesian phylogenetic analysis (<code>MrBayes</code>, <code>PhyloBayes</code>)</li>
+        <li>Global alignment tools (<code>MAFFT</code>, <code>MUSCLE</code>, <code>Clustal Omega</code>, <code>trimAl</code>, <code>GBlocks</code>)</li>
+        <li>Tree calibration (<code>lsd2</code>, <code>MCMCTree</code>)</li>
+        <li>Tree decomposition (<code>DISCO</code>)</li>
       </ul>
     </details>
   </li>
@@ -141,14 +141,14 @@ redirect_from:
     <details>
       <summary><i><small> More</small></i></summary>
       <ul>
-        <li>Orthology inference (<a href="https://github.com/davidemms/OrthoFinder" target="_blank"><code>OrthoFinder</code></a>, <a href="https://github.com/xgrau/possvm-orthology" target="_blank"><code>Possvm</code></a>, <a href="https://github.com/hillerlab/TOGA" target="_blank"><code>TOGA</code></a>)</li>
-        <li>Gene annotation (<a href="https://github.com/ncbi/blast_plus_docs" target="_blank"><code>BLAST</code></a>, <a href="https://github.com/bbuchfink/diamond" target="_blank"><code>DIAMOND</code></a>, <a href="https://github.com/EddyRivasLab/hmmer" target="_blank"><code>HMMER</code></a>, <a href="https://github.com/ebi-pf-team/interproscan" target="_blank"><code>InterProScan</code></a>, <a href="https://github.com/UCSC-LoweLab/tRNAscan-SE" target="_blank"><code>tRNAscan-SE</code></a>)</li>
-        <li>Genome quality assessment (<a href="https://busco.ezlab.org/" target="_blank"><code>BUSCO</code></a>)</li>
-        <li>Molecular evolution (<a href="http://abacus.gene.ucl.ac.uk/software/paml.html" target="_blank"><code>PAML</code></a>, <a href="http://hyphy.org/" target="_blank"><code>HyPhy</code></a>, <a href="https://github.com/for-giobbe/BASE" target="_blank"><code>BASE</code></a>, <a href="https://github.com/mrrlab/RRTree" target="_blank"><code>RRTree</code></a>)</li>
-        <li>Gene family evolution (<a href="https://github.com/hahnlab/CAFE5" target="_blank"><code>CAFE5</code></a>, <a href="https://github.com/BenoitMorel/GeneRax" target="_blank"><code>GeneRax</code></a>)</li>
-        <li>Gene macro-synteny (<a href="https://github.com/wyp1125/MCScanX" target="_blank"><code>MCScanX</code></a>/<a href="https://github.com/tanghaibao/jcvi" target="_blank"><code>JCVI</code></a>)</li>
-        <li>Detection of sex-related loci (<a href="https://gitlab.in2p3.fr/sex-det-family/sex-detector" target="_blank"><code>SEX-DETector</code></a>, <a href="https://gitlab.in2p3.fr/sex-det-family/sdpop" target="_blank"><code>SDpop</code></a>)</li>
-        <li>Other (<a href="https://github.com/NBISweden/AGAT" target="_blank"><code>AGAT</code></a>, <a href="https://github.com/gpertea/gffread" target="_blank"><code>GffRead</code></a>)</li>
+        <li>Orthology inference (<code>OrthoFinder</code>, <code>Possvm</code>, <code>TOGA</code>)</li>
+        <li>Gene annotation (<code>BLAST</code>, <code>DIAMOND</code>, <code>HMMER</code>, <code>InterProScan</code>, <code>tRNAscan-SE</code>)</li>
+        <li>Genome quality assessment (<code>BUSCO</code>)</li>
+        <li>Molecular evolution (<code>PAML</code>, <code>HyPhy</code>, <code>BASE</code>, <code>RRTree</code>)</li>
+        <li>Gene family evolution (<code>CAFE5</code>, <code>GeneRax</code>)</li>
+        <li>Gene macro-synteny (<code>MCScanX</code>/<code>JCVI</code>)</li>
+        <li>Detection of sex-related loci (<code>SEX-DETector</code>, <code>SDpop</code>)</li>
+        <li>Other (<code>AGAT</code>, <code>GffRead</code>)</li>
       </ul>
     </details>
   </li>
@@ -157,7 +157,7 @@ redirect_from:
     <details>
       <summary><i><small> More</small></i></summary>
       <ul>
-        <li>Mitogenome assembly and annotation (<a href="https://github.com/marcelauliano/MitoHiFi" target="_blank"><code>MitoHiFi</code></a>, <a href="https://github.com/RemiAllio/MitoFinder" target="_blank"><code>MitoFinder</code></a>, <a href="https://github.com/RemiAllio/MitoFinder" target="_blank"><code>mitoRNA</code></a>)</li>
+        <li>Mitogenome assembly and annotation (<code>MitoHiFi</code>, <code>MitoFinder</code>, <code>mitoRNA</code>)</li>
       </ul>
     </details>
   </li>
@@ -166,9 +166,9 @@ redirect_from:
     <details>
       <summary><i><small> More</small></i></summary>
       <ul>
-        <li>Raw reads quality check (<a href="https://github.com/trinityrnaseq/trinityrnaseq/wiki" target="_blank"><code>FastQC</code></a>, <a href="https://multiqc.info/" target="_blank"><code>MultiQC</code></a>)</li>
-        <li>Read trimming (<a href="https://github.com/usadellab/Trimmomatic" target="_blank"><code>trimmomatic</code></a>)</li>
-        <li>Read mapping and filtering (<a href="https://github.com/BenLangmead/bowtie2" target="_blank"><code>Bowtie2</code></a>, <a href="https://github.com/alexdobin/STAR" target="_blank"><code>STAR</code></a>, <a href="https://github.com/mhammell-laboratory/TEtranscripts" target="_blank"><code>TEtranscripts</code></a>, <a href="https://github.com/gpertea/stringtie" target="_blank"><code>stringtie</code></a>, <a href="https://github.com/samtools/samtools" target="_blank"><code>samtools</code></a>)</li>
+        <li>Raw reads quality check (<code>FastQC</code>, <code>MultiQC</code>)</li>
+        <li>Read trimming (<code>trimmomatic</code>)</li>
+        <li>Read mapping and filtering (<code>Bowtie2</code>, <code>STAR</code>, <code>TEtranscripts</code>, <code>stringtie</code>, <code>samtools</code>)</li>
       </ul>
     </details>
   </li>
@@ -177,8 +177,8 @@ redirect_from:
     <details>
       <summary><i><small> More</small></i></summary>
       <ul>
-        <li>De-novo transcriptome assembly (<a href="https://github.com/trinityrnaseq/trinityrnaseq/wiki" target="_blank"><code>Trinity</code></a>)</li>
-        <li>Gene differential expression (<a href="https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html" target="_blank"><code>NOISeq</code></a>, <a href="https://bioconductor.org/packages/release/bioc/html/DESeq2.html" target="_blank"><code>DESeq2</code></a>, <a href="https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html" target="_blank"><code>maSigPro</code></a>, <a href="https://bioconductor.org/packages/release/bioc/html/topGO.html" target="_blank"><code>topGO</code></a>)</li>
+        <li>De-novo transcriptome assembly (<code>Trinity</code>)</li>
+        <li>Gene differential expression (<code>NOISeq</code>, <code>DESeq2</code>, <code>maSigPro</code>, <code>topGO</code>)</li>
       </ul>
     </details>
   </li>
@@ -221,7 +221,7 @@ redirect_from:
       <ul>
         <li>Spawning induction by thermal shock</li>
         <li>Gamete collection and concentration</li>
-        <li>Sperm mitochondria staining with <a href="https://www.thermofisher.com/order/catalog/product/M7512" target="_blank">MitoTracker</a></li>
+        <li>Sperm mitochondria staining with MitoTracker</li>
         <li><i>In-vitro</i> fertilization of eggs</li>
         <li>Embryo rearing in flasks or multi-well plates</li>
         <li>Estimation of survival rates</li>
