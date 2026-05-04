@@ -77,7 +77,11 @@ author_profile: true
   phylogenetic tree using a partitioned analysis.
 </p>
 
-[![phySCO](https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent)](https://github.com/filonico/phySCO)
+<div class="repo-card">
+  <a href="https://github.com/filonico/phySCO" target="_blank">
+    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent" alt="phySCO">
+  </a>
+</div>
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
@@ -105,7 +109,11 @@ author_profile: true
   anyone can use them and browse previous versions.
 </p>
 
-[![Wet-lab protocols](https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent)](https://github.com/filonico/wetlab_protocols)
+<div class="Wet-lab protocols">
+  <a href="https://github.com/filonico/wetlab_protocols" target="_blank">
+    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent" alt="phySCO">
+  </a>
+</div>
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
