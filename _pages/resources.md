@@ -46,7 +46,12 @@ author_profile: true
   bioinformatics.
 </p>
 
-[![bash github tutorial](https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent)](https://github.com/filonico/UNIX_and_bash_basics)
+<div class="repo-card">
+  <a href="https://github.com/filonico/UNIX_and_bash_basics" target="_blank">
+    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent" alt="bash github tutorial">
+  </a>
+</div>
+
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 

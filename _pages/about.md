@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="center">
   <code>
-    <b>evolutionary genomics</b> ⬩ <b>phylogenomics</b> ⬩ <b>single-cell transcriptomics</b><br>
+    <b>evolutionary genomics</b> ⬩ <b>phylogenomics</b> ⬩ <b>single-cell transcriptomics</b><br> ⬩
     <b>zoology</b> ⬩ <b>(newbie) evo-devo</b> ⬩ <b>outreach</b>
   </code>
 </div>
