@@ -315,7 +315,7 @@ redirect_from:
 <h2 id="publications">Publications</h2>
 <hr>
 
-<p><ins>Nicolini F</ins>, Nuzhdin SV, Ghiselli F, Luchetti A, & Milani L. (2026). <strong>Early embryonic transcription of <em>Vasa</em> in the Mediterranean mussel reveals divergent routes to germline specification in bivalves. Under revision. <a href="https://doi.org/10.21203/rs.3.rs-9824110/v1" target="_blank">10.21203/rs.3.rs-9824110/v1</a></p>
+<p><ins>Nicolini F</ins>, Nuzhdin SV, Ghiselli F, Luchetti A, & Milani L. (2026). <strong>Early embryonic transcription of <em>Vasa</em> in the Mediterranean mussel reveals divergent routes to germline specification in bivalves</strong>. Under revision. <a href="https://doi.org/10.21203/rs.3.rs-9824110/v1" target="_blank">10.21203/rs.3.rs-9824110/v1</a></p>
 
 <p>Goulty M, Lewis C, <ins>Nicolini F</ins>, Khalid R, Syed H, Oliveri P, Thomas MG, Rosato E, & Feuda R. (2025). <strong>Monoaminergic neurons share transcriptional identity across Bilaterian animals</strong>. Under revision. doi: <a href="https://doi.org/10.1101/2025.10.10.679534" target="_blank">10.1101/2025.10.10.679534</a></p>
 
