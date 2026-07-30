@@ -7,7 +7,7 @@ author_profile: true
 
 
 <p class="last-updated">
-  Last updated: Apr 22, 2026
+  Last updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
 </p>
 
 <p>
