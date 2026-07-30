@@ -9,7 +9,7 @@ redirect_from:
 
 
 <p class="last-updated">
-  Last updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
+  Last updated: {{ page.last_modified_at | date: "%b %-d, %Y" }} prova
 </p>
 
 <p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
