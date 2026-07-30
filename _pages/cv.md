@@ -315,6 +315,10 @@ redirect_from:
 <h2 id="publications">Publications</h2>
 <hr>
 
+<p><ins>Nicolini F</ins>, Nuzhdin SV, Ghiselli F, Luchetti A, & Milani L. (2026). <strong>Early embryonic transcription of <em>Vasa</em> in the Mediterranean mussel reveals divergent routes to germline specification in bivalves. Under revision. <a href="https://doi.org/10.21203/rs.3.rs-9824110/v1" target="_blank">10.21203/rs.3.rs-9824110/v1</a></p>
+
+<p>Goulty M, Lewis C, <ins>Nicolini F</ins>, Khalid R, Syed H, Oliveri P, Thomas MG, Rosato E, & Feuda R. (2025). <strong>Monoaminergic neurons share transcriptional identity across Bilaterian animals</strong>. Under revision. doi: <a href="https://doi.org/10.1101/2025.10.10.679534" target="_blank">10.1101/2025.10.10.679534</a></p>
+
 <p>Forni G, Fusco G, <ins>Nicolini F</ins>, Bruce H, & Luchetti A (2026). <strong>Loss, persistence and reversal of phenotypic traits</strong>. <em>Biological Reviews</em>. doi: <a href="https://doi.org/10.1002/brv.70168" target="_blank">10.1002/brv.70168</a></p>
 
 <p>Forni G*, <ins>Nicolini F</ins>*, Martelossi J, Savojardo C, Corneti S, Marrone F, & Luchetti, A. (2026). <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. <em>Biology Letters</em>, <em>22</em>(3), 20250130. doi: <a href="https://doi.org/10.1098/rsbl.2025.0130" target="_blank">10.1098/rsbl.2025.0130</a></p>
