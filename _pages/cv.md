@@ -12,20 +12,20 @@ redirect_from:
   Last updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
 </p>
 
-<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1AxoDOB9B7QIYhTNs5voYJop-QGksh9un/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
+<p><small><em>Find the extended version of my CV at this <strong><a href="https://drive.google.com/file/d/1OyHXYfIFiORhqB5oDj6iedJEui-h25NE/view?usp=sharing" target="_blank">link</a></strong>.</em></small></p>
 
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
   <ul>
     <li>💼 <a href="#employment">Employment</a></li>
     <li>🎓 <a href="#education">Education</a></li>
+    <li>🧮 <a href="#professional-skills">Professional skills</a></li>
     <li>📰 <a href="#outreach">Outreach activity</a></li>
     <li>🏫 <a href="#teaching">Teaching activity</a></li>
-    <li>🧮 <a href="#professional-skills">Professional skills</a></li>
-    <li>📜 <a href="#courses">Courses and workshops</a></li>
     <li>📚 <a href="#publications">Publications</a></li>
     <li>🗨️ <a href="#oral-presentations">Oral presentations at congresses</a></li>
     <li>🎤 <a href="#invited-talks">Invited talks</a></li>
+    <li>📜 <a href="#courses">Courses and workshops</a></li>
     <li>🏆 <a href="#awards">Awards and scholarships</a></li>
     <li>✈️ <a href="#visiting">Visiting scholar</a></li>
     <!--<li><a href="#memberships"><b>Society memberships</b></a></li>-->
@@ -39,9 +39,9 @@ redirect_from:
 <hr>
 
 <p><strong>Research Associate</strong><br>
-<strong>Subject</strong>: <em>Evolution of vision in early metazoans.</em><br>
+<strong>Subject</strong>: <em>Evolution of the phototransduction machinery in early metazoans.</em><br>
 <strong>Supervisor</strong>: prof. Roberto Feuda<br>
-<strong>University of Leicester, Leicester (UK). Nov 2024 - ongoing</strong></p>
+<strong>University of Leicester, Leicester (UK). Nov 2024–ongoing</strong></p>
 
 <a href="#outlook">↑ Go up ↑</a>
 
@@ -54,22 +54,57 @@ redirect_from:
 <p><strong>Ph.D</strong> in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD)<br>
 <strong>Thesis</strong>: <em>Integrative perspectives on bivalve sex determination: A comparative and evolutionary analysis across phylogeny</em><br>
 <strong>Supervisor</strong>: prof. Andrea Luchetti<br>
-<strong>University of Bologna, Bologna (IT). Nov 2021 - Oct 2024</strong></p>
+<strong>University of Bologna, Bologna (IT). Nov 2021–Oct 2024</strong></p>
 
 <p><strong>M.Sc</strong> in "Biodiversity and evolution"<br>
 <strong>Thesis</strong>: <em>Identification of Hox and ParaHox genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)</em><br>
 <strong>Supervisor</strong>: prof. Andrea Luchetti<br>
-<strong>University of Bologna, Bologna (IT). Sep 2019 - Jul 2021</strong></p>
+<strong>University of Bologna, Bologna (IT). Sep 2019–Jul 2021</strong></p>
 
 <p><strong>B.Sc</strong> in "Biological Sciences"<br>
 <strong>Thesis</strong>: <em>Species delimitation and phylogenetic analysis of the Australian genus Candovia (Insecta, Phasmida)</em><br>
 <strong>Supervisor</strong>: prof. Barbara Mantovani<br>
-<strong>University of Bologna, Bologna (IT). Sep 2016 - Oct 2019</strong></p>
+<strong>University of Bologna, Bologna (IT). Sep 2016–Oct 2019</strong></p>
 
 <a href="#outlook">↑ Go up ↑</a>
 
 <!-------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------->
+
+<h2 id="professional-skills">Professional skills</h2>
+<hr>
+
+<h3 id="bioinformatics">Bioinformatics</h3>
+
+**Programming and command languages.** Fluent in <code>bash</code>, <code>R</code>, and <code>python</code> for data analysis and pipeline development; comfortable with <code>LaTeX</code> and <code>html</code> for scientific writing and web work. I also use <code>Snakemake</code> and git.
+
+**Single-cell transcriptomics.** Extensive experience from mapping and pre-processing (<code>CellRanger</code>, <code>pipseeker</code>, <code>Seurat</code>) to functional and comparative analysis (<code>hdWGCNA</code>, <code>scVelo</code>, <code>SAMap</code>, <code>metacell</code>).
+
+**Comparative genomics.** Focused on how gene families originate, expand, and diversify over evolutionary time, including orthology inference (<code>OrthoFinder</code>, <code>possvm</code>), gene annotation (<code>BLAST</code>, <code>InterProScan</code>), molecular evolution and selection analysis (<code>PAML</code>, <code>HyPhy</code>), and gene family dynamics (<code>CAFE5</code>, <code>GeneRax</code>).
+
+**Phylogenomics.** Maximum-likelihood and Bayesian tree inference (<code>IQTREE</code>, <code>PhyloBayes</code>), advanced multiple sequence alignment (<code>MAFFT</code>, <code>ClustalO</code>, <code>trimAl</code>), and time-tree calibration (<code>MCMCTree</code>).
+
+**Bulk transcriptomics.** Differential expression analysis (<code>DESeq2</code>, <code>maSigPro</code>).
+
+**High-throughput sequencing.** Short- and long-read data (<code>Trinity</code>, <code>STAR</code>, <code>hifiasm</code>, <code>MitoHiFi</code>).
+
+<h3 id="wet-lab">Wet-lab</h3>
+
+**mRNA *in-situ* HCR and Immunofluorescence.** Extensive experience across whole-mount materials (bivalve embryos and larvae, zebrafish larvae, sea urchin embryos, placozoans) and excised tissues/organs (sponges, ctenophores). Routinely run multiplexed HCR experiments and design probes in-house. Independent user of advanced confocal systems (Zeiss LSM 980 with Airyscan 2, Stellaris 5). Confident with ImageJ/Fiji for image analysis, plus experience with phase-contrast microscopy.
+
+**Single-cell/-nucleus transcriptomics.** Actively developing protocols to isolate single cells/nuclei from challenging tissue types, handling both fresh and flash-frozen material. Confident with Illumina PIPseq chemistry.
+
+**Culture of marine and terrestrial animals.** Rear marine species including bivalves, placozoans, and the starlet sea anemone (*Nematostella vectensis*), as well as single-celled algae and *Artemia* nauplii as food sources. Perform controlled spawning and *in-vitro* fertilization of bivalves and the starlet sea anemone. Also rear terrestrial animals, including stick insects (Phasmatodea) and webspinners (Embioptera).
+
+**Tissue and organ dissections.** Excise tissues and organs across animal samples, with particular experience in ant cephalic ganglia and pre-pupae, ctenophore aboral organs, epidermis and gut, and sponge cross-sections.
+
+**Metaphase-plate chromosome preparation.** Obtain chromosome metaphase plates from several animals, including ants and bivalves.
+
+<a href="#outlook">↑ Go up ↑</a>
+
+<!-------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------->
+
 
 <h2 id="outreach">Outreach activity</h2>
 <hr>
@@ -97,169 +132,6 @@ redirect_from:
   <li><b>Practical invertebrate zoology class</b><br />
     Bachelor degree in <i>Biological Sciences</i><br />
     <i>University of Bologna, Bologna (IT). Sep 2022 – Jan 2023</i></li>
-</ul>
-
-<a href="#outlook">↑ Go up ↑</a>
-
-<!-------------------------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------->
-
-<h2 id="professional-skills">Professional skills</h2>
-<hr>
-
-<h3 id="bioinformatics">Bioinformatics</h3>
-
-<ul>
-  <li><b>Programming and markup languages</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <small>(beginner ▯▯▯▯▯ advanced)</small>
-      <ul>
-        <li><code>bash</code><br /> ▮▮▮▮▯</li>
-        <li><code>R</code><br /> ▮▮▮▯▯</li>
-        <li><code>python</code><br /> ▮▮▯▯▯</li>
-        <li>LaTeX<br /> ▮▮▯▯▯</li>
-        <li><code>html</code><br /> ▮▯▯▯▯</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Phylogenetics</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>ML phylogenetic analysis (<code>IQTREE</code>, <code>RAxML-NG</code>, <code>FastTree</code>)</li>
-        <li>Bayesian phylogenetic analysis (<code>MrBayes</code>, <code>PhyloBayes</code>)</li>
-        <li>Global alignment tools (<code>MAFFT</code>, <code>MUSCLE</code>, <code>Clustal Omega</code>, <code>trimAl</code>, <code>GBlocks</code>)</li>
-        <li>Tree calibration (<code>lsd2</code>, <code>MCMCTree</code>)</li>
-        <li>Tree decomposition (<code>DISCO</code>)</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Comparative genomics</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Orthology inference (<code>OrthoFinder</code>, <code>Possvm</code>, <code>TOGA</code>)</li>
-        <li>Gene annotation (<code>BLAST</code>, <code>DIAMOND</code>, <code>HMMER</code>, <code>InterProScan</code>, <code>tRNAscan-SE</code>)</li>
-        <li>Genome quality assessment (<code>BUSCO</code>)</li>
-        <li>Molecular evolution (<code>PAML</code>, <code>HyPhy</code>, <code>BASE</code>, <code>RRTree</code>)</li>
-        <li>Gene family evolution (<code>CAFE5</code>, <code>GeneRax</code>)</li>
-        <li>Gene macro-synteny (<code>MCScanX</code>/<code>JCVI</code>)</li>
-        <li>Detection of sex-related loci (<code>SEX-DETector</code>, <code>SDpop</code>)</li>
-        <li>Other (<code>AGAT</code>, <code>GffRead</code>)</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Mitogenomics</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Mitogenome assembly and annotation (<code>MitoHiFi</code>, <code>MitoFinder</code>, <code>mitoRNA</code>)</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Read manipulation</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Raw reads quality check (<code>FastQC</code>, <code>MultiQC</code>)</li>
-        <li>Read trimming (<code>trimmomatic</code>)</li>
-        <li>Read mapping and filtering (<code>Bowtie2</code>, <code>STAR</code>, <code>TEtranscripts</code>, <code>stringtie</code>, <code>samtools</code>)</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Transcriptomics</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>De-novo transcriptome assembly (<code>Trinity</code>)</li>
-        <li>Gene differential expression (<code>NOISeq</code>, <code>DESeq2</code>, <code>maSigPro</code>, <code>topGO</code>)</li>
-      </ul>
-    </details>
-  </li>
-
-</ul>
-
-<h3 id="wet-lab">Wet-lab</h3>
-
-<ul>
-  <li><b>Metaphase-plate chromosome preparation</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Experience with bivalves and ants</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Total DNA extraction</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Experience with insects</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Polymerase Chain Reaction (PCR)</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Experience with insect mitochondrial and nuclear markers</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Mediterranean mussel (<i>Mytilus galloprovincialis</i>) embryology</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Spawning induction by thermal shock</li>
-        <li>Gamete collection and concentration</li>
-        <li>Sperm mitochondria staining with MitoTracker</li>
-        <li><i>In-vitro</i> fertilization of eggs</li>
-        <li>Embryo rearing in flasks or multi-well plates</li>
-        <li>Estimation of survival rates</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>mRNA <i>in-situ</i> Hybridization Chain Reaction (mRNA <i>in-situ</i> HCR)</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Experience with whole-mount embryos of the Mediterranean mussel (<i>Mytilus galloprovincialis</i>)</li>
-        <li>Probe design</li>
-        <li>Multiplex experiments (up to four target genes), paired with DAPI and MitoTracker stainings</li>
-        <li>Confocal imaging (main experience with Leica DMi8 paired with Stellaris 5 systems)</li>
-      </ul>
-    </details>
-  </li>
-
-</ul>
-
-<h3 id="prof-skill-others">Others</h3>
-
-<ul>
-  <li><b>Field scientific sampling</b>
-    <details>
-      <summary><i><small> More</small></i></summary>
-      <ul>
-        <li>Experience with termites, ants, and freshwater crustaceans</li>
-        <li>Experience with mussels and oysters</li>
-        <li>Field sample storing for subsequent DNA extraction (pure methanol) or mRNA extraction (RNAlater or Trizol)</li>
-      </ul>
-    </details>
-  </li>
-
-  <li><b>Scientific illustration</b><br>
-    <small><i>See the <a href="/resources/"><b>Resources</b></a> section of this website</i></small>
-  </li>
 </ul>
 
 <a href="#outlook">↑ Go up ↑</a>
