@@ -41,7 +41,7 @@ redirect_from:
 <p><b>Research Associate</b><br>
 <b>Subject</b>: <em>Evolution of the phototransduction machinery in early metazoans.</em><br>
 <b>Supervisor</b>: prof. Roberto Feuda<br>
-<b>University of Leicester, Leicester (UK). Nov 2024–ongoing</b></p>
+University of Leicester, Leicester (UK). Nov 2024–ongoing</p>
 
 <a href="#outlook">↑ Go up ↑</a>
 
@@ -54,17 +54,17 @@ redirect_from:
 <p><b>Ph.D</b> in "Innovative technologies and sustainable use of Mediterranean Sea fishery and biological resources" (FishMed-PhD)<br>
 <b>Thesis</b>: <em>Integrative perspectives on bivalve sex determination: A comparative and evolutionary analysis across phylogeny</em><br>
 <b>Supervisor</b>: prof. Andrea Luchetti<br>
-<b>University of Bologna, Bologna (IT). Nov 2021–Oct 2024</b></p>
+University of Bologna, Bologna (IT). Nov 2021–Oct 2024</p>
 
 <p><b>M.Sc</b> in "Biodiversity and evolution"<br>
 <b>Thesis</b>: <em>Identification of Hox and ParaHox genes in tadpole shrimp genomes (Pancrustacea, Branchiopoda, Notostraca)</em><br>
 <b>Supervisor</b>: prof. Andrea Luchetti<br>
-<b>University of Bologna, Bologna (IT). Sep 2019–Jul 2021</b></p>
+University of Bologna, Bologna (IT). Sep 2019–Jul 2021</p>
 
 <p><b>B.Sc</b> in "Biological Sciences"<br>
 <b>Thesis</b>: <em>Species delimitation and phylogenetic analysis of the Australian genus Candovia (Insecta, Phasmida)</em><br>
 <b>Supervisor</b>: prof. Barbara Mantovani<br>
-<b>University of Bologna, Bologna (IT). Sep 2016–Oct 2019</b></p>
+University of Bologna, Bologna (IT). Sep 2016–Oct 2019</p>
 
 <a href="#outlook">↑ Go up ↑</a>
 
@@ -211,6 +211,14 @@ redirect_from:
 <hr>
 
 <ul>
+  <li><b>Introduction to ImageJ/Fiji.</b><br>
+    <i>Advanced Imaging Facility, University of Leicester</i>.<br>
+    Leicester, UK. Jul 27, 2026.</li>
+
+  <li><b>New techonologies for developmental evolutionary biology studies.</b><br>
+    <i>Spanish Society of Evolutionary Biology (SESBE)</i>.<br>
+    Madrid, Spain. Dec 16–19, 2024.</li>
+
   <li><b>Establishing state-of-the-art mollusc genomics</b><br>
     <i>EMBO Workshop. Awarded with a travel grant</i>.<br>
     Namur, Belgium. May 28–31, 2024.</li>
@@ -256,7 +264,7 @@ redirect_from:
 <hr>
 
 <ul>
-  <li><b>Travel grant to attend the Congress 2024 of the Italian Society for Evolutionary Biology (ISEB/SIBE) in Naples (Italy).</b><br>
+  <li><b>Travel grant to attend the "Evoluzione 2024" congress in Naples, Italy.</b><br>
     <i>Issued by Stazione Zoologica Anton Dohrn</i>. Amount: € 250.00.<br>
     May 28–31, 2024</li>
   
