@@ -42,6 +42,10 @@ author_profile: true
   In this research line, I am leveraging the latest advancements in <b>single-cell RNA-sequecing</b>, <b>comparative genomics</b>, and <b>fluorescent microscopy</b> to tackle these open questions.
 </p>
 
+<p class="center">
+<img src="images/graphical_abstracts/phototransduction.png" alt="phototransduction graphical" width="800">
+</p>
+
 <h3>Main collaborators</h3>
 
 <ul>
@@ -72,7 +76,7 @@ author_profile: true
 </p>
 
 <p class="center">
-<img src="/images/srgs_vasa_bivalves.png" alt="sex det and germline vasa graphical" width="800">
+<img src="/images/graphical_abstracts/srgs_vasa_bivalves.png" alt="sex det and germline vasa graphical" width="800">
 </p>
 
 <h3>Selected papers</h3>

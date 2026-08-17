@@ -191,7 +191,7 @@ author_profile: true
   WWA, including its outreach commitment, is partially funded by ERGA-BGE. A featured article can be accessed on the <a href="https://www.erga-biodiversity.eu/post/wood-wide-ants-wwa-genomics-over-space-and-time-of-the-keystone-forest-species-formica-paralugubr" target="_blank">ERGA website</a>.
 
   <p class="center"><a href="https://sites.google.com/view/woodwideants-en" target="_blank">
-  <img src="/images/wwa_graphicalAbstract.png" alt="wwa graphical abstract" width="800">
+  <img src="/images/graphical_abstracts/wwa.png" alt="wwa graphical abstract" width="800">
   </a></p>
 
 </div>
