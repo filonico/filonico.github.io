@@ -43,7 +43,7 @@ author_profile: true
 </p>
 
 <p class="center">
-<img src="/images/graphical_abstracts/phototransduction.png" alt="phototransduction graphical" width="800">
+<img src="/images/graphical_abstracts/phototransduction.png" alt="phototransduction graphical" width="700">
 </p>
 
 <h3>Main collaborators</h3>
