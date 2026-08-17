@@ -28,7 +28,7 @@ redirect_from:
     <li>📜 <a href="#courses">Courses and workshops</a></li>
     <li>🏆 <a href="#awards">Awards and scholarships</a></li>
     <li>✈️ <a href="#visiting">Visiting scholar</a></li>
-    <!--<li><a href="#memberships"><b>Society memberships</b></a></li>-->
+    <!--<li><a href="#memberships"><b>Society memberships</b></a></li>--->
   </ul>
 </div>
 
