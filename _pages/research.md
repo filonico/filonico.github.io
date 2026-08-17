@@ -71,6 +71,10 @@ author_profile: true
   Thanks to <b>broad scale comparative genomics studies</b>, <b>bulk and single-cell RNA-sequencing</b>, and <b>hybridization chain reaction (HCR) in bivalve embryos</b>, I am investigating the potential role of key genes in processes such as sex determination and germline specification in bivalves, with a special focus on the Mediterranean mussel (<em>Mytilus galloprovincialis</em>).
 </p>
 
+<p class="center">
+<img src="/images/srgs_vasa_bivalves.png" alt="sex det and germline vasa graphical" width="800">
+</p>
+
 <h3>Selected papers</h3>
 <ul>
   <li>Nicolini F, et al. (2026). <b>Early embryonic transcription of <i>Vasa</i> in the Mediterranean mussel reveals divergent routes to germline specification in bivalves</b>. <em>Pre-print</em>. doi: <a herf="https://doi.org/10.21203/rs.3.rs-9824110/v1" target="_blank">10.21203/rs.3.rs-9824110/v1</a></li>
