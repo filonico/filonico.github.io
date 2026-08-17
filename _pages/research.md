@@ -73,6 +73,9 @@ author_profile: true
 
 <h3>Selected papers</h3>
 <ul>
+  <li>Nicolini F, et al. (2026). <b>Early embryonic transcription of <i>Vasa</i> in the Mediterranean mussel reveals divergent routes to germline specification in bivalves</b>. <em>Pre-print</em>. doi: <a herf="https://doi.org/10.21203/rs.3.rs-9824110/v1" target="_blank">10.21203/rs.3.rs-9824110/v1</a></li>
+
+
   <li>Nicolini F, et al. (2025). <b>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</b>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></li>
 
   <li>Iannello M, et al. (2025). <b>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</b>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></li>
