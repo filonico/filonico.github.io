@@ -110,10 +110,10 @@ author_profile: true
   <br><br>
 
   <details>
-    <summary><small><i> See the list of webinars I moderated</i></small></summary>
+    <summary><small><i> See the list of webinars I was involved in</i></small></summary>
 
     <ul>
-      <li><b>Il cavallo non esiste: classificare la vita, tra passato, presente e futuro</b>.<br><i>2023. Speaker: Luca Maria Munaron</i></li>
+      <li><b>Il cavallo non esiste: classificare la vita, tra passato, presente e futuro</b>.<br><i>2026. Speaker: Luca Maria Munaron</i></li>
 
       <li><a href="https://www.youtube.com/watch?v=ILDBb7rckj8&list=PLUMnZXJ4kUWiKl263McC9XGJJbFHz1ARe&index=17&t=4091s&pp=iAQB" target="_blank"><b>Organismi marini biofiltratori: dall'ecologia agli studi sul campo</b></a>.<br><i>2023. Speaker: Martina Capriotti</i></li>
 
@@ -143,13 +143,13 @@ author_profile: true
   </details>
   <br>
 
-  One of the webinar series that I care about the most, is the one <b>dedicated to PhD students and (very) early career researchers</b>, where I tried to give them the chance to talk about their research in a friendly environment, <b>away from the pressure of lab meetings and conferences</b>. The series, called "Young Scientists @BioPills – Giovani voci della ricerca", consists (at the moment) of four webinars held by four Italian PhD students:
+  One of the webinar series that I care about the most, is the one <b>dedicated to PhD students and (very) early career researchers</b>, where I tried to give them the chance to talk about their research in a friendly environment, <b>away from the pressure of lab meetings and conferences</b>. The series, called "<b>Young Scientists @BioPills – Giovani voci della ricerca</b>" (2026), consists (at the moment) of four webinars held by four Italian PhD students:
 
   <ol>
     <li>"<b>Alla scoperta di bradipi, formichieri e armadilli, tra paleontologia e biologia</b>" [All about sloths, anteaters and armadillos: a biological and paleontological perspective]. By Mattia Paparo, PhD student at the Universidade Federal do Rio Grande do Sul (Brasil).</li>
     <li>"<b>Organi complessi in evoluzione: lezioni sul sistema digerente dagli echinodermi</b>" [Evolution of complex organs: lessons on the digestive system from echinoderms]. By Lorenza Maria Rusciano, PhD student at the Stazione Zoologica Anton Dohrn in Naples (Italy).</li>
     <li>"<b>Lost in pollination: impatti invisibili sulle api</b>" [Lost in pollinations: invisible threats to the bees]. By Manuel Roppo Valente, post-graduate reserachers at the Università degli Studi di Torino (Italy).</li> 
-    <li>"<b>Il mondo invisibile che nutre il Piantea: microbi e futuro dell'agricoltura</b>" [Feeding our Planet: microbes and the future of agricolture]. By Beatruce Farda, (former) PhD student at the Università degli Studi dell'Aquila (Italy).</li>
+    <li>"<b>Il mondo invisibile che nutre il Pianeta: microbi e futuro dell'agricoltura</b>" [Feeding our Planet: microbes and the future of agricolture]. By Beatruce Farda, (former) PhD student at the Università degli Studi dell'Aquila (Italy).</li>
   </ol>
 
   All the details can be found online on the dedicated <a href="https://www.biopills.net/young-scientists-biopills-giovani-voci-della-ricerca-i-edizione/" target="_blank">BioPills page</a>.
