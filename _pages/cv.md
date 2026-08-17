@@ -264,6 +264,16 @@ University of Bologna, Bologna (IT). Sep 2016–Oct 2019</p>
 <hr>
 
 <ul>
+  <li><b>Best outreach article in the category "Environment and Nature".</b><br>
+    "Scoprire una nuova specie nel mare dietro casa: il caso di <i>Steromphala federicii</i>", published online by <a href="https://www.biopills.net/steromphala-federicii-nuova-specie-mollusco-sicilia/" target="_blank">BioPills</a>.
+    <i>Issued by Green Book Premio Letterario</i>.<br>
+    May 9, 2026</li>
+
+  <li><b>Honourable mention with an outreach article in the category "Environment and Nature".</b><br>
+    "Dalle Alpi agli Appennini: l’enigma a sei zampe delle Foreste Casentinesi", published online by <a href="https://terramagazine.press/2025/02/07/dalle-alpi-agli-appennini-lenigma-a-sei-zampe-delle-foreste-casentinesi/" target="_blank">Terra Magazine</a>.
+    <i>Issued by Green Book Premio Letterario</i>.<br>
+    May 9, 2026</li>
+
   <li><b>Travel grant to attend the "Evoluzione 2024" congress in Naples, Italy.</b><br>
     <i>Issued by Stazione Zoologica Anton Dohrn</i>. Amount: € 250.00.<br>
     May 28–31, 2024</li>
