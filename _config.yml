@@ -12,7 +12,7 @@ title                  : Filippo Nicolini
 # logo                 : "/images/logo.png"
 email                  : fn76[at]le.ac.uk
 description            : >- # this means to ignore newlines until "baseurl:"
-  This is the personal website of Filippo Nicolini, a Research Associate in evolutionary genomics at the University of Leicester (UK).
+  Personal website of Filippo Nicolini, a postdoc in evolutionary genomics at the University of Leicester (UK).
 
 atom_feed: 
   hide: true
@@ -21,7 +21,7 @@ atom_feed:
 author:
   name             : "Filippo Nicolini"
   avatar           : "propic.png"
-  bio              : "Reasearch Associate dealing (struggling) with invertebrate evolutionary genomics."
+  bio              : "Postdoc dealing (struggling) with invertebrate evolutionary genomics."
   location         : "University of Leicester (UK)"
   email            : "fn76 [at] le.ac.uk"
   bluesky          : "filonico.bsky.social"

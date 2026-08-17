@@ -19,103 +19,15 @@ author_profile: true
 <div id="outlook-section">
   <h2 id="outlook">Outlook</h2>
   <ul>
+    <li>🎨 <a href="#illustrations">Illustration portfolio</a></li>
+    <li>💰 <a href="#grants">Grant and funding applications</a></li>
     <li>🖥️ <a href="#github-bioinformatics">Introduction to bioinformatics</a></li>
     <li>🌳 <a href="#physco">phySCO: phylogenomics from Single-Copy Orthologs</a></li>
     <li>🧪 <a href="#wetlab-protocols">Wet-lab protocols</a></li>
-    <li>🎨 <a href="#illustrations">Illustration portfolio</a></li>
     <li>🖼️ <a href="#posters">Poster collection</a></li>
-    <li>💰 <a href="#grants">Grant and funding applications</a></li>
   </ul>
 </div>
 
-<!-------------------------------------------------------------------------------------->
-
-<h2 id="github-bioinformatics">Introduction to bioinformatics</h2>
-<hr>
-
-<p>
-  In my GitHub personal page you can find a
-  <b><a href="https://github.com/filonico/UNIX_and_bash_basics" target="_blank">
-  brief introduction to bioinformatics</a></b>.
-  There, I explain the <b>most common bash commands</b> that bioinformaticians
-  usually deal with.
-</p>
-
-<p>
-  Take it as a friendly resource for accessing commonly used commands in early
-  bioinformatics.
-</p>
-
-<div class="repo-card">
-  <a href="https://github.com/filonico/UNIX_and_bash_basics" target="_blank">
-    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent" alt="bash github tutorial">
-  </a>
-</div>
-
-
-<p><a href="#outlook">↑ Go up ↑</a></p>
-
-<!-------------------------------------------------------------------------------------->
-
-<h2 id="physco">phySCO: phylogenomics from Single-Copy Orthologs</h2>
-<hr>
-
-<p>
-  Tired of tedious phylogenetic pipelines to generate species trees after a
-  successful BUSCO analysis? Fed up with wasting time copying and pasting
-  commands to align, trim sequences, and infer trees?
-</p>
-
-<p>
-  Here's the solution! <b>Let phySCO transform your workflow today!</b>
-</p>
-
-<p>
-  phySCO is an all-in-one python tool that (i) takes the output of a series of
-  BUSCO analyses, (ii) retrieves ubiquitous single-copy BUSCO orthologs,
-  (iii) aligns and trims them, and (iv) infers the corresponding ML
-  phylogenetic tree using a partitioned analysis.
-</p>
-
-<div class="repo-card">
-  <a href="https://github.com/filonico/phySCO" target="_blank">
-    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent" alt="phySCO">
-  </a>
-</div>
-
-<p><a href="#outlook">↑ Go up ↑</a></p>
-
-<!-------------------------------------------------------------------------------------->
-
-<h2 id="wetlab-protocols">Wet-lab protocols</h2>
-<hr>
-
-<p>
-  Researchers always complain—rightly—that bioinformatic codes are not often
-  shared and that analyses are rarely fully reproducible.
-</p>
-
-<p>
-  But have you ever thought about wet-lab protocols? How many times have you
-  tried to run an experiment for the first time, only to find yourself
-  piecing together details from five different papers just to create a
-  first draft?
-</p>
-
-<p>
-  Just like bioinformatic pipelines,
-  <b>wet-lab protocols should be openly shared and easy to access</b>.
-  That's why I decided to start documenting my protocols on GitHub, where
-  anyone can use them and browse previous versions.
-</p>
-
-<div class="Wet-lab protocols">
-  <a href="https://github.com/filonico/wetlab_protocols" target="_blank">
-    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent" alt="phySCO">
-  </a>
-</div>
-
-<p><a href="#outlook">↑ Go up ↑</a></p>
 
 <!-------------------------------------------------------------------------------------->
 
@@ -138,44 +50,6 @@ author_profile: true
 
 <p><a href="#outlook">↑ Go up ↑</a></p>
 
-<!-------------------------------------------------------------------------------------->
-
-<h2 id="posters">Poster collection</h2>
-<hr>
-
-<p>
-  Here you can find a selection of posters I was involved in. Posters that I
-  personally presented are indicated by a DNA symbol.
-</p>
-
-<details>
-  <summary><i><small>More</small></i></summary>
-  <ul>
-    <li>
-    <b><a href="https://drive.google.com/file/d/1Mw-GgFLSQiBVmWdDHEwQmPVRErn66U0x/view?usp=sharing" target="_blank">Il primo anno di Wood Wide Ants: approcci, risultati e prospettive</a> [The first year of Wood Wide Ants: approaches, results and perspectives]</b>.<br /> <i>Associazione Italiana per lo Studio degli Artropodi Sociali e Presociali [Meeting of the Italian Association for the Study of Social and Presocial Insects] (AISASP)</i>.<br /> Bologna, Italy. Sep 3–5, 2025.
-    </li>
-    <li>
-    🧬 <b><a href="https://drive.google.com/file/d/1SJy0M-vR0e_ay5Wl3rROcIdhrwZkd1L7/view?usp=sharing" target="_blank">Visions from the past: elucidating opsin evolution in a non-bilaterian Metazoa lineage</a></b>.<br /> <i>Jacques Monod Conferences: Origin of metazoans</i>.<br /> Roscoff, France. Jun 16–20, 2025.
-    </li>
-    <li>
-    🧬 <b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>.<br /> <i>Evoluzione 2024</i>.<br /> Naples, Italy. Sep 9–11, 2024.
-    </li>
-    <li>
-    <b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>.<br /> <i>SMBE 2023</i>.<br /> Ferrara, Italy. Jul 23–27, 2023.
-    </li>
-    <li>
-    <b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>.<br /> <i>SMBE 2023</i>.<br /> Ferrara, Italy. Jul 23–27, 2023.
-    </li>
-    <li>
-    🧬 <b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>.<br /> <i>Evoluzione 2022</i>.<br /> Ancona, Italy. Sep 4–7, 2022.
-    </li>
-    <li>
-    🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>.<br /> <i>EuroEvoDevo 2022</i>.<br /> Naples, Italy. May 31–Jun 3, 2022.
-    </li>
-  </ul>
-</details>
-
-<p><a href="#outlook">↑ Go up ↑</a></p>
 
 <!-------------------------------------------------------------------------------------->
 
@@ -214,6 +88,130 @@ Therefore, also inspired by some collegues, I started gathering below all the gr
     </li>
     <li>
     <a href="https://editing.press/bassi" target="_blank"><b>Laura Bassi scolarship for Editorial Assistance</b></a>.<br /> <i>Editing Press</i>. Spring 2023 edition.<br /> Outcome: <b>Successful</b> 🟢<br /> <a href="https://drive.google.com/file/d/19OpZZFrqBNzgeYqR9qROQzv8BbkByMsb/view?usp=sharing" target="_blank">Link to the application</a>.
+    </li>
+  </ul>
+</details>
+
+<p><a href="#outlook">↑ Go up ↑</a></p>
+
+
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="github-bioinformatics">Introduction to bioinformatics</h2>
+<hr>
+
+<p>
+  In my GitHub personal page you can find a
+  <b><a href="https://github.com/filonico/UNIX_and_bash_basics" target="_blank">
+  brief introduction to bioinformatics</a></b>, where I explain the <b>most common bash commands</b> that bioinformaticians
+  usually deal with.
+</p>
+
+<p>
+  Take it as a friendly resource for accessing commonly used commands in early bioinformatics.
+</p>
+
+<div class="repo-card">
+  <a href="https://github.com/filonico/UNIX_and_bash_basics" target="_blank">
+    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=UNIX_and_bash_basics&show_icons=true&theme=transparent" alt="bash github tutorial">
+  </a>
+</div>
+
+<p>
+This repository is also part of the <b><a href="https://knowledge.erga-biodiversity.eu/" target="_blank">ERGA Knowledge Hub</a></b>.
+</p>
+
+
+<p><a href="#outlook">↑ Go up ↑</a></p>
+
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="physco">phySCO: phylogenomics from Single-Copy Orthologs</h2>
+<hr>
+
+<p>
+  Tired of tedious phylogenetic pipelines to generate species trees after a successful BUSCO analysis? Fed up with wasting time copying and pasting commands to align, trim sequences, and infer trees?
+</p>
+
+<p>
+  Here's the solution! <b>Let phySCO transform your workflow today!</b>
+</p>
+
+<p>
+  phySCO is an all-in-one python tool that (i) takes the output of a series of BUSCO analyses, (ii) retrieves ubiquitous single-copy BUSCO orthologs, (iii) aligns and trims them, and (iv) infers the corresponding ML phylogenetic tree using a partitioned analysis.
+</p>
+
+<div class="repo-card">
+  <a href="https://github.com/filonico/phySCO" target="_blank">
+    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=phySCO&show_icons=true&theme=transparent" alt="phySCO">
+  </a>
+</div>
+
+<p>
+  (Yes, this paragraph was generated with AI)
+</p>
+
+<p><a href="#outlook">↑ Go up ↑</a></p>
+
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="wetlab-protocols">Wet-lab protocols</h2>
+<hr>
+
+<p>
+  Researchers always complain—rightly—that bioinformatic codes and data are not often freely available, and that analyses are rarely fully reproducible.
+</p>
+
+<p>
+  But have you ever thought about wet-lab protocols? How many times have you tried to run an experiment for the first time, only to find yourself
+  piecing together details and tricks from five different papers?
+</p>
+
+<p>
+  Just like bioinformatic pipelines, <b>wet-lab protocols should be openly shared and easy to access</b>. That's why I decided to start documenting my protocols on GitHub, where anyone can use them and browse previous versions.
+</p>
+
+<div class="repo-card">
+  <a href="https://github.com/filonico/wetlab_protocols" target="_blank">
+    <img src="https://filonico-readme-stats.vercel.app/api/pin/?username=filonico&repo=wetlab_protocols&show_icons=true&theme=transparent" alt="wetlab_protocols">
+  </a>
+</div>
+
+<p><a href="#outlook">↑ Go up ↑</a></p>
+
+<!-------------------------------------------------------------------------------------->
+
+<h2 id="posters">Poster collection</h2>
+<hr>
+
+<p>
+  Here you can find a selection of posters I was involved in. Posters that I
+  personally presented are indicated by a DNA symbol.
+</p>
+
+<details>
+  <summary><i><small>More</small></i></summary>
+  <ul>
+    <li>
+    <b><a href="https://drive.google.com/file/d/1Mw-GgFLSQiBVmWdDHEwQmPVRErn66U0x/view?usp=sharing" target="_blank">Il primo anno di Wood Wide Ants: approcci, risultati e prospettive</a> [The first year of Wood Wide Ants: approaches, results and perspectives]</b>.<br /> <i>Associazione Italiana per lo Studio degli Artropodi Sociali e Presociali [Meeting of the Italian Association for the Study of Social and Presocial Insects] (AISASP)</i>.<br /> Bologna, Italy. Sep 3–5, 2025.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1SJy0M-vR0e_ay5Wl3rROcIdhrwZkd1L7/view?usp=sharing" target="_blank">Visions from the past: elucidating opsin evolution in a non-bilaterian Metazoa lineage</a></b>.<br /> <i>Jacques Monod Conferences: Origin of metazoans</i>.<br /> Roscoff, France. Jun 16–20, 2025.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1OROehtrFHCn_U1BPoMQwzHR0HPu9IKj8/view?usp=sharing" target="_blank">How to detect sex-determining genes through molecular evolution: bivalves as a case study</a></b>.<br /> <i>Evoluzione 2024</i>.<br /> Naples, Italy. Sep 9–11, 2024.
+    </li>
+    <li>
+    <b><a href="https://drive.google.com/file/d/1c9WUQQ4pnNtkSr_IR38pH4XSy8kYsY6_/view?usp=sharing" target="_blank">The rise of Branchiopoda genomics: the state of the art and future challenges</a></b>.<br /> <i>SMBE 2023</i>.<br /> Ferrara, Italy. Jul 23–27, 2023.
+    </li>
+    <li>
+    <b><a href="https://drive.google.com/file/d/1tCP67JMO3-8ugBSj8CBTUzEkZK4ZIfEy/view?usp=sharing" target="_blank">Comparing different dating methods on branchiopod phylogeny: MCMCtree and lsd2</a></b>.<br /> <i>SMBE 2023</i>.<br /> Ferrara, Italy. Jul 23–27, 2023.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1uGF5tZpb5LHcLDHQv1TIR8vcJY4BOiPu/view?usp=sharing" target="_blank">Clues of accelerated molecular evolution in gene families associated wit sex determination in bivalves</a></b>.<br /> <i>Evoluzione 2022</i>.<br /> Ancona, Italy. Sep 4–7, 2022.
+    </li>
+    <li>
+    🧬 <b><a href="https://drive.google.com/file/d/1UvQCD4jXHFAPZVsZ_RtY8YaqNMiMe4OT/view?usp=sharing" target="_blank">First insights and comparative genomics of <i>Hox</i> and <i>ParaHox</i> genes in tadpole shrimps</a></b>.<br /> <i>EuroEvoDevo 2022</i>.<br /> Naples, Italy. May 31–Jun 3, 2022.
     </li>
   </ul>
 </details>
