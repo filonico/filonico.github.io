@@ -73,11 +73,11 @@ author_profile: true
 
 <h3>Selected papers</h3>
 <ul>
-  <li>Nicolini F, et al. (2025). <strong>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></li>
+  <li>Nicolini F, et al. (2025). <b>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</b>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></li>
 
-  <li>Iannello M, et al. (2025). <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></li>
+  <li>Iannello M, et al. (2025). <b>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</b>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></li>
 
-  <li>Nicolini F, et al. (2023). <strong>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</strong>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></li>
+  <li>Nicolini F, et al. (2023). <b>Bivalves as emerging model systems to study the mechanisms and evolution of sex determination: a genomic point of view</b>. <em>Genome Biology and Evolution</em>, <em>15</em>(10), evad181. doi: <a href="https://doi.org/10.1093/gbe/evad181" target="_blank">10.1093/gbe/evad181</a></li>
 </ul>
 
 
@@ -142,17 +142,17 @@ author_profile: true
 
 <h3>Selected papers</h3>
 <ul>
-  <li>Forni G, et al. 2026. <strong>Loss, persistence and reversal of phenotypic traits</strong>. <em>Biological Reviews</em>. doi: <a href="https://doi.org/10.1002/brv.70168" target="_blank">10.1002/brv.70168</a></li>
+  <li>Forni G, et al. 2026. <b>Loss, persistence and reversal of phenotypic traits</b>. <em>Biological Reviews</em>. doi: <a href="https://doi.org/10.1002/brv.70168" target="_blank">10.1002/brv.70168</a></li>
 
-  <li>Nicolini F, et al. 2025. <strong>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</strong>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></li>
+  <li>Nicolini F, et al. 2025. <b>Comparative genomics of sex‐determination‐related genes reveals shared evolutionary patterns between bivalves and mammals, but not fruit flies</b>. <em>Molecular Ecology</em>, <em>34</em>(20), e70103. doi: <a herf="https://doi.org/10.1111/mec.70103" target="_blank">10.1111/mec.70103</a></li>
 
-  <li>Forni G, et al. 2026. <strong>The elusive genomic signature of tadpole shrimps’ ancient morphology</strong>. <em>Biology Letters</em>, <em>22</em>(3), 20250130. doi: <a href="https://doi.org/10.1098/rsbl.2025.0130" target="_blank">10.1098/rsbl.2025.0130</a></li>
+  <li>Forni G, et al. 2026. <b>The elusive genomic signature of tadpole shrimps’ ancient morphology</b>. <em>Biology Letters</em>, <em>22</em>(3), 20250130. doi: <a href="https://doi.org/10.1098/rsbl.2025.0130" target="_blank">10.1098/rsbl.2025.0130</a></li>
 
-  <li>Nicolini F, et al. 2023. <strong>Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps</strong>. <em>Frontiers in Ecology and Evolution</em>, 11, 23. doi: <a href="https://doi.org/10.3389/fevo.2023.1046960" target="_blank">10.3389/fevo.2023.1046960</a></li>
+  <li>Nicolini F, et al. 2023. <b>Comparative genomics of Hox and ParaHox genes among major lineages of Branchiopoda with emphasis on tadpole shrimps</b>. <em>Frontiers in Ecology and Evolution</em>, 11, 23. doi: <a href="https://doi.org/10.3389/fevo.2023.1046960" target="_blank">10.3389/fevo.2023.1046960</a></li>
 
-  <li>Martelossi J, et al. 2023. <strong>Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution</strong>. <em>BMC Biology</em>, <em>21</em>(1), 1-23. doi: <a href="https://doi.org/10.1186/s12915-023-01632-z" target="_blank">10.1186/s12915-023-01632-z</a></p></li>
+  <li>Martelossi J, et al. 2023. <b>Multiple and diversified transposon lineages contribute to early and recent bivalve genome evolution</b>. <em>BMC Biology</em>, <em>21</em>(1), 1-23. doi: <a href="https://doi.org/10.1186/s12915-023-01632-z" target="_blank">10.1186/s12915-023-01632-z</a></p></li>
 
-  <li>Iannello M, et al. 2025. <strong>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</strong>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></li>
+  <li>Iannello M, et al. 2025. <b>New insights into mitochondrial segregation from the Doubly Uniparental Inheritance system in bivalves</b>. <em>BMC Biology</em>, <em>23</em>(1), 371. doi: <a href="https://doi.org/10.1186/s12915-025-02459-6" target="_blank">10.1186/s12915-025-02459-6</a></li>
 </ul>
 
 
